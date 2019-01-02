@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Borough on GourmandSyndrome</title>
+    <link>https://www.gourmandsyndrome.com/borough/</link>
+    <description>Recent content in Borough on GourmandSyndrome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.gourmandsyndrome.com/borough/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brooklyn</title>
+      <link>https://www.gourmandsyndrome.com/borough/brooklyn/</link>
+      <pubDate>Sun, 30 Dec 2018 23:50:54 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/borough/brooklyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manhattan</title>
+      <link>https://www.gourmandsyndrome.com/borough/manhattan/</link>
+      <pubDate>Wed, 26 Dec 2018 18:56:12 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/borough/manhattan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Queens</title>
+      <link>https://www.gourmandsyndrome.com/borough/queens/</link>
+      <pubDate>Fri, 28 Dec 2018 14:55:11 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/borough/queens/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
