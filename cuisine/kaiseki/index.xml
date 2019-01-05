@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaiseki on GourmandSyndrome</title>
+    <link>https://www.gourmandsyndrome.com/cuisine/kaiseki/</link>
+    <description>Recent content in Kaiseki on GourmandSyndrome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Dec 2018 17:05:57 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.gourmandsyndrome.com/cuisine/kaiseki/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hirohisa</title>
+      <link>https://www.gourmandsyndrome.com/posts/japanese/hirohisa/</link>
+      <pubDate>Sat, 29 Dec 2018 17:05:57 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/posts/japanese/hirohisa/</guid>
+      <description>Summary Hirohisa apparently has been around for a while, but they just received a Michelin star again this year.
+With that in mind, I felt the price point $160 pp for the 9-course tasting + $70 sake pairing was a decent price for splurging for a special someone&amp;rsquo;s birthday dinner.
+Just a note: they do respect some allergy restrictions. My guest had lobster specific allergies, and they were able to accomodate easy.</description>
+    </item>
+    
+    <item>
+      <title>Shuko</title>
+      <link>https://www.gourmandsyndrome.com/posts/japanese/shuko/</link>
+      <pubDate>Sun, 16 Sep 2018 14:22:07 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/posts/japanese/shuko/</guid>
+      <description>Really good. Got the kaiseki ($175), and they gave a lot of sushi pieces. The dessert, rhubarb sorbet, was really good.</description>
+    </item>
+    
+  </channel>
+</rss>
