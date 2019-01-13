@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/posts/spanish/boqueria/</loc>
+    <lastmod>2019-01-13T16:32:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/posts/chinese/456-new-shanghai/</loc>
+    <lastmod>2019-01-13T16:09:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/posts/mediterranean/taverna-kyclades/</loc>
+    <lastmod>2019-01-13T15:08:07-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/posts/mexican/oxomoco/</loc>
     <lastmod>2019-01-01T23:50:54-05:00</lastmod>
   </url>
@@ -1344,7 +1359,7 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/neighborhood/astoria/</loc>
-    <lastmod>2018-12-28T14:55:11-05:00</lastmod>
+    <lastmod>2019-01-13T15:08:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1384,6 +1399,12 @@
   </url>
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/cuisine/brunch/</loc>
+    <lastmod>2019-01-13T16:32:03-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/cuisine/burgers/</loc>
     <lastmod>2018-09-09T22:16:47-04:00</lastmod>
     <priority>0</priority>
@@ -1415,13 +1436,13 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/neighborhood/chinatown/</loc>
-    <lastmod>2018-09-16T14:56:18-04:00</lastmod>
+    <lastmod>2019-01-13T16:09:32-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/cuisine/chinese/</loc>
-    <lastmod>2018-12-21T19:02:35-05:00</lastmod>
+    <lastmod>2019-01-13T16:09:32-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1511,7 +1532,13 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2019-01-01T23:50:54-05:00</lastmod>
+    <lastmod>2019-01-13T16:32:03-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/cuisine/greek/</loc>
+    <lastmod>2019-01-13T15:08:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1595,13 +1622,13 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/borough/manhattan/</loc>
-    <lastmod>2019-01-05T17:05:57-05:00</lastmod>
+    <lastmod>2019-01-13T16:32:03-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/cuisine/mediterranean/</loc>
-    <lastmod>2018-09-16T17:43:20-04:00</lastmod>
+    <lastmod>2019-01-13T15:08:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1637,7 +1664,7 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/neighborhood/</loc>
-    <lastmod>2018-12-28T14:55:11-05:00</lastmod>
+    <lastmod>2019-01-13T15:08:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1679,7 +1706,7 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/posts/</loc>
-    <lastmod>2019-01-01T23:50:54-05:00</lastmod>
+    <lastmod>2019-01-13T16:32:03-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1691,7 +1718,7 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/borough/queens/</loc>
-    <lastmod>2018-12-28T14:55:11-05:00</lastmod>
+    <lastmod>2019-01-13T15:08:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1721,7 +1748,7 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/cuisine/seafood/</loc>
-    <lastmod>2018-09-16T21:30:42-04:00</lastmod>
+    <lastmod>2019-01-13T15:08:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1739,7 +1766,7 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/cuisine/spanish/</loc>
-    <lastmod>2018-09-16T21:44:25-04:00</lastmod>
+    <lastmod>2019-01-13T16:32:03-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1787,7 +1814,7 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/neighborhood/ues/</loc>
-    <lastmod>2018-09-16T21:19:08-04:00</lastmod>
+    <lastmod>2019-01-13T16:32:03-05:00</lastmod>
     <priority>0</priority>
   </url>
   

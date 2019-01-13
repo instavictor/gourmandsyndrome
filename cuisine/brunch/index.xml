@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brunch on GourmandSyndrome</title>
+    <link>https://www.gourmandsyndrome.com/cuisine/brunch/</link>
+    <description>Recent content in Brunch on GourmandSyndrome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Jan 2019 16:32:03 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.gourmandsyndrome.com/cuisine/brunch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Boqueria</title>
+      <link>https://www.gourmandsyndrome.com/posts/spanish/boqueria/</link>
+      <pubDate>Sat, 12 Jan 2019 16:32:03 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/posts/spanish/boqueria/</guid>
+      <description>Summary The brunch feast seems like a good thing. For $40, you get to pick 4 tapas, 2 main entrees (paella counts as 2), a dessert, and unlimited mimosas/sangrias.
+The spanish omelette (tortilla española) tasted similar to a breakfast quiche. Nothing too memorable about it.
+The bread with tomato with ham (pan con tomate con jamón) was ok.
+The albóndigas was nothing special for me. Basically lamb meatballs with marinara.</description>
+    </item>
+    
+  </channel>
+</rss>
