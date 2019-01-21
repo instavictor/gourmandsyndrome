@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/posts/ramen/mu-ramen/</loc>
-    <lastmod>2019-01-21T17:05:15-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/posts/pizza/massa/</loc>
     <lastmod>2019-01-21T17:00:57-05:00</lastmod>
   </url>
@@ -95,6 +90,11 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/posts/chinese/kung-fu-little-steamed-buns/</loc>
     <lastmod>2019-01-21T19:02:26-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/posts/ramen/mu-ramen/</loc>
+    <lastmod>2019-01-21T17:05:15-05:00</lastmod>
   </url>
   
   <url>
@@ -1542,7 +1542,7 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2019-01-21T17:05:15-05:00</lastmod>
+    <lastmod>2019-01-21T17:00:57-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1620,7 +1620,7 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/neighborhood/lic/</loc>
-    <lastmod>2019-01-21T17:05:15-05:00</lastmod>
+    <lastmod>2019-01-21T17:00:57-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1716,7 +1716,7 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/posts/</loc>
-    <lastmod>2019-01-21T17:05:15-05:00</lastmod>
+    <lastmod>2019-01-21T17:00:57-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1728,7 +1728,7 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/borough/queens/</loc>
-    <lastmod>2019-01-21T17:05:15-05:00</lastmod>
+    <lastmod>2019-01-21T17:00:57-05:00</lastmod>
     <priority>0</priority>
   </url>
   
