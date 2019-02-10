@@ -6,10 +6,22 @@
     <description>Recent content in West Village on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Sep 2018 17:28:09 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 02 Feb 2019 20:50:44 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/neighborhood/west-village/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Boucherie</title>
+      <link>https://www.gourmandsyndrome.com/posts/french/boucherie/</link>
+      <pubDate>Sat, 02 Feb 2019 20:50:44 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/posts/french/boucherie/</guid>
+      <description>Summary Walked in on a Saturday at 7 PM with no reservations, and it was packed despite it being pretty frigid outside.
+Luckily, we got seats at the bar.
+The french onion soup was really good. The gruyere cheese was nice and toasty, and the beef broth with the onions wasn&amp;rsquo;t salty like typical french onion soups.
+The porterhouse of course was cooked a perfect medium rare. The strip side was preferred over the filet mignon.</description>
+    </item>
     
     <item>
       <title>Berimbau Do Brasil</title>
@@ -227,15 +239,6 @@ Again, skip the lines and sit at the bar.</description>
       
       <guid>https://www.gourmandsyndrome.com/posts/bbq/mighty-quinns-bbq/</guid>
       <description>Their brisket is always good for the price.</description>
-    </item>
-    
-    <item>
-      <title>Due West</title>
-      <link>https://www.gourmandsyndrome.com/posts/bars/due-west/</link>
-      <pubDate>Sun, 09 Sep 2018 01:51:33 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/posts/bars/due-west/</guid>
-      <description>Great bar/vibe. This new-ish place is definitely going to be popular.</description>
     </item>
     
   </channel>
