@@ -6,10 +6,22 @@
     <description>Recent content in Queens on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jan 2019 17:00:57 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 09 Feb 2019 22:13:37 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/borough/queens/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Imperial Palace</title>
+      <link>https://www.gourmandsyndrome.com/posts/chinese/imperial-palace/</link>
+      <pubDate>Sat, 09 Feb 2019 22:13:37 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/posts/chinese/imperial-palace/</guid>
+      <description>Summary It&amp;rsquo;s a bit of a trek, but it&amp;rsquo;s a much cheaper place for Peking Duck.
+The whole peking duck was actually pretty good and reasonably price. The skin was a nice crisp, and the duck was pleasantly fat.
+The fried shrimp was mistakenly ordered. We thought it was going to be the whole pepper salted shrimp with head. Even then, it was also decent.
+The other dishes, pea sprouts and yang chow fried rice, were not much different than other Chinese places.</description>
+    </item>
     
     <item>
       <title>Massa Pizza</title>
@@ -230,15 +242,6 @@ This place is PERMA closed.</description>
       
       <guid>https://www.gourmandsyndrome.com/posts/burgers/baroness-bar/</guid>
       <description>Pretty good albeit expensive. The beer selection here is pretty good.</description>
-    </item>
-    
-    <item>
-      <title>Burger Garage</title>
-      <link>https://www.gourmandsyndrome.com/posts/burgers/burger-garage/</link>
-      <pubDate>Sun, 09 Sep 2018 22:15:47 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/posts/burgers/burger-garage/</guid>
-      <description>Reminds me of Pops but more standard burgers. Still pretty good and not too pricey.</description>
     </item>
     
   </channel>
