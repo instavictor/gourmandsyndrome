@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nyc/Neighborhood on Gourmand Syndrome</title>
+    <link>https://www.gourmandsyndrome.com/nyc/neighborhood/</link>
+    <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Mar 2019 14:15:13 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chelsea</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</link>
+      <pubDate>Thu, 07 Mar 2019 14:15:13 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greenpoint</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/greenpoint/</link>
+      <pubDate>Sun, 17 Feb 2019 22:32:03 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/greenpoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Koreatown</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/koreatown/</link>
+      <pubDate>Sun, 10 Mar 2019 14:45:42 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/koreatown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Midtown West</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</link>
+      <pubDate>Sun, 17 Mar 2019 15:15:11 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chelsea on Gourmand Syndrome</title>
+    <link>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</link>
+    <description>Recent content in Chelsea on Gourmand Syndrome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Mar 2019 14:15:13 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kogane Ramen</title>
+      <link>https://www.gourmandsyndrome.com/nyc/ramen/kogane-ramen/</link>
+      <pubDate>Thu, 07 Mar 2019 14:15:13 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/ramen/kogane-ramen/</guid>
+      <description>Summary This is a relatively new spot that has opened up in the last couple months.
+The pork buns were surprisingly decent. I think they were a little expensive for each as is most Manhattan foods, but it was good.
+What was interesting to me was lobster ramen. It had miso flavored soup broth and of course lobster meat with shells. They gave a shell cracker on the side, and they definitely did not skimp on the meat.</description>
+    </item>
+    
+  </channel>
+</rss>
