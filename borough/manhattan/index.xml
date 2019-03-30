@@ -6,10 +6,21 @@
     <description>Recent content in Manhattan on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Mar 2019 21:54:06 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2019 14:26:50 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/borough/manhattan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ivan Ramen</title>
+      <link>https://www.gourmandsyndrome.com/nyc/ramen/ivan-ramen/</link>
+      <pubDate>Tue, 26 Mar 2019 14:26:50 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/ramen/ivan-ramen/</guid>
+      <description>Summary I don&amp;rsquo;t know much about this ramen spot other than it was on Chef&amp;rsquo;s Table, and how it really touched a lot of people&amp;rsquo;s hearts. So my review will be almost based solely on the food itself.
+The pork musubi bites were surprisingly good. Each bite is packed full of flavor, although I am rather doubtful that it&amp;rsquo;s worth $5 a piece.
+The Japanese fried chicken were an interesting spin on karaage.</description>
+    </item>
     
     <item>
       <title>Thai Noodle House</title>
@@ -255,15 +266,6 @@ The brisket was very dry and overcooked for what it was. Although it was the lea
       
       <guid>https://www.gourmandsyndrome.com/nyc/vietnamese/di-an-di/</guid>
       <description>The pho was ok, and so was the dried vermicelli. It&amp;rsquo;s a bit expensive for what you get, but also not bad. I probably would still prefer to go to other Vietnamese places, though good Vietnamese places are hard to find in Manhattan. The decor is nice, but food wise - if anyone likes this place, I don&amp;rsquo;t trust their palette.</description>
-    </item>
-    
-    <item>
-      <title>Ninja</title>
-      <link>https://www.gourmandsyndrome.com/nyc/japanese/ninja/</link>
-      <pubDate>Fri, 09 Nov 2018 13:47:21 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/japanese/ninja/</guid>
-      <description>Food was bland, but the steak was surprisingly good for a touristy spot. There are a lot of scares from the ninja waiters. The sushi itself was also pretty bland and mediocre.</description>
     </item>
     
   </channel>
