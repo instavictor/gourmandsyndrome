@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>West Village on Gourmand Syndrome</title>
+    <link>https://www.gourmandsyndrome.com/nyc/neighborhood/west-village/</link>
+    <description>Recent content in West Village on Gourmand Syndrome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 01:51:33 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/west-village/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Due West</title>
+      <link>https://www.gourmandsyndrome.com/nyc/bars/due-west/</link>
+      <pubDate>Sun, 09 Sep 2018 01:51:33 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/bars/due-west/</guid>
+      <description>Great bar/vibe. This new-ish place is definitely going to be popular.</description>
+    </item>
+    
+    <item>
+      <title>The Otheroom</title>
+      <link>https://www.gourmandsyndrome.com/nyc/bars/the-otheroom/</link>
+      <pubDate>Sun, 09 Sep 2018 01:48:36 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/bars/the-otheroom/</guid>
+      <description>Good date vibe in the West Village.</description>
+    </item>
+    
+    <item>
+      <title>Standard Biergarten</title>
+      <link>https://www.gourmandsyndrome.com/nyc/bars/standard-biergarten/</link>
+      <pubDate>Sun, 09 Sep 2018 01:13:19 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/bars/standard-biergarten/</guid>
+      <description>Vibe reminds me of Wurstkuche in Los Angeles. But without the distinct dogs and beers. Still cool though.</description>
+    </item>
+    
+    <item>
+      <title>Employees Only</title>
+      <link>https://www.gourmandsyndrome.com/nyc/bars/employees-only/</link>
+      <pubDate>Sun, 09 Sep 2018 01:05:32 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/bars/employees-only/</guid>
+      <description>It&amp;rsquo;s alright. Bar gets crowded. Food is decent. It&amp;rsquo;s a has been.</description>
+    </item>
+    
+  </channel>
+</rss>
