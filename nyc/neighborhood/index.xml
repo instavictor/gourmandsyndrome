@@ -6,35 +6,26 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Mar 2019 14:15:13 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 22:27:33 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Chelsea</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</link>
-      <pubDate>Thu, 07 Mar 2019 14:15:13 -0400</pubDate>
+      <title>LIC</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</link>
+      <pubDate>Fri, 19 Apr 2019 22:27:33 -0400</pubDate>
       
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</guid>
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cobble Hill</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/cobble-hill/</link>
-      <pubDate>Sun, 09 Sep 2018 01:47:12 -0400</pubDate>
+      <title>Greenwich Village</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/greenwich-village/</link>
+      <pubDate>Tue, 16 Apr 2019 22:05:50 -0400</pubDate>
       
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/cobble-hill/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>East Village</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/east-village/</link>
-      <pubDate>Sun, 09 Sep 2018 01:30:49 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/east-village/</guid>
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/greenwich-village/</guid>
       <description></description>
     </item>
     
@@ -48,38 +39,11 @@
     </item>
     
     <item>
-      <title>Greenpoint</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/greenpoint/</link>
-      <pubDate>Sun, 17 Feb 2019 22:32:03 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/greenpoint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Koreatown</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/koreatown/</link>
-      <pubDate>Sun, 10 Mar 2019 14:45:42 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/koreatown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Les</title>
+      <title>LES</title>
       <link>https://www.gourmandsyndrome.com/nyc/neighborhood/les/</link>
       <pubDate>Fri, 12 Apr 2019 14:58:13 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/les/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lic</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</link>
-      <pubDate>Sat, 23 Mar 2019 21:30:11 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</guid>
       <description></description>
     </item>
     
@@ -93,29 +57,182 @@
     </item>
     
     <item>
-      <title>Union Square</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/union-square/</link>
-      <pubDate>Sun, 09 Sep 2018 01:40:35 -0400</pubDate>
+      <title>Koreatown</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/koreatown/</link>
+      <pubDate>Sun, 10 Mar 2019 14:45:42 -0400</pubDate>
       
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/union-square/</guid>
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/koreatown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chelsea</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</link>
+      <pubDate>Thu, 07 Mar 2019 14:15:13 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greenpoint</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/greenpoint/</link>
+      <pubDate>Sat, 23 Feb 2019 19:47:29 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/greenpoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chinatown</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/chinatown/</link>
+      <pubDate>Sun, 17 Feb 2019 19:30:41 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/chinatown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flushing</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/flushing/</link>
+      <pubDate>Sat, 09 Feb 2019 22:13:37 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/flushing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UWS</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/uws/</link>
+      <pubDate>Sun, 03 Feb 2019 21:08:31 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/uws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>West Village</title>
       <link>https://www.gourmandsyndrome.com/nyc/neighborhood/west-village/</link>
-      <pubDate>Sun, 09 Sep 2018 01:51:33 -0400</pubDate>
+      <pubDate>Sat, 02 Feb 2019 20:50:44 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/west-village/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Gowanus</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/gowanus/</link>
+      <pubDate>Sat, 19 Jan 2019 23:33:24 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/gowanus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UES</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/ues/</link>
+      <pubDate>Sat, 12 Jan 2019 16:32:03 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/ues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Astoria</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/astoria/</link>
+      <pubDate>Sat, 05 Jan 2019 15:08:07 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/astoria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South Village</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/south-village/</link>
+      <pubDate>Sat, 29 Dec 2018 17:05:57 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/south-village/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>East Village</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/east-village/</link>
+      <pubDate>Fri, 21 Dec 2018 19:02:35 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/east-village/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Midtown East</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-east/</link>
+      <pubDate>Sat, 24 Nov 2018 19:02:26 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-east/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tribeca</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/tribeca/</link>
+      <pubDate>Fri, 09 Nov 2018 13:47:21 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/tribeca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Williamsburg</title>
       <link>https://www.gourmandsyndrome.com/nyc/neighborhood/williamsburg/</link>
-      <pubDate>Sun, 16 Sep 2018 13:15:13 -0400</pubDate>
+      <pubDate>Thu, 11 Oct 2018 22:13:19 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/williamsburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fidi</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/fidi/</link>
+      <pubDate>Sat, 29 Sep 2018 17:36:53 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/fidi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bushwick</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/bushwick/</link>
+      <pubDate>Sun, 16 Sep 2018 22:12:38 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/bushwick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Union Square</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/union-square/</link>
+      <pubDate>Sun, 16 Sep 2018 21:44:25 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/union-square/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carroll Gardens</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/carroll-gardens/</link>
+      <pubDate>Sun, 16 Sep 2018 21:14:58 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/carroll-gardens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kips Bay</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/kips-bay/</link>
+      <pubDate>Sun, 16 Sep 2018 18:26:23 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/kips-bay/</guid>
       <description></description>
     </item>
     

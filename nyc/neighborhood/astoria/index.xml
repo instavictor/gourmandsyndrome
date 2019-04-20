@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astoria on Gourmand Syndrome</title>
+    <link>https://www.gourmandsyndrome.com/nyc/neighborhood/astoria/</link>
+    <description>Recent content in Astoria on Gourmand Syndrome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Jan 2019 15:08:07 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/astoria/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Taverna Kyclades</title>
+      <link>https://www.gourmandsyndrome.com/nyc/mediterranean/taverna-kyclades/</link>
+      <pubDate>Sat, 05 Jan 2019 15:08:07 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/mediterranean/taverna-kyclades/</guid>
+      <description>Summary We came here around 8:30 PM on a rather cold Saturday evening. Typically there is a long line outside, but today people were crowded and bundled up inside. I put my name down for 2. The wait was approximately 40-50 minutes. We had contemplated leaving when we heard the wait time, but we decided to power through and wait. It was worth it.
+The greek salad was pretty straight forward but large.</description>
+    </item>
+    
+    <item>
+      <title>Favela Grill</title>
+      <link>https://www.gourmandsyndrome.com/nyc/brazilian/favela-grill/</link>
+      <pubDate>Fri, 28 Dec 2018 14:55:11 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/brazilian/favela-grill/</guid>
+      <description>Had the churrasco here, and it was pretty good. The chicken and sausage was good. Make sure the steak is ordered medium rare. We ordered medium, and it came out borderline medium well. The caipirinha was really good too. Get the passion fruit and guava. Avoid the kiwi.</description>
+    </item>
+    
+    <item>
+      <title>Tamashii Ramen</title>
+      <link>https://www.gourmandsyndrome.com/nyc/ramen/tamashii-ramen/</link>
+      <pubDate>Sun, 07 Oct 2018 22:15:20 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/ramen/tamashii-ramen/</guid>
+      <description>Decent ramen noodles. Soup was a little salty. The egg was disappointing.</description>
+    </item>
+    
+  </channel>
+</rss>

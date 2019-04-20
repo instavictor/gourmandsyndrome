@@ -6,22 +6,40 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Mar 2019 21:30:11 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 22:27:33 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Bars</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/bars/</link>
-      <pubDate>Sat, 23 Mar 2019 21:30:11 -0400</pubDate>
+      <title>Chinese</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</link>
+      <pubDate>Fri, 19 Apr 2019 22:27:33 -0400</pubDate>
       
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/bars/</guid>
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Burgers</title>
+      <title>vegetarian</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/vegetarian/</link>
+      <pubDate>Tue, 16 Apr 2019 22:05:50 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/vegetarian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italian</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</link>
+      <pubDate>Sat, 13 Apr 2019 15:35:57 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>burgers</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/burgers/</link>
       <pubDate>Fri, 12 Apr 2019 14:58:13 -0400</pubDate>
       
@@ -39,38 +57,20 @@
     </item>
     
     <item>
-      <title>Fried Chicken</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/fried-chicken/</link>
-      <pubDate>Sun, 16 Sep 2018 13:15:13 -0400</pubDate>
+      <title>ramen</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/ramen/</link>
+      <pubDate>Tue, 26 Mar 2019 14:26:50 -0400</pubDate>
       
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/fried-chicken/</guid>
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/ramen/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Italian</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</link>
-      <pubDate>Sat, 13 Apr 2019 15:35:57 -0400</pubDate>
+      <title>thai</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/thai/</link>
+      <pubDate>Sun, 24 Mar 2019 21:54:06 -0400</pubDate>
       
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Korean</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/korean/</link>
-      <pubDate>Sun, 10 Mar 2019 14:45:42 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/korean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mezcal</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/mezcal/</link>
-      <pubDate>Sun, 09 Sep 2018 01:25:55 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/mezcal/</guid>
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/thai/</guid>
       <description></description>
     </item>
     
@@ -84,65 +84,155 @@
     </item>
     
     <item>
-      <title>Piano</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/piano/</link>
-      <pubDate>Sun, 09 Sep 2018 01:49:52 -0400</pubDate>
+      <title>bars</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/bars/</link>
+      <pubDate>Sat, 23 Mar 2019 21:30:11 -0400</pubDate>
       
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/piano/</guid>
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/bars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korean</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/korean/</link>
+      <pubDate>Sun, 10 Mar 2019 14:45:42 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/korean/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pizza</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/pizza/</link>
-      <pubDate>Sun, 17 Feb 2019 22:32:03 -0500</pubDate>
+      <pubDate>Sat, 23 Feb 2019 19:47:29 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/pizza/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ramen</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/ramen/</link>
-      <pubDate>Tue, 26 Mar 2019 14:26:50 -0400</pubDate>
+      <title>Brazilian</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/brazilian/</link>
+      <pubDate>Sat, 16 Feb 2019 23:13:28 -0500</pubDate>
       
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/ramen/</guid>
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/brazilian/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Scotch</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/scotch/</link>
-      <pubDate>Sun, 09 Sep 2018 01:23:20 -0400</pubDate>
+      <title>BBQ</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/bbq/</link>
+      <pubDate>Sat, 19 Jan 2019 23:33:24 -0500</pubDate>
       
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/scotch/</guid>
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/bbq/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Speakeasy</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/speakeasy/</link>
-      <pubDate>Sun, 09 Sep 2018 01:35:55 -0400</pubDate>
+      <title>Spanish</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/spanish/</link>
+      <pubDate>Sat, 12 Jan 2019 16:32:03 -0500</pubDate>
       
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/speakeasy/</guid>
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/spanish/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Thai</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/thai/</link>
-      <pubDate>Sun, 24 Mar 2019 21:54:06 -0400</pubDate>
+      <title>Greek</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/greek/</link>
+      <pubDate>Sat, 05 Jan 2019 15:08:07 -0500</pubDate>
       
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/thai/</guid>
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/greek/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tiki</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/tiki/</link>
-      <pubDate>Sun, 09 Sep 2018 01:28:40 -0400</pubDate>
+      <title>Mediterranean</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/mediterranean/</link>
+      <pubDate>Sat, 05 Jan 2019 15:08:07 -0500</pubDate>
       
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/tiki/</guid>
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/mediterranean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seafood</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/seafood/</link>
+      <pubDate>Sat, 05 Jan 2019 15:08:07 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/seafood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mexican</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/mexican/</link>
+      <pubDate>Sun, 30 Dec 2018 23:50:54 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/mexican/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>michelin star</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/michelin-star/</link>
+      <pubDate>Sun, 30 Dec 2018 23:50:54 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/michelin-star/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Japanese</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</link>
+      <pubDate>Sat, 29 Dec 2018 17:05:57 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaiseki</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/kaiseki/</link>
+      <pubDate>Sat, 29 Dec 2018 17:05:57 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/kaiseki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fried chicken</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/fried-chicken/</link>
+      <pubDate>Sat, 15 Dec 2018 19:14:46 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/fried-chicken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lomo Saltado</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/lomo-saltado/</link>
+      <pubDate>Fri, 07 Dec 2018 19:24:07 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/lomo-saltado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peruvian</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/peruvian/</link>
+      <pubDate>Fri, 07 Dec 2018 19:24:07 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/peruvian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>desserts</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/desserts/</link>
+      <pubDate>Sun, 02 Dec 2018 19:07:59 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/desserts/</guid>
       <description></description>
     </item>
     
