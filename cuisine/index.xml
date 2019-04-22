@@ -6,10 +6,37 @@
     <description>Recent content in Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Apr 2019 22:27:33 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2019 20:26:36 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>desserts</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/desserts/</link>
+      <pubDate>Sat, 20 Apr 2019 20:26:36 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/desserts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brazilian</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/brazilian/</link>
+      <pubDate>Sat, 20 Apr 2019 19:59:30 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/brazilian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuban</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/cuban/</link>
+      <pubDate>Sat, 20 Apr 2019 19:59:30 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/cuban/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chinese</title>
@@ -111,15 +138,6 @@
     </item>
     
     <item>
-      <title>Brazilian</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/brazilian/</link>
-      <pubDate>Sat, 16 Feb 2019 23:13:28 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/brazilian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>BBQ</title>
       <link>https://www.gourmandsyndrome.com/cuisine/bbq/</link>
       <pubDate>Sat, 19 Jan 2019 23:33:24 -0500</pubDate>
@@ -215,24 +233,6 @@
       <pubDate>Sat, 15 Dec 2018 19:14:46 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/fried-chicken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lomo saltado</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/lomo-saltado/</link>
-      <pubDate>Fri, 07 Dec 2018 19:24:07 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/lomo-saltado/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>peruvian</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/peruvian/</link>
-      <pubDate>Fri, 07 Dec 2018 19:24:07 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/peruvian/</guid>
       <description></description>
     </item>
     
