@@ -6,10 +6,19 @@
     <description>Recent content in Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Apr 2019 23:49:42 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2019 16:41:15 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Noho</title>
+      <link>https://www.gourmandsyndrome.com/neighborhood/noho/</link>
+      <pubDate>Sat, 27 Apr 2019 16:41:15 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/neighborhood/noho/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Midtown East</title>
@@ -224,15 +233,6 @@
       <pubDate>Sun, 16 Sep 2018 21:14:58 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/neighborhood/carroll-gardens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kips Bay</title>
-      <link>https://www.gourmandsyndrome.com/neighborhood/kips-bay/</link>
-      <pubDate>Sun, 16 Sep 2018 18:26:23 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/neighborhood/kips-bay/</guid>
       <description></description>
     </item>
     
