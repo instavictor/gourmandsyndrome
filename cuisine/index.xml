@@ -6,10 +6,28 @@
     <description>Recent content in Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Apr 2019 16:41:15 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2019 17:55:03 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>cuban</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/cuban/</link>
+      <pubDate>Sun, 05 May 2019 17:55:03 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/cuban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Japanese</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/japanese/</link>
+      <pubDate>Sat, 04 May 2019 17:37:21 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/japanese/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>French</title>
@@ -35,15 +53,6 @@
       <pubDate>Sat, 20 Apr 2019 19:59:30 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/brazilian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cuban</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/cuban/</link>
-      <pubDate>Sat, 20 Apr 2019 19:59:30 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/cuban/</guid>
       <description></description>
     </item>
     
@@ -206,15 +215,6 @@
       <pubDate>Sun, 30 Dec 2018 23:50:54 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/michelin-star/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Japanese</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/japanese/</link>
-      <pubDate>Sat, 29 Dec 2018 17:05:57 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/japanese/</guid>
       <description></description>
     </item>
     

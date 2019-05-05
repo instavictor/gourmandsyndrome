@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cuban on Gourmand Syndrome</title>
+    <title>cuban on Gourmand Syndrome</title>
     <link>https://www.gourmandsyndrome.com/cuisine/cuban/</link>
-    <description>Recent content in Cuban on Gourmand Syndrome</description>
+    <description>Recent content in cuban on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Apr 2019 19:59:30 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2019 17:55:03 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/cuisine/cuban/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Victor&#39;s Cafe</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuban/victors-cafe/</link>
+      <pubDate>Sun, 05 May 2019 17:55:03 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuban/victors-cafe/</guid>
+      <description>Summary The ambiance and decor of this place is pretty interesting. On Sundays, they have live cuban music playing which is pretty nice.
+The virgin passion fruit drink was pretty good. It had no alcohol of course, but it came with a sugarcane in it. The juice was not too sweet, and tasted decently fresh.
+The ceviche de pargo was surprisingly pretty good. I&amp;rsquo;m normally not a fan of ceviche barring a few places that do it extremely well.</description>
+    </item>
     
     <item>
       <title>Favela Cubana</title>

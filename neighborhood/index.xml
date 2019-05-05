@@ -6,10 +6,28 @@
     <description>Recent content in Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Apr 2019 16:41:15 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2019 17:55:03 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Midtown West</title>
+      <link>https://www.gourmandsyndrome.com/neighborhood/midtown-west/</link>
+      <pubDate>Sun, 05 May 2019 17:55:03 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/neighborhood/midtown-west/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Astoria</title>
+      <link>https://www.gourmandsyndrome.com/neighborhood/astoria/</link>
+      <pubDate>Sat, 04 May 2019 17:37:21 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/neighborhood/astoria/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Noho</title>
@@ -62,15 +80,6 @@
       <pubDate>Fri, 12 Apr 2019 14:58:13 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/neighborhood/les/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Midtown West</title>
-      <link>https://www.gourmandsyndrome.com/neighborhood/midtown-west/</link>
-      <pubDate>Sun, 24 Mar 2019 21:54:06 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/neighborhood/midtown-west/</guid>
       <description></description>
     </item>
     
@@ -152,15 +161,6 @@
       <pubDate>Sat, 12 Jan 2019 16:32:03 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/neighborhood/ues/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Astoria</title>
-      <link>https://www.gourmandsyndrome.com/neighborhood/astoria/</link>
-      <pubDate>Sat, 05 Jan 2019 15:08:07 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/neighborhood/astoria/</guid>
       <description></description>
     </item>
     
