@@ -174,13 +174,13 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/cuisine/bbq/</loc>
+    <loc>https://www.gourmandsyndrome.com/dc/cuisine/bbq/</loc>
     <lastmod>2019-05-04T15:45:38-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/dc/cuisine/bbq/</loc>
+    <loc>https://www.gourmandsyndrome.com/cuisine/bbq/</loc>
     <lastmod>2019-05-04T15:45:38-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -543,13 +543,13 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/lax/neighborhood/pasadena/</loc>
+    <loc>https://www.gourmandsyndrome.com/neighborhood/pasadena/</loc>
     <lastmod>2019-04-12T00:43:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/neighborhood/pasadena/</loc>
+    <loc>https://www.gourmandsyndrome.com/lax/neighborhood/pasadena/</loc>
     <lastmod>2019-04-12T00:43:34-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -566,13 +566,13 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/lax/neighborhood/hancock-park/</loc>
+    <loc>https://www.gourmandsyndrome.com/neighborhood/hancock-park/</loc>
     <lastmod>2019-03-12T00:43:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/neighborhood/hancock-park/</loc>
+    <loc>https://www.gourmandsyndrome.com/lax/neighborhood/hancock-park/</loc>
     <lastmod>2019-03-12T00:43:34-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -607,25 +607,25 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/lax/neighborhood/anaheim/</loc>
-    <lastmod>2019-04-14T00:43:34-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/neighborhood/anaheim/</loc>
     <lastmod>2019-04-14T00:43:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/cuisine/disney/</loc>
+    <loc>https://www.gourmandsyndrome.com/lax/neighborhood/anaheim/</loc>
     <lastmod>2019-04-14T00:43:34-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/lax/cuisine/disney/</loc>
+    <lastmod>2019-04-14T00:43:34-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/cuisine/disney/</loc>
     <lastmod>2019-04-14T00:43:34-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -653,13 +653,13 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/lax/neighborhood/sgv/</loc>
+    <loc>https://www.gourmandsyndrome.com/neighborhood/sgv/</loc>
     <lastmod>2019-03-07T23:26:16-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/neighborhood/sgv/</loc>
+    <loc>https://www.gourmandsyndrome.com/lax/neighborhood/sgv/</loc>
     <lastmod>2019-03-07T23:26:16-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1002,18 +1002,18 @@
   </url>
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/michelin-star/</loc>
+    <lastmod>2019-01-05T17:05:57-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/mexican/oxomoco/</loc>
     <lastmod>2019-01-01T23:50:54-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/cuisine/michelin-star/</loc>
-    <lastmod>2019-01-05T17:05:57-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/michelin-star/</loc>
     <lastmod>2019-01-05T17:05:57-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1930,18 +1930,18 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/omakase/</loc>
-    <lastmod>2018-09-16T14:28:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/japanese/sushi-on-jones/</loc>
     <lastmod>2018-09-16T14:28:05-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/cuisine/omakase/</loc>
+    <lastmod>2018-09-16T14:28:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/omakase/</loc>
     <lastmod>2018-09-16T14:28:05-04:00</lastmod>
     <priority>0</priority>
   </url>
