@@ -2058,8 +2058,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
   }
 
   _axios.default.get("/".concat(sidebarPath, "/")).then(function (resp) {
-    return resp.text();
-    ;
+    return resp.data;
   }).then(function (html) {
     // load the sidebar frag
     var docFrag = document.createDocumentFragment();
