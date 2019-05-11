@@ -6,9 +6,46 @@
     <description>Recent content in Lax/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 28 Feb 2019 00:43:34 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/lax/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pasadena</title>
+      <link>https://www.gourmandsyndrome.com/lax/neighborhood/pasadena/</link>
+      <pubDate>Thu, 28 Feb 2019 00:43:34 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/lax/neighborhood/pasadena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hancock Park</title>
+      <link>https://www.gourmandsyndrome.com/lax/neighborhood/hancock-park/</link>
+      <pubDate>Wed, 27 Feb 2019 00:43:34 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/lax/neighborhood/hancock-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anaheim</title>
+      <link>https://www.gourmandsyndrome.com/lax/neighborhood/anaheim/</link>
+      <pubDate>Mon, 25 Feb 2019 00:43:34 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/lax/neighborhood/anaheim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SGV</title>
+      <link>https://www.gourmandsyndrome.com/lax/neighborhood/sgv/</link>
+      <pubDate>Sun, 24 Feb 2019 23:26:16 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/lax/neighborhood/sgv/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

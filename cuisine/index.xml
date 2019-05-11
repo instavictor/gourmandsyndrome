@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>BBQ</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/bbq/</link>
+      <pubDate>Sat, 27 Apr 2019 15:45:38 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/bbq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>desserts</title>
       <link>https://www.gourmandsyndrome.com/cuisine/desserts/</link>
       <pubDate>Sat, 20 Apr 2019 20:26:36 -0400</pubDate>
@@ -138,6 +147,33 @@
     </item>
     
     <item>
+      <title>lomo saltado</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/lomo-saltado/</link>
+      <pubDate>Wed, 27 Feb 2019 00:43:34 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/lomo-saltado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>peruvian</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/peruvian/</link>
+      <pubDate>Wed, 27 Feb 2019 00:43:34 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/peruvian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disney</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/disney/</link>
+      <pubDate>Mon, 25 Feb 2019 00:43:34 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/disney/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pizza</title>
       <link>https://www.gourmandsyndrome.com/cuisine/pizza/</link>
       <pubDate>Sat, 23 Feb 2019 19:47:29 -0500</pubDate>
@@ -147,11 +183,29 @@
     </item>
     
     <item>
-      <title>BBQ</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/bbq/</link>
-      <pubDate>Sat, 19 Jan 2019 23:33:24 -0500</pubDate>
+      <title>Cajun</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/cajun/</link>
+      <pubDate>Sat, 26 Jan 2019 13:50:05 -0500</pubDate>
       
-      <guid>https://www.gourmandsyndrome.com/cuisine/bbq/</guid>
+      <guid>https://www.gourmandsyndrome.com/cuisine/cajun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>American</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/american/</link>
+      <pubDate>Thu, 24 Jan 2019 13:50:05 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/american/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seafood</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/seafood/</link>
+      <pubDate>Wed, 23 Jan 2019 13:50:05 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/seafood/</guid>
       <description></description>
     </item>
     
@@ -179,60 +233,6 @@
       <pubDate>Sat, 05 Jan 2019 15:08:07 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/greek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mediterranean</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/mediterranean/</link>
-      <pubDate>Sat, 05 Jan 2019 15:08:07 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/mediterranean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>seafood</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/seafood/</link>
-      <pubDate>Sat, 05 Jan 2019 15:08:07 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/seafood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mexican</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/mexican/</link>
-      <pubDate>Sun, 30 Dec 2018 23:50:54 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/mexican/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>michelin star</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/michelin-star/</link>
-      <pubDate>Sun, 30 Dec 2018 23:50:54 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/michelin-star/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kaiseki</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/kaiseki/</link>
-      <pubDate>Sat, 29 Dec 2018 17:05:57 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/kaiseki/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fried chicken</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/fried-chicken/</link>
-      <pubDate>Sat, 15 Dec 2018 19:14:46 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/fried-chicken/</guid>
       <description></description>
     </item>
     

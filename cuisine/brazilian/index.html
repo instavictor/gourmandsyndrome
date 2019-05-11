@@ -50,7 +50,7 @@ if (!doNotTrack) {
 
 
 
-  	<link href="/dist/css/gs.css" rel="stylesheet">
+  	<link href="/dist/gs.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
@@ -58,36 +58,81 @@ if (!doNotTrack) {
 
 
 <body><header>
-	<div class="logo" onclick="window.location='/';"></div>
-	<i id="burger" class="fas fa-bars"></i>
+	
+	<span class="logo line-1" onclick="window.location='/';">Gourmand</span>
+	<span class="logo line-2" onclick="window.location='/';">Syndrome</span>
+	
 </header>
-<div>
-    <main class="content">
+<section id="menu">
+	<ul>
+		<li>
+			<div><a id="cities" href="#">Cities</a></div>
+			<div class="cities">
+				
 
-    <section>
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+
+				
+				
+					<div><a href="/anc">ANC</a></div>
+					<div><a href="/dc">DC</a></div>
+					<div><a href="/lax">LAX</a></div>
+					<div><a href="/nyc">NYC</a></div></div>
+		</li>
+		
+	</ul>
+</section>
+<section id="main">
+    <section id="content">
+
+    <article>
         <div class="title">
-            <a href="https://www.gourmandsyndrome.com/nyc/brazilian/favela-cubana/">Favela Cubana</a> 
-            
-                <span class="posted">Updated April 21, 2019</span>
-            
+            <a href="https://www.gourmandsyndrome.com/nyc/brazilian/favela-cubana/">Favela Cubana</a>
         </div>
 
         
-            <div class="meta borough">
-                <i class="fas fa-city icons"></i> <a href="/borough/manhattan">Manhattan</a>
+        
+
+        
+            <div class="meta">
+                
+                <i class="fas fa-globe icons"></i> <a href="nyc">NYC</a>
             </div>
         
 
         
+            <div class="meta borough">
+                <i class="fas fa-city icons"></i> <a href="/nyc/borough/manhattan">Manhattan</a>
+            </div>
+        
+        
+
+        
             <div class="meta neighborhood">
-                <i class="fas fa-home icons"></i> <a href="/neighborhood/greenwich-village">Greenwich Village</a>
+                
+                <i class="fas fa-home icons"></i> <a href="/nyc/neighborhood/greenwich-village">Greenwich Village</a>
             </div>
         
 
         
             <div class="meta cuisine">
                 <i class="fas fa-utensils icons"></i>
-                <a href="/cuisine/brazilian">Brazilian</a><a href="/cuisine/cuban">Cuban</a>
+                
+                    <a href="/nyc/cuisine/brazilian">Brazilian</a>
+                    <a href="/nyc/cuisine/cuban">Cuban</a>
             </div>
         
 
@@ -103,6 +148,10 @@ if (!doNotTrack) {
             </div>
         
 
+        
+            <div class="posted">Updated April 21, 2019</div>
+        
+
         <div class="summary">
             This place has a nice patio and great service. The waitress was very attentive, and the ambiance is definitely very easy-going.
 But let&rsquo;s talk about the food.
@@ -110,37 +159,47 @@ The mama margarita I didn&rsquo;t quite like. It was rather strong and for whate
         
         
             <div class="read-more">
-                <a href="https://www.gourmandsyndrome.com/nyc/brazilian/favela-cubana/">Read More</a>
+                <button><a href="https://www.gourmandsyndrome.com/nyc/brazilian/favela-cubana/">Read More</a></button>
             </div>
         
 
 
-    </section>
+    </article>
 
-    <section>
+    <article>
         <div class="title">
-            <a href="https://www.gourmandsyndrome.com/nyc/brazilian/emporium-brasil/">Emporium Brasil</a> 
-            
-                <span class="posted">Updated February 17, 2019</span>
-            
+            <a href="https://www.gourmandsyndrome.com/nyc/brazilian/emporium-brasil/">Emporium Brasil</a>
         </div>
 
         
-            <div class="meta borough">
-                <i class="fas fa-city icons"></i> <a href="/borough/manhattan">Manhattan</a>
+        
+
+        
+            <div class="meta">
+                
+                <i class="fas fa-globe icons"></i> <a href="nyc">NYC</a>
             </div>
+        
+
+        
+            <div class="meta borough">
+                <i class="fas fa-city icons"></i> <a href="/nyc/borough/manhattan">Manhattan</a>
+            </div>
+        
         
 
         
             <div class="meta neighborhood">
-                <i class="fas fa-home icons"></i> <a href="/neighborhood/midtown-west">Midtown West</a>
+                
+                <i class="fas fa-home icons"></i> <a href="/nyc/neighborhood/midtown-west">Midtown West</a>
             </div>
         
 
         
             <div class="meta cuisine">
                 <i class="fas fa-utensils icons"></i>
-                <a href="/cuisine/brazilian">Brazilian</a>
+                
+                    <a href="/nyc/cuisine/brazilian">Brazilian</a>
             </div>
         
 
@@ -156,6 +215,10 @@ The mama margarita I didn&rsquo;t quite like. It was rather strong and for whate
             </div>
         
 
+        
+            <div class="posted">Updated February 17, 2019</div>
+        
+
         <div class="summary">
             This is probably one of my favorite Brazilian spots. The food all in all was pretty good, as well as some of the drinks.
 Typically, we order caipirinhas. But they had something called batidas. Batidas basically substitute the white sugar for condensed milk. It was interesting and good to me.
@@ -163,37 +226,47 @@ Every dish comes with a side of rice, beans, salsa, farofa, yucca fried chips, a
         
         
             <div class="read-more">
-                <a href="https://www.gourmandsyndrome.com/nyc/brazilian/emporium-brasil/">Read More</a>
+                <button><a href="https://www.gourmandsyndrome.com/nyc/brazilian/emporium-brasil/">Read More</a></button>
             </div>
         
 
 
-    </section>
+    </article>
 
-    <section>
+    <article>
         <div class="title">
-            <a href="https://www.gourmandsyndrome.com/nyc/brazilian/rice-n-beans/">Rice N Beans</a> 
-            
-                <span class="posted">Updated February 17, 2019</span>
-            
+            <a href="https://www.gourmandsyndrome.com/nyc/brazilian/rice-n-beans/">Rice N Beans</a>
         </div>
 
         
-            <div class="meta borough">
-                <i class="fas fa-city icons"></i> <a href="/borough/manhattan">Manhattan</a>
+        
+
+        
+            <div class="meta">
+                
+                <i class="fas fa-globe icons"></i> <a href="nyc">NYC</a>
             </div>
+        
+
+        
+            <div class="meta borough">
+                <i class="fas fa-city icons"></i> <a href="/nyc/borough/manhattan">Manhattan</a>
+            </div>
+        
         
 
         
             <div class="meta neighborhood">
-                <i class="fas fa-home icons"></i> <a href="/neighborhood/midtown-west">Midtown West</a>
+                
+                <i class="fas fa-home icons"></i> <a href="/nyc/neighborhood/midtown-west">Midtown West</a>
             </div>
         
 
         
             <div class="meta cuisine">
                 <i class="fas fa-utensils icons"></i>
-                <a href="/cuisine/brazilian">Brazilian</a>
+                
+                    <a href="/nyc/cuisine/brazilian">Brazilian</a>
             </div>
         
 
@@ -209,6 +282,10 @@ Every dish comes with a side of rice, beans, salsa, farofa, yucca fried chips, a
             </div>
         
 
+        
+            <div class="posted">Updated February 17, 2019</div>
+        
+
         <div class="summary">
             The caipirinhas were decent. As usual I dislike the coconut flavored ones but appreciate the passion fruit ones.
 The feijoada was the actual star here. It&rsquo;s much better than some of the other Brazilian places I&rsquo;ve been to. The meat was plentiful, and the flavor is very good.
@@ -216,37 +293,47 @@ The bife acebolado was ordered medium rare, and it was cooked medium to medium w
         
         
             <div class="read-more">
-                <a href="https://www.gourmandsyndrome.com/nyc/brazilian/rice-n-beans/">Read More</a>
+                <button><a href="https://www.gourmandsyndrome.com/nyc/brazilian/rice-n-beans/">Read More</a></button>
             </div>
         
 
 
-    </section>
+    </article>
 
-    <section>
+    <article>
         <div class="title">
-            <a href="https://www.gourmandsyndrome.com/nyc/brazilian/favela-grill/">Favela Grill</a> 
-            
-                <span class="posted">December 28, 2018</span>
-            
+            <a href="https://www.gourmandsyndrome.com/nyc/brazilian/favela-grill/">Favela Grill</a>
         </div>
 
         
-            <div class="meta borough">
-                <i class="fas fa-city icons"></i> <a href="/borough/queens">Queens</a>
+        
+
+        
+            <div class="meta">
+                
+                <i class="fas fa-globe icons"></i> <a href="nyc">NYC</a>
             </div>
+        
+
+        
+            <div class="meta borough">
+                <i class="fas fa-city icons"></i> <a href="/nyc/borough/queens">Queens</a>
+            </div>
+        
         
 
         
             <div class="meta neighborhood">
-                <i class="fas fa-home icons"></i> <a href="/neighborhood/astoria">Astoria</a>
+                
+                <i class="fas fa-home icons"></i> <a href="/nyc/neighborhood/astoria">Astoria</a>
             </div>
         
 
         
             <div class="meta cuisine">
                 <i class="fas fa-utensils icons"></i>
-                <a href="/cuisine/brazilian">Brazilian</a>
+                
+                    <a href="/nyc/cuisine/brazilian">Brazilian</a>
             </div>
         
 
@@ -262,38 +349,52 @@ The bife acebolado was ordered medium rare, and it was cooked medium to medium w
             </div>
         
 
+        
+            <div class="posted">December 28, 2018</div>
+        
+
         <div class="summary">
             Had the churrasco here, and it was pretty good. The chicken and sausage was good. Make sure the steak is ordered medium rare. We ordered medium, and it came out borderline medium well. The caipirinha was really good too. Get the passion fruit and guava. Avoid the kiwi.</div>
         
         
 
 
-    </section>
+    </article>
 
-    <section>
+    <article>
         <div class="title">
-            <a href="https://www.gourmandsyndrome.com/nyc/brazilian/churrascaria-plataforma/">Churrascaria Plataforma</a> 
-            
-                <span class="posted">December 26, 2018</span>
-            
+            <a href="https://www.gourmandsyndrome.com/nyc/brazilian/churrascaria-plataforma/">Churrascaria Plataforma</a>
         </div>
 
         
-            <div class="meta borough">
-                <i class="fas fa-city icons"></i> <a href="/borough/manhattan">Manhattan</a>
+        
+
+        
+            <div class="meta">
+                
+                <i class="fas fa-globe icons"></i> <a href="nyc">NYC</a>
             </div>
         
 
         
+            <div class="meta borough">
+                <i class="fas fa-city icons"></i> <a href="/nyc/borough/manhattan">Manhattan</a>
+            </div>
+        
+        
+
+        
             <div class="meta neighborhood">
-                <i class="fas fa-home icons"></i> <a href="/neighborhood/midtown-west">Midtown West</a>
+                
+                <i class="fas fa-home icons"></i> <a href="/nyc/neighborhood/midtown-west">Midtown West</a>
             </div>
         
 
         
             <div class="meta cuisine">
                 <i class="fas fa-utensils icons"></i>
-                <a href="/cuisine/brazilian">Brazilian</a>
+                
+                    <a href="/nyc/cuisine/brazilian">Brazilian</a>
             </div>
         
 
@@ -309,42 +410,56 @@ The bife acebolado was ordered medium rare, and it was cooked medium to medium w
             </div>
         
 
+        
+            <div class="posted">December 26, 2018</div>
+        
+
         <div class="summary">
             I like this place more than Fogo De Chao. Granted, I have not been to the NY location as of this writing. I&rsquo;ve been to the LA location twice. The seasoning at this location to me was better. The salad bar was a let down comparably though. It&rsquo;s small, and they have sushi there which I thought was odd. I still think M-Grill is the best as far as seasoning and char.</div>
         
         
             <div class="read-more">
-                <a href="https://www.gourmandsyndrome.com/nyc/brazilian/churrascaria-plataforma/">Read More</a>
+                <button><a href="https://www.gourmandsyndrome.com/nyc/brazilian/churrascaria-plataforma/">Read More</a></button>
             </div>
         
 
 
-    </section>
+    </article>
 
-    <section>
+    <article>
         <div class="title">
-            <a href="https://www.gourmandsyndrome.com/nyc/brazilian/ipanema/">Ipanema</a> 
-            
-                <span class="posted">December 8, 2018</span>
-            
+            <a href="https://www.gourmandsyndrome.com/nyc/brazilian/ipanema/">Ipanema</a>
         </div>
 
         
-            <div class="meta borough">
-                <i class="fas fa-city icons"></i> <a href="/borough/manhattan">Manhattan</a>
+        
+
+        
+            <div class="meta">
+                
+                <i class="fas fa-globe icons"></i> <a href="nyc">NYC</a>
             </div>
+        
+
+        
+            <div class="meta borough">
+                <i class="fas fa-city icons"></i> <a href="/nyc/borough/manhattan">Manhattan</a>
+            </div>
+        
         
 
         
             <div class="meta neighborhood">
-                <i class="fas fa-home icons"></i> <a href="/neighborhood/midtown-west">Midtown West</a>
+                
+                <i class="fas fa-home icons"></i> <a href="/nyc/neighborhood/midtown-west">Midtown West</a>
             </div>
         
 
         
             <div class="meta cuisine">
                 <i class="fas fa-utensils icons"></i>
-                <a href="/cuisine/brazilian">Brazilian</a>
+                
+                    <a href="/nyc/cuisine/brazilian">Brazilian</a>
             </div>
         
 
@@ -360,38 +475,52 @@ The bife acebolado was ordered medium rare, and it was cooked medium to medium w
             </div>
         
 
+        
+            <div class="posted">December 8, 2018</div>
+        
+
         <div class="summary">
             The food was surprisingly good, and it&rsquo;s not pricey at all. They give you free sides of rice and beans, so no worries about ordering that.</div>
         
         
 
 
-    </section>
+    </article>
 
-    <section>
+    <article>
         <div class="title">
-            <a href="https://www.gourmandsyndrome.com/nyc/brazilian/berimbau-do-brasil/">Berimbau Do Brasil</a> 
-            
-                <span class="posted">September 29, 2018</span>
-            
+            <a href="https://www.gourmandsyndrome.com/nyc/brazilian/berimbau-do-brasil/">Berimbau Do Brasil</a>
         </div>
 
         
-            <div class="meta borough">
-                <i class="fas fa-city icons"></i> <a href="/borough/manhattan">Manhattan</a>
+        
+
+        
+            <div class="meta">
+                
+                <i class="fas fa-globe icons"></i> <a href="nyc">NYC</a>
             </div>
         
 
         
+            <div class="meta borough">
+                <i class="fas fa-city icons"></i> <a href="/nyc/borough/manhattan">Manhattan</a>
+            </div>
+        
+        
+
+        
             <div class="meta neighborhood">
-                <i class="fas fa-home icons"></i> <a href="/neighborhood/west-village">West Village</a>
+                
+                <i class="fas fa-home icons"></i> <a href="/nyc/neighborhood/west-village">West Village</a>
             </div>
         
 
         
             <div class="meta cuisine">
                 <i class="fas fa-utensils icons"></i>
-                <a href="/cuisine/brazilian">brazilian</a>
+                
+                    <a href="/nyc/cuisine/brazilian">Brazilian</a>
             </div>
         
 
@@ -407,415 +536,25 @@ The bife acebolado was ordered medium rare, and it was cooked medium to medium w
             </div>
         
 
+        
+            <div class="posted">September 29, 2018</div>
+        
+
         <div class="summary">
             The feijoada was pretty good. The picanha was interesting in that it was super soft. Not quite what I was expecting.</div>
         
         
 
 
-    </section>
+    </article>
 <section class="pagination"></section>
-</main>
-<div id="sidebar">
-    <section class="recent-posts">
-        <div class="header">Recently Updated</div>
+</section>
 
-        
-            <section class="body">
-                <div class="title"><a href="https://www.gourmandsyndrome.com/nyc/cuban/victors-cafe/">Victor&#39;s Cafe</a></div>
-                
-                    <div class="meta borough">
-                        <i class="fas fa-city icons"></i> <a href="/borough/manhattan">Manhattan</a>
-                    </div>
-                
+            
+        </section><footer>
+    <span>&copy; Gourmand Syndrome 2019 | <a href=/cuisine/brazilian/index.xml>RSS</a></span>
+</footer>
 
-                
-                    <div class="meta neighborhood">
-                        <i class="fas fa-home icons"></i> <a href="/neighborhood/midtown-west">Midtown West</a>
-                    </div>
-                
-
-                
-                    <div class="meta cuisine">
-                        <i class="fas fa-utensils icons"></i> 
-                        
-
-                            
-                                
-                            
-
-                            <a href="/cuisine/cuban">Cuban</a>
-                    </div>
-                
-                    <div class="meta yelp">
-                        <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/victors-cafe-new-york-6">Yelp</a>
-                    </div>
-                
-                    <div class="meta map">
-                        <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/RxzJaNVfhdENRwUg6">Google</a>
-                    </div>
-                </section>
-        
-            <section class="body">
-                <div class="title"><a href="https://www.gourmandsyndrome.com/nyc/japanese/kondo/">Kondo</a></div>
-                
-                    <div class="meta borough">
-                        <i class="fas fa-city icons"></i> <a href="/borough/queens">Queens</a>
-                    </div>
-                
-
-                
-                    <div class="meta neighborhood">
-                        <i class="fas fa-home icons"></i> <a href="/neighborhood/astoria">Astoria</a>
-                    </div>
-                
-
-                
-                    <div class="meta cuisine">
-                        <i class="fas fa-utensils icons"></i> 
-                        
-
-                            
-                                
-                            
-
-                            <a href="/cuisine/japanese">Japanese</a>
-                    </div>
-                
-                    <div class="meta yelp">
-                        <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/kondo-astoria">Yelp</a>
-                    </div>
-                
-                    <div class="meta map">
-                        <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/oBvxML6XSLBaN4mV8">Google</a>
-                    </div>
-                </section>
-        
-            <section class="body">
-                <div class="title"><a href="https://www.gourmandsyndrome.com/nyc/french/lafayette/">Lafayette</a></div>
-                
-                    <div class="meta borough">
-                        <i class="fas fa-city icons"></i> <a href="/borough/manhattan">Manhattan</a>
-                    </div>
-                
-
-                
-                    <div class="meta neighborhood">
-                        <i class="fas fa-home icons"></i> <a href="/neighborhood/noho">Noho</a>
-                    </div>
-                
-
-                
-                    <div class="meta cuisine">
-                        <i class="fas fa-utensils icons"></i> 
-                        
-
-                            
-                                
-                            
-
-                            <a href="/cuisine/french">French</a>
-                    </div>
-                
-                    <div class="meta yelp">
-                        <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/lafayette-new-york-2">Yelp</a>
-                    </div>
-                
-                    <div class="meta map">
-                        <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/DSdkEB14ySteePtF7">Google</a>
-                    </div>
-                </section>
-        
-            <section class="body">
-                <div class="title"><a href="https://www.gourmandsyndrome.com/nyc/french/paname/">Paname</a></div>
-                
-                    <div class="meta borough">
-                        <i class="fas fa-city icons"></i> <a href="/borough/manhattan">Manhattan</a>
-                    </div>
-                
-
-                
-                    <div class="meta neighborhood">
-                        <i class="fas fa-home icons"></i> <a href="/neighborhood/midtown-east">Midtown East</a>
-                    </div>
-                
-
-                
-                    <div class="meta cuisine">
-                        <i class="fas fa-utensils icons"></i> 
-                        
-
-                            
-                                
-                            
-
-                            <a href="/cuisine/french">French</a>
-                    </div>
-                
-                    <div class="meta yelp">
-                        <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/paname-restaurant-new-york">Yelp</a>
-                    </div>
-                
-                    <div class="meta map">
-                        <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/okuBNCVoo5Q6Qr718">Google</a>
-                    </div>
-                </section>
-        
-            <section class="body">
-                <div class="title"><a href="https://www.gourmandsyndrome.com/nyc/desserts/do/">Dō Cookie Dough</a></div>
-                
-                    <div class="meta borough">
-                        <i class="fas fa-city icons"></i> <a href="/borough/manhattan">Manhattan</a>
-                    </div>
-                
-
-                
-                    <div class="meta neighborhood">
-                        <i class="fas fa-home icons"></i> <a href="/neighborhood/greenwich-village">Greenwich Village</a>
-                    </div>
-                
-
-                
-                    <div class="meta cuisine">
-                        <i class="fas fa-utensils icons"></i> 
-                        
-
-                            
-                                
-                            
-
-                            <a href="/cuisine/desserts">Desserts</a>
-                    </div>
-                
-                    <div class="meta yelp">
-                        <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/d%c5%8d-cookie-dough-confections-new-york-2">Yelp</a>
-                    </div>
-                
-                    <div class="meta map">
-                        <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/NvDWfC8oFWoaMdkS9">Google</a>
-                    </div>
-                </section>
-        
-    </section>
-
-    <section class="neighborhoods">
-        <div class="header">Neighborhoods</div>
-        <section class="body">
-            <ul>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/midtown-west/">Midtown West</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/astoria/">Astoria</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/noho/">Noho</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/midtown-east/">Midtown East</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/greenwich-village/">Greenwich Village</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/lic/">LIC</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/flatiron/">Flatiron</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/les/">LES</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/koreatown/">Koreatown</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/chelsea/">Chelsea</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/greenpoint/">Greenpoint</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/chinatown/">Chinatown</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/flushing/">Flushing</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/uws/">UWS</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/west-village/">West Village</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/gowanus/">Gowanus</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/ues/">UES</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/south-village/">South Village</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/east-village/">East Village</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/tribeca/">TriBeCa</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/williamsburg/">Williamsburg</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/fidi/">FiDi</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/bushwick/">Bushwick</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/union-square/">Union Square</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/carroll-gardens/">Carroll Gardens</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/kips-bay/">Kips Bay</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/hells-kitchen/">Hell&#39;s Kitchen</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/prospect-heights/">Prospect Heights</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/sunnyside/">Sunnyside</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/nolita/">Nolita</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/soho/">Soho</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/elmhurst/">Elmhurst</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/downtown-brooklyn/">Downtown Brooklyn</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/red-hook/">Red Hook</a></li>
-                
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/neighborhood/cobble-hill/">Cobble Hill</a></li>
-                
-            </ul>
-        </section>
-    </section>
-
-    <section class="cuisines">
-        <div class="header">Cuisine</div>
-
-        <section class="body">
-            <ul>
-                
-                    Page(/cuisine/cuban)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/cuban/">cuban</a></li>
-                
-                    Page(/cuisine/japanese)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/japanese/">Japanese</a></li>
-                
-                    Page(/cuisine/french)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/french/">French</a></li>
-                
-                    Page(/cuisine/desserts)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/desserts/">desserts</a></li>
-                
-                    Page(/cuisine/brazilian)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/brazilian/">Brazilian</a></li>
-                
-                    Page(/cuisine/chinese)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/chinese/">Chinese</a></li>
-                
-                    Page(/cuisine/vegetarian)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/vegetarian/">vegetarian</a></li>
-                
-                    Page(/cuisine/italian)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/italian/">Italian</a></li>
-                
-                    Page(/cuisine/burgers)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/burgers/">burgers</a></li>
-                
-                    Page(/cuisine/ramen)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/ramen/">ramen</a></li>
-                
-                    Page(/cuisine/thai)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/thai/">thai</a></li>
-                
-                    Page(/cuisine/new-american)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/new-american/">New American</a></li>
-                
-                    Page(/cuisine/bars)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/bars/">bars</a></li>
-                
-                    Page(/cuisine/korean)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/korean/">Korean</a></li>
-                
-                    Page(/cuisine/pizza)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/pizza/">Pizza</a></li>
-                
-                    Page(/cuisine/bbq)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/bbq/">BBQ</a></li>
-                
-                    Page(/cuisine/brunch)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/brunch/">Brunch</a></li>
-                
-                    Page(/cuisine/spanish)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/spanish/">Spanish</a></li>
-                
-                    Page(/cuisine/greek)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/greek/">Greek</a></li>
-                
-                    Page(/cuisine/mediterranean)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/mediterranean/">Mediterranean</a></li>
-                
-                    Page(/cuisine/seafood)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/seafood/">seafood</a></li>
-                
-                    Page(/cuisine/mexican)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/mexican/">Mexican</a></li>
-                
-                    Page(/cuisine/michelin-star)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/michelin-star/">michelin star</a></li>
-                
-                    Page(/cuisine/kaiseki)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/kaiseki/">Kaiseki</a></li>
-                
-                    Page(/cuisine/fried-chicken)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/fried-chicken/">fried chicken</a></li>
-                
-                    Page(/cuisine/lomo-saltado)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/lomo-saltado/">lomo saltado</a></li>
-                
-                    Page(/cuisine/peruvian)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/peruvian/">peruvian</a></li>
-                
-                    Page(/cuisine/fondue)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/fondue/">Fondue</a></li>
-                
-                    Page(/cuisine/vietnamese)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/vietnamese/">Vietnamese</a></li>
-                
-                    Page(/cuisine/breakfast)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/breakfast/">breakfast</a></li>
-                
-                    Page(/cuisine/sandwiches)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/sandwiches/">sandwiches</a></li>
-                
-                    Page(/cuisine/tastings)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/tastings/">tastings</a></li>
-                
-                    Page(/cuisine/steak)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/steak/">steak</a></li>
-                
-                    Page(/cuisine/omakase)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/omakase/">omakase</a></li>
-                
-                    Page(/cuisine/coffee)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/coffee/">coffee</a></li>
-                
-                    Page(/cuisine/caribbean)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/caribbean/">caribbean</a></li>
-                
-                    Page(/cuisine/donuts)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/donuts/">donuts</a></li>
-                
-                    Page(/cuisine/jewish)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/jewish/">jewish</a></li>
-                
-                    Page(/cuisine/piano)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/piano/">piano</a></li>
-                
-                    Page(/cuisine/speakeasy)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/speakeasy/">speakeasy</a></li>
-                
-                    Page(/cuisine/tiki)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/tiki/">tiki</a></li>
-                
-                    Page(/cuisine/mezcal)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/mezcal/">mezcal</a></li>
-                
-                    Page(/cuisine/scotch)
-                    <li><a class="taxoterm" href="https://www.gourmandsyndrome.com/cuisine/scotch/">scotch</a></li>
-                
-            <ul>
-        </section>
-    </section>
-</div>
-</div><script type="text/javascript" src="/dist/js/gs.js"></script>
+<script type="text/javascript" src="/dist/gs.js"></script>
 </body>
 </html>

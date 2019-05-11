@@ -6,7 +6,7 @@
     <description>Recent content in Locale on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Apr 2019 23:49:42 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2019 17:55:03 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/locale/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,36 @@
     <item>
       <title>nyc</title>
       <link>https://www.gourmandsyndrome.com/locale/nyc/</link>
-      <pubDate>Sun, 21 Apr 2019 23:49:42 -0400</pubDate>
+      <pubDate>Sun, 05 May 2019 17:55:03 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/locale/nyc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DC</title>
+      <link>https://www.gourmandsyndrome.com/locale/dc/</link>
+      <pubDate>Sat, 27 Apr 2019 15:45:38 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/locale/dc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lax</title>
+      <link>https://www.gourmandsyndrome.com/locale/lax/</link>
+      <pubDate>Thu, 28 Feb 2019 00:43:34 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/locale/lax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anc</title>
+      <link>https://www.gourmandsyndrome.com/locale/anc/</link>
+      <pubDate>Sat, 26 Jan 2019 13:50:05 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/locale/anc/</guid>
       <description></description>
     </item>
     
