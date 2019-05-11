@@ -2057,7 +2057,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
     }
   }
 
-  _axios.default.get("/".concat(sidebarPath)).then(function (resp) {
+  _axios.default.get("/".concat(sidebarPath, "/")).then(function (resp) {
     return resp.text();
     ;
   }).then(function (html) {
