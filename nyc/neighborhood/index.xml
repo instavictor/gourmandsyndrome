@@ -6,10 +6,19 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 May 2019 17:55:03 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2019 15:57:00 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Koreatown</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/koreatown/</link>
+      <pubDate>Fri, 17 May 2019 15:57:00 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/koreatown/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Midtown West</title>
@@ -80,15 +89,6 @@
       <pubDate>Fri, 12 Apr 2019 14:58:13 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/les/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Koreatown</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/koreatown/</link>
-      <pubDate>Sun, 10 Mar 2019 14:45:42 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/koreatown/</guid>
       <description></description>
     </item>
     
