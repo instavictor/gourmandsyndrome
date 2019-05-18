@@ -21,7 +21,16 @@
     </item>
     
     <item>
-      <title>cuban</title>
+      <title>Mexican</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/mexican/</link>
+      <pubDate>Mon, 06 May 2019 16:34:50 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/mexican/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuban</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/cuban/</link>
       <pubDate>Sun, 05 May 2019 17:55:03 -0400</pubDate>
       
@@ -39,7 +48,7 @@
     </item>
     
     <item>
-      <title>French</title>
+      <title>french</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/french/</link>
       <pubDate>Sat, 27 Apr 2019 16:41:15 -0400</pubDate>
       
@@ -84,7 +93,7 @@
     </item>
     
     <item>
-      <title>Italian</title>
+      <title>italian</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</link>
       <pubDate>Sat, 13 Apr 2019 15:35:57 -0400</pubDate>
       
@@ -138,7 +147,7 @@
     </item>
     
     <item>
-      <title>pizza</title>
+      <title>Pizza</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/pizza/</link>
       <pubDate>Sat, 23 Feb 2019 19:47:29 -0500</pubDate>
       
@@ -183,7 +192,7 @@
     </item>
     
     <item>
-      <title>seafood</title>
+      <title>Seafood</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/seafood/</link>
       <pubDate>Sat, 05 Jan 2019 15:08:07 -0500</pubDate>
       
@@ -192,16 +201,7 @@
     </item>
     
     <item>
-      <title>Mexican</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/mexican/</link>
-      <pubDate>Sun, 30 Dec 2018 23:50:54 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/mexican/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>michelin star</title>
+      <title>Michelin Star</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/michelin-star/</link>
       <pubDate>Sun, 30 Dec 2018 23:50:54 -0500</pubDate>
       
@@ -210,7 +210,7 @@
     </item>
     
     <item>
-      <title>Kaiseki</title>
+      <title>kaiseki</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/kaiseki/</link>
       <pubDate>Sat, 29 Dec 2018 17:05:57 -0500</pubDate>
       
@@ -219,7 +219,7 @@
     </item>
     
     <item>
-      <title>fried chicken</title>
+      <title>Fried Chicken</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/fried-chicken/</link>
       <pubDate>Sat, 15 Dec 2018 19:14:46 -0500</pubDate>
       

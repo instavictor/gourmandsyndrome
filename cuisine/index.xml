@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Korean</title>
+      <title>korean</title>
       <link>https://www.gourmandsyndrome.com/cuisine/korean/</link>
       <pubDate>Fri, 17 May 2019 15:57:00 -0400</pubDate>
       
@@ -21,7 +21,16 @@
     </item>
     
     <item>
-      <title>cuban</title>
+      <title>mexican</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/mexican/</link>
+      <pubDate>Mon, 06 May 2019 16:34:50 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/mexican/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuban</title>
       <link>https://www.gourmandsyndrome.com/cuisine/cuban/</link>
       <pubDate>Sun, 05 May 2019 17:55:03 -0400</pubDate>
       
@@ -39,7 +48,7 @@
     </item>
     
     <item>
-      <title>French</title>
+      <title>french</title>
       <link>https://www.gourmandsyndrome.com/cuisine/french/</link>
       <pubDate>Sat, 27 Apr 2019 16:41:15 -0400</pubDate>
       
@@ -66,7 +75,7 @@
     </item>
     
     <item>
-      <title>Brazilian</title>
+      <title>brazilian</title>
       <link>https://www.gourmandsyndrome.com/cuisine/brazilian/</link>
       <pubDate>Sat, 20 Apr 2019 19:59:30 -0400</pubDate>
       
@@ -75,7 +84,7 @@
     </item>
     
     <item>
-      <title>Chinese</title>
+      <title>chinese</title>
       <link>https://www.gourmandsyndrome.com/cuisine/chinese/</link>
       <pubDate>Fri, 19 Apr 2019 22:27:33 -0400</pubDate>
       
@@ -93,7 +102,7 @@
     </item>
     
     <item>
-      <title>Italian</title>
+      <title>italian</title>
       <link>https://www.gourmandsyndrome.com/cuisine/italian/</link>
       <pubDate>Sat, 13 Apr 2019 15:35:57 -0400</pubDate>
       
@@ -147,7 +156,7 @@
     </item>
     
     <item>
-      <title>lomo saltado</title>
+      <title>Lomo Saltado</title>
       <link>https://www.gourmandsyndrome.com/cuisine/lomo-saltado/</link>
       <pubDate>Wed, 27 Feb 2019 00:43:34 -0400</pubDate>
       
@@ -156,7 +165,7 @@
     </item>
     
     <item>
-      <title>peruvian</title>
+      <title>Peruvian</title>
       <link>https://www.gourmandsyndrome.com/cuisine/peruvian/</link>
       <pubDate>Wed, 27 Feb 2019 00:43:34 -0400</pubDate>
       
@@ -174,7 +183,7 @@
     </item>
     
     <item>
-      <title>Pizza</title>
+      <title>pizza</title>
       <link>https://www.gourmandsyndrome.com/cuisine/pizza/</link>
       <pubDate>Sat, 23 Feb 2019 19:47:29 -0500</pubDate>
       
@@ -201,7 +210,7 @@
     </item>
     
     <item>
-      <title>seafood</title>
+      <title>Seafood</title>
       <link>https://www.gourmandsyndrome.com/cuisine/seafood/</link>
       <pubDate>Wed, 23 Jan 2019 13:50:05 -0500</pubDate>
       
@@ -219,20 +228,11 @@
     </item>
     
     <item>
-      <title>Spanish</title>
+      <title>spanish</title>
       <link>https://www.gourmandsyndrome.com/cuisine/spanish/</link>
       <pubDate>Sat, 12 Jan 2019 16:32:03 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/spanish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Greek</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/greek/</link>
-      <pubDate>Sat, 05 Jan 2019 15:08:07 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/greek/</guid>
       <description></description>
     </item>
     
