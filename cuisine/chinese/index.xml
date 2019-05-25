@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>chinese on Gourmand Syndrome</title>
+    <title>Chinese on Gourmand Syndrome</title>
     <link>https://www.gourmandsyndrome.com/cuisine/chinese/</link>
-    <description>Recent content in chinese on Gourmand Syndrome</description>
+    <description>Recent content in Chinese on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Apr 2019 22:27:33 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 15:29:42 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/cuisine/chinese/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bund on Broadway</title>
+      <link>https://www.gourmandsyndrome.com/nyc/chinese/bund-on-broadway/</link>
+      <pubDate>Mon, 20 May 2019 15:29:42 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/chinese/bund-on-broadway/</guid>
+      <description>Summary Astoria is not really a place known for having typical Shanghainese food. I always think of it as having more latin and mediterranean influences to those respective demographics in the area.
+This restaurant though was surprisingly pretty decent for this area.
+The drunken chicken I normally don&amp;rsquo;t find in many restsaurants. Here, it&amp;rsquo;s not as good as my cousin&amp;rsquo;s or my mother&amp;rsquo;s version as it&amp;rsquo;s WAY too salty, chicken pieces don&amp;rsquo;t appear cut right, and it doesn&amp;rsquo;t seem like it was marinated well.</description>
+    </item>
     
     <item>
       <title>Xi&#39;an Famous Food</title>
@@ -238,15 +249,6 @@ This is PERMA closed.</description>
       
       <guid>https://www.gourmandsyndrome.com/nyc/chinese/m-noodle-shop/</guid>
       <description>Terrible but cheap Chinese. The pork chop on top of rice was terrible.</description>
-    </item>
-    
-    <item>
-      <title>Vanessas Dumpling House</title>
-      <link>https://www.gourmandsyndrome.com/nyc/chinese/vanessas-dumpling-house/</link>
-      <pubDate>Sun, 09 Sep 2018 22:22:02 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/chinese/vanessas-dumpling-house/</guid>
-      <description>Pretty good. Pass on the beef noodle though.</description>
     </item>
     
   </channel>

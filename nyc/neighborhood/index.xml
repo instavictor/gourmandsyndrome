@@ -6,10 +6,46 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 May 2019 15:57:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2019 15:52:28 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>UES</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/ues/</link>
+      <pubDate>Fri, 24 May 2019 15:52:28 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/ues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Astoria</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/astoria/</link>
+      <pubDate>Mon, 20 May 2019 15:29:42 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/astoria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kips Bay</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/kips-bay/</link>
+      <pubDate>Sat, 18 May 2019 14:47:11 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/kips-bay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Midtown East</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-east/</link>
+      <pubDate>Sat, 18 May 2019 14:47:11 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-east/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Koreatown</title>
@@ -39,29 +75,11 @@
     </item>
     
     <item>
-      <title>Astoria</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/astoria/</link>
-      <pubDate>Sat, 04 May 2019 17:37:21 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/astoria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Noho</title>
       <link>https://www.gourmandsyndrome.com/nyc/neighborhood/noho/</link>
       <pubDate>Sat, 27 Apr 2019 16:41:15 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/noho/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Midtown East</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-east/</link>
-      <pubDate>Sun, 21 Apr 2019 23:49:42 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-east/</guid>
       <description></description>
     </item>
     
@@ -156,15 +174,6 @@
     </item>
     
     <item>
-      <title>UES</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/ues/</link>
-      <pubDate>Sat, 12 Jan 2019 16:32:03 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/ues/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>South Village</title>
       <link>https://www.gourmandsyndrome.com/nyc/neighborhood/south-village/</link>
       <pubDate>Sat, 29 Dec 2018 17:05:57 -0500</pubDate>
@@ -224,15 +233,6 @@
       <pubDate>Sun, 16 Sep 2018 21:44:25 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/union-square/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carroll Gardens</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/carroll-gardens/</link>
-      <pubDate>Sun, 16 Sep 2018 21:14:58 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/carroll-gardens/</guid>
       <description></description>
     </item>
     

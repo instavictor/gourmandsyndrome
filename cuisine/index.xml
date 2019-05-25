@@ -6,15 +6,51 @@
     <description>Recent content in Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 May 2019 15:57:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2019 15:52:28 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Brazilian</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/brazilian/</link>
+      <pubDate>Fri, 24 May 2019 15:52:28 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/brazilian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portuguese</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/portuguese/</link>
+      <pubDate>Fri, 24 May 2019 15:52:28 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/portuguese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chinese</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/chinese/</link>
+      <pubDate>Mon, 20 May 2019 15:29:42 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KBBQ</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/kbbq/</link>
+      <pubDate>Sat, 18 May 2019 14:47:11 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/kbbq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>korean</title>
       <link>https://www.gourmandsyndrome.com/cuisine/korean/</link>
-      <pubDate>Fri, 17 May 2019 15:57:00 -0400</pubDate>
+      <pubDate>Sat, 18 May 2019 14:47:11 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/korean/</guid>
       <description></description>
@@ -48,7 +84,7 @@
     </item>
     
     <item>
-      <title>french</title>
+      <title>French</title>
       <link>https://www.gourmandsyndrome.com/cuisine/french/</link>
       <pubDate>Sat, 27 Apr 2019 16:41:15 -0400</pubDate>
       
@@ -71,24 +107,6 @@
       <pubDate>Sat, 20 Apr 2019 20:26:36 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/desserts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>brazilian</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/brazilian/</link>
-      <pubDate>Sat, 20 Apr 2019 19:59:30 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/brazilian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>chinese</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/chinese/</link>
-      <pubDate>Fri, 19 Apr 2019 22:27:33 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/chinese/</guid>
       <description></description>
     </item>
     
@@ -215,24 +233,6 @@
       <pubDate>Wed, 23 Jan 2019 13:50:05 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/seafood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brunch</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/brunch/</link>
-      <pubDate>Sat, 12 Jan 2019 16:32:03 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/brunch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>spanish</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/spanish/</link>
-      <pubDate>Sat, 12 Jan 2019 16:32:03 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/spanish/</guid>
       <description></description>
     </item>
     

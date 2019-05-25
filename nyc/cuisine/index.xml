@@ -6,15 +6,51 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 May 2019 15:57:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2019 15:52:28 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Brazilian</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/brazilian/</link>
+      <pubDate>Fri, 24 May 2019 15:52:28 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/brazilian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portuguese</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/portuguese/</link>
+      <pubDate>Fri, 24 May 2019 15:52:28 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/portuguese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chinese</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</link>
+      <pubDate>Mon, 20 May 2019 15:29:42 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KBBQ</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/kbbq/</link>
+      <pubDate>Sat, 18 May 2019 14:47:11 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/kbbq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Korean</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/korean/</link>
-      <pubDate>Fri, 17 May 2019 15:57:00 -0400</pubDate>
+      <pubDate>Sat, 18 May 2019 14:47:11 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/korean/</guid>
       <description></description>
@@ -62,24 +98,6 @@
       <pubDate>Sat, 20 Apr 2019 20:26:36 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/desserts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brazilian</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/brazilian/</link>
-      <pubDate>Sat, 20 Apr 2019 19:59:30 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/brazilian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chinese</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</link>
-      <pubDate>Fri, 19 Apr 2019 22:27:33 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</guid>
       <description></description>
     </item>
     
@@ -215,24 +233,6 @@
       <pubDate>Sat, 29 Dec 2018 17:05:57 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/kaiseki/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fried Chicken</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/fried-chicken/</link>
-      <pubDate>Sat, 15 Dec 2018 19:14:46 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/fried-chicken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lomo Saltado</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/lomo-saltado/</link>
-      <pubDate>Fri, 07 Dec 2018 19:24:07 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/lomo-saltado/</guid>
       <description></description>
     </item>
     
