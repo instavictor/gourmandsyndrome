@@ -12,7 +12,16 @@
     
     
     <item>
-      <title>Brazilian</title>
+      <title>Portuguese</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/portuguese/</link>
+      <pubDate>Fri, 24 May 2019 15:52:28 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/portuguese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brazilian</title>
       <link>https://www.gourmandsyndrome.com/cuisine/brazilian/</link>
       <pubDate>Fri, 24 May 2019 15:52:28 -0400</pubDate>
       
@@ -21,11 +30,11 @@
     </item>
     
     <item>
-      <title>Portuguese</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/portuguese/</link>
-      <pubDate>Fri, 24 May 2019 15:52:28 -0400</pubDate>
+      <title>bars</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/bars/</link>
+      <pubDate>Tue, 21 May 2019 01:32:46 -0400</pubDate>
       
-      <guid>https://www.gourmandsyndrome.com/cuisine/portuguese/</guid>
+      <guid>https://www.gourmandsyndrome.com/cuisine/bars/</guid>
       <description></description>
     </item>
     
@@ -147,7 +156,7 @@
     </item>
     
     <item>
-      <title>thai</title>
+      <title>Thai</title>
       <link>https://www.gourmandsyndrome.com/cuisine/thai/</link>
       <pubDate>Sun, 24 Mar 2019 21:54:06 -0400</pubDate>
       
@@ -161,15 +170,6 @@
       <pubDate>Sat, 23 Mar 2019 21:30:11 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/new-american/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bars</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/bars/</link>
-      <pubDate>Sat, 23 Mar 2019 21:30:11 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/bars/</guid>
       <description></description>
     </item>
     
