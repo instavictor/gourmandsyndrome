@@ -6,10 +6,28 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2019 15:52:28 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2019 00:04:00 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Izakaya</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/izakaya/</link>
+      <pubDate>Sun, 26 May 2019 00:04:00 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/izakaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Japanese</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</link>
+      <pubDate>Sun, 26 May 2019 00:04:00 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Brazilian</title>
@@ -84,15 +102,6 @@
     </item>
     
     <item>
-      <title>Japanese</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</link>
-      <pubDate>Sat, 04 May 2019 17:37:21 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>french</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/french/</link>
       <pubDate>Sat, 27 Apr 2019 16:41:15 -0400</pubDate>
@@ -147,7 +156,7 @@
     </item>
     
     <item>
-      <title>Thai</title>
+      <title>thai</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/thai/</link>
       <pubDate>Sun, 24 Mar 2019 21:54:06 -0400</pubDate>
       
@@ -224,15 +233,6 @@
       <pubDate>Sun, 30 Dec 2018 23:50:54 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/michelin-star/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>kaiseki</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/kaiseki/</link>
-      <pubDate>Sat, 29 Dec 2018 17:05:57 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/kaiseki/</guid>
       <description></description>
     </item>
     
