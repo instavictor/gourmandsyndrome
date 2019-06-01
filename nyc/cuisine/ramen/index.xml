@@ -6,10 +6,20 @@
     <description>Recent content in ramen on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2019 14:26:50 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 16:46:29 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/ramen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tonchin</title>
+      <link>https://www.gourmandsyndrome.com/nyc/ramen/tonchin/</link>
+      <pubDate>Tue, 28 May 2019 16:46:29 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/ramen/tonchin/</guid>
+      <description>Summary This place has a pretty decent ambiance.
+The yuzu margarita was surprisingly pretty good. If you haven&amp;rsquo;t had yuzu before and like citrus, I recommend you get this if it&amp;rsquo;s available. I just checked their website&amp;rsquo;s drink menu, and it&amp;rsquo;s not on there. This drink wasn&amp;rsquo;t strong at all, and had a really really good before and after taste. I would drink this over any regular margarita any day.</description>
+    </item>
     
     <item>
       <title>Ivan Ramen</title>
@@ -231,15 +241,6 @@ The flying pig bowl was the biggest disappointment I&amp;rsquo;ve had. The broth
       
       <guid>https://www.gourmandsyndrome.com/nyc/ramen/ryujin-ramen/</guid>
       <description>It&amp;rsquo;s just ok. I&amp;rsquo;d go to other ramen places over this.</description>
-    </item>
-    
-    <item>
-      <title>Ichiran</title>
-      <link>https://www.gourmandsyndrome.com/nyc/ramen/ichiran/</link>
-      <pubDate>Sun, 16 Sep 2018 20:18:27 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/ramen/ichiran/</guid>
-      <description>A little expensive but pretty good. It&amp;rsquo;s like a much better version of Shinsengumi.</description>
     </item>
     
   </channel>

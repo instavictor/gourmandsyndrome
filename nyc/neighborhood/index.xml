@@ -6,10 +6,37 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 May 2019 00:04:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 16:46:29 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Midtown West</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</link>
+      <pubDate>Tue, 28 May 2019 16:46:29 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UES</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/ues/</link>
+      <pubDate>Mon, 27 May 2019 16:20:26 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/ues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yorkville</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/yorkville/</link>
+      <pubDate>Mon, 27 May 2019 16:20:26 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/yorkville/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Midtown East</title>
@@ -17,15 +44,6 @@
       <pubDate>Sun, 26 May 2019 00:04:00 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-east/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UES</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/ues/</link>
-      <pubDate>Fri, 24 May 2019 15:52:28 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/ues/</guid>
       <description></description>
     </item>
     
@@ -62,15 +80,6 @@
       <pubDate>Fri, 17 May 2019 15:57:00 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/koreatown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Midtown West</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</link>
-      <pubDate>Sun, 05 May 2019 17:55:03 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</guid>
       <description></description>
     </item>
     
@@ -224,15 +233,6 @@
       <pubDate>Sun, 16 Sep 2018 22:12:38 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/bushwick/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Union Square</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/union-square/</link>
-      <pubDate>Sun, 16 Sep 2018 21:44:25 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/union-square/</guid>
       <description></description>
     </item>
     

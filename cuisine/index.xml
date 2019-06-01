@@ -6,10 +6,28 @@
     <description>Recent content in Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 May 2019 00:04:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 16:46:29 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ramen</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/ramen/</link>
+      <pubDate>Tue, 28 May 2019 16:46:29 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/ramen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>italian</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/italian/</link>
+      <pubDate>Mon, 27 May 2019 16:20:26 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/italian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Izakaya</title>
@@ -30,20 +48,20 @@
     </item>
     
     <item>
+      <title>Brazilian</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/brazilian/</link>
+      <pubDate>Fri, 24 May 2019 15:52:28 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/brazilian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Portuguese</title>
       <link>https://www.gourmandsyndrome.com/cuisine/portuguese/</link>
       <pubDate>Fri, 24 May 2019 15:52:28 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/portuguese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>brazilian</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/brazilian/</link>
-      <pubDate>Fri, 24 May 2019 15:52:28 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/brazilian/</guid>
       <description></description>
     </item>
     
@@ -138,15 +156,6 @@
     </item>
     
     <item>
-      <title>italian</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/italian/</link>
-      <pubDate>Sat, 13 Apr 2019 15:35:57 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/italian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>burgers</title>
       <link>https://www.gourmandsyndrome.com/cuisine/burgers/</link>
       <pubDate>Fri, 12 Apr 2019 14:58:13 -0400</pubDate>
@@ -156,16 +165,7 @@
     </item>
     
     <item>
-      <title>ramen</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/ramen/</link>
-      <pubDate>Tue, 26 Mar 2019 14:26:50 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/ramen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>thai</title>
+      <title>Thai</title>
       <link>https://www.gourmandsyndrome.com/cuisine/thai/</link>
       <pubDate>Sun, 24 Mar 2019 21:54:06 -0400</pubDate>
       
