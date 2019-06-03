@@ -6,10 +6,19 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2019 16:46:29 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2019 23:04:29 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jackson Heights</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/jackson-heights/</link>
+      <pubDate>Sun, 02 Jun 2019 23:04:29 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/jackson-heights/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Midtown West</title>
@@ -224,15 +233,6 @@
       <pubDate>Sat, 29 Sep 2018 17:36:53 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/fidi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bushwick</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/bushwick/</link>
-      <pubDate>Sun, 16 Sep 2018 22:12:38 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/bushwick/</guid>
       <description></description>
     </item>
     
