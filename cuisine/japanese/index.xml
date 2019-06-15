@@ -6,10 +6,20 @@
     <description>Recent content in Japanese on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 May 2019 00:04:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2019 00:16:35 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/cuisine/japanese/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Katsu Hama</title>
+      <link>https://www.gourmandsyndrome.com/nyc/japanese/katsu-hama/</link>
+      <pubDate>Tue, 11 Jun 2019 00:16:35 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/japanese/katsu-hama/</guid>
+      <description>Summary Katsu is some of my favorite Japanese food. We decided to try this restaurant because it was close to where we were in Midtown. This type of food generally is not overly expensive like other Japanese foods, and it&amp;rsquo;s pretty filling too. And for whatever reason, the pork cutlets are always really good and hearty too.
+The Berkshire pork cutlet is basically a slightly fattier piece compared to a regular pork cutlet.</description>
+    </item>
     
     <item>
       <title>Nonono</title>
@@ -234,15 +244,6 @@ This place is CLOSED for obvious reasons.</description>
       
       <guid>https://www.gourmandsyndrome.com/nyc/japanese/go-go-curry/</guid>
       <description>Good lunch spot and fast. Cheap.</description>
-    </item>
-    
-    <item>
-      <title>Okonomi</title>
-      <link>https://www.gourmandsyndrome.com/nyc/japanese/okonomi/</link>
-      <pubDate>Sun, 16 Sep 2018 14:03:12 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/japanese/okonomi/</guid>
-      <description>Really good Japanese breakfast place.</description>
     </item>
     
   </channel>

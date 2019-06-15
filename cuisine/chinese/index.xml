@@ -6,10 +6,20 @@
     <description>Recent content in Chinese on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2019 15:29:42 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2019 22:51:37 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/cuisine/chinese/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dun Huang</title>
+      <link>https://www.gourmandsyndrome.com/nyc/chinese/dun-huang/</link>
+      <pubDate>Sun, 09 Jun 2019 22:51:37 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/chinese/dun-huang/</guid>
+      <description>Summary Dun Haung advertises itself as authentic Northwestern Chinese food. I have probably had this type of stuff before in Los Angeles, so it&amp;rsquo;s been a while since I&amp;rsquo;ve had this here in New York. To avoid having to go to Flushing while we were in the city, we decided to have a quick sample.
+The wood ear mushroom was pretty good, specifically the sauce. The texture of the mushrooms was pretty good too.</description>
+    </item>
     
     <item>
       <title>Bund on Broadway</title>
@@ -240,15 +250,6 @@ This is PERMA closed.</description>
       
       <guid>https://www.gourmandsyndrome.com/nyc/chinese/yaso-tangbao/</guid>
       <description>This place was pretty good for the price. The soup dumplings had the authentice black vinegar sauce with ginger. They were open on Thanksgiving.</description>
-    </item>
-    
-    <item>
-      <title>M Noodle Shop</title>
-      <link>https://www.gourmandsyndrome.com/nyc/chinese/m-noodle-shop/</link>
-      <pubDate>Sun, 09 Sep 2018 22:23:32 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/chinese/m-noodle-shop/</guid>
-      <description>Terrible but cheap Chinese. The pork chop on top of rice was terrible.</description>
     </item>
     
   </channel>

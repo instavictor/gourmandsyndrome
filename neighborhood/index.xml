@@ -6,15 +6,24 @@
     <description>Recent content in Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jun 2019 13:30:59 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2019 00:16:35 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Midtown West</title>
+      <link>https://www.gourmandsyndrome.com/neighborhood/midtown-west/</link>
+      <pubDate>Tue, 11 Jun 2019 00:16:35 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/neighborhood/midtown-west/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>East Village</title>
       <link>https://www.gourmandsyndrome.com/neighborhood/east-village/</link>
-      <pubDate>Sat, 08 Jun 2019 13:30:59 -0400</pubDate>
+      <pubDate>Sun, 09 Jun 2019 22:51:37 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/neighborhood/east-village/</guid>
       <description></description>
@@ -35,15 +44,6 @@
       <pubDate>Sun, 02 Jun 2019 23:04:29 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/neighborhood/jackson-heights/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Midtown West</title>
-      <link>https://www.gourmandsyndrome.com/neighborhood/midtown-west/</link>
-      <pubDate>Tue, 28 May 2019 16:46:29 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/neighborhood/midtown-west/</guid>
       <description></description>
     </item>
     

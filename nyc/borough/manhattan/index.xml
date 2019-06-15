@@ -6,17 +6,37 @@
     <description>Recent content in Manhattan on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jun 2019 13:30:59 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2019 00:16:35 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/borough/manhattan/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Narcisso</title>
-      <link>https://www.gourmandsyndrome.com/nyc/new-american/narcisso/</link>
+      <title>Katsu Hama</title>
+      <link>https://www.gourmandsyndrome.com/nyc/japanese/katsu-hama/</link>
+      <pubDate>Tue, 11 Jun 2019 00:16:35 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/japanese/katsu-hama/</guid>
+      <description>Summary Katsu is some of my favorite Japanese food. We decided to try this restaurant because it was close to where we were in Midtown. This type of food generally is not overly expensive like other Japanese foods, and it&amp;rsquo;s pretty filling too. And for whatever reason, the pork cutlets are always really good and hearty too.
+The Berkshire pork cutlet is basically a slightly fattier piece compared to a regular pork cutlet.</description>
+    </item>
+    
+    <item>
+      <title>Dun Huang</title>
+      <link>https://www.gourmandsyndrome.com/nyc/chinese/dun-huang/</link>
+      <pubDate>Sun, 09 Jun 2019 22:51:37 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/chinese/dun-huang/</guid>
+      <description>Summary Dun Haung advertises itself as authentic Northwestern Chinese food. I have probably had this type of stuff before in Los Angeles, so it&amp;rsquo;s been a while since I&amp;rsquo;ve had this here in New York. To avoid having to go to Flushing while we were in the city, we decided to have a quick sample.
+The wood ear mushroom was pretty good, specifically the sauce. The texture of the mushrooms was pretty good too.</description>
+    </item>
+    
+    <item>
+      <title>Narcissa</title>
+      <link>https://www.gourmandsyndrome.com/nyc/new-american/narcissa/</link>
       <pubDate>Sat, 08 Jun 2019 13:30:59 -0400</pubDate>
       
-      <guid>https://www.gourmandsyndrome.com/nyc/new-american/narcisso/</guid>
+      <guid>https://www.gourmandsyndrome.com/nyc/new-american/narcissa/</guid>
       <description>Summary I&amp;rsquo;m introducing a new category for restaurants that have gardens. This one has an interesting one. I didn&amp;rsquo;t find it particularly that great, but it seems to be an attraction for others. This is tucked near or in the Standard Hotel, I don&amp;rsquo;t quite remember. In the summer, the indoor seats are mostly vacant, so definitely ask for a seat near the window if you decide to sit inside.</description>
     </item>
     
@@ -254,29 +274,6 @@ The filet mignon was ordered medium rare, but in my opinion it came out medium. 
       <description>Summary This place is interesting. It&amp;rsquo;s like a modern version of typical Korean tapas.
 They have these idea cocktails that have flashing lights underneath it. You can click on the switch underneath to alter the different lighting patterns. It&amp;rsquo;s gimmicky, but I&amp;rsquo;m sure they are targeting that photo crowd. The drinks themselves were OK. I think I prefer Brazilian style fruit cocktails now.
 The hamachi cevichee was decent. It&amp;rsquo;s just tartare with a different flavor profile, but otherwise, it tasted like what you&amp;rsquo;d expect.</description>
-    </item>
-    
-    <item>
-      <title>Kogane Ramen</title>
-      <link>https://www.gourmandsyndrome.com/nyc/ramen/kogane-ramen/</link>
-      <pubDate>Thu, 07 Mar 2019 14:15:13 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/ramen/kogane-ramen/</guid>
-      <description>Summary This is a relatively new spot that has opened up in the last couple months.
-The pork buns were surprisingly decent. I think they were a little expensive for each as is most Manhattan foods, but it was good.
-What was interesting to me was lobster ramen. It had miso flavored soup broth and of course lobster meat with shells. They gave a shell cracker on the side, and they definitely did not skimp on the meat.</description>
-    </item>
-    
-    <item>
-      <title>House Special</title>
-      <link>https://www.gourmandsyndrome.com/nyc/chinese/house-special/</link>
-      <pubDate>Sun, 17 Feb 2019 19:30:41 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/chinese/house-special/</guid>
-      <description>Summary This place is in Chinatown off of Hester St. We were looking for Cantonese style cuisine, and honestly there was nothing spectacular or bad.
-The pea shoots with garlic had a taste of wine flavor to it, and was good.
-The pepper salted pork chops was good as well. It would have been nice if they added more peppers and scallions.
-The pepper salted shrimp was just ok for me.</description>
     </item>
     
   </channel>
