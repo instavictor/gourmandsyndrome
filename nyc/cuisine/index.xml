@@ -6,10 +6,28 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jun 2019 12:31:42 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2019 23:40:25 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New American</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/new-american/</link>
+      <pubDate>Sun, 23 Jun 2019 23:40:25 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/new-american/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seafood</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/seafood/</link>
+      <pubDate>Sun, 23 Jun 2019 23:40:25 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/seafood/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Michelin Star</title>
@@ -62,15 +80,6 @@
       <pubDate>Sat, 08 Jun 2019 13:30:59 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/garden/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New American</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/new-american/</link>
-      <pubDate>Sat, 08 Jun 2019 13:30:59 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/new-american/</guid>
       <description></description>
     </item>
     
@@ -224,15 +233,6 @@
       <pubDate>Sat, 19 Jan 2019 23:33:24 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/bbq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Greek</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/greek/</link>
-      <pubDate>Sat, 05 Jan 2019 15:08:07 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/greek/</guid>
       <description></description>
     </item>
     

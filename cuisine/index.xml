@@ -6,10 +6,28 @@
     <description>Recent content in Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jun 2019 12:31:42 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2019 23:40:25 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New American</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/new-american/</link>
+      <pubDate>Sun, 23 Jun 2019 23:40:25 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/new-american/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seafood</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/seafood/</link>
+      <pubDate>Sun, 23 Jun 2019 23:40:25 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/seafood/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Michelin Star</title>
@@ -53,15 +71,6 @@
       <pubDate>Sun, 09 Jun 2019 22:51:37 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/chinese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New American</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/new-american/</link>
-      <pubDate>Sat, 08 Jun 2019 13:30:59 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/new-american/</guid>
       <description></description>
     </item>
     
@@ -224,15 +233,6 @@
       <pubDate>Wed, 27 Feb 2019 00:43:34 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/peruvian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disney</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/disney/</link>
-      <pubDate>Mon, 25 Feb 2019 00:43:34 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/disney/</guid>
       <description></description>
     </item>
     
