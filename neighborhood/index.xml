@@ -6,10 +6,19 @@
     <description>Recent content in Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2019 23:40:25 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2019 17:15:23 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Midtown West</title>
+      <link>https://www.gourmandsyndrome.com/neighborhood/midtown-west/</link>
+      <pubDate>Sat, 29 Jun 2019 17:15:23 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/neighborhood/midtown-west/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>South Street Seaport</title>
@@ -26,15 +35,6 @@
       <pubDate>Sat, 15 Jun 2019 12:31:42 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/neighborhood/flatiron/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Midtown West</title>
-      <link>https://www.gourmandsyndrome.com/neighborhood/midtown-west/</link>
-      <pubDate>Tue, 11 Jun 2019 00:16:35 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/neighborhood/midtown-west/</guid>
       <description></description>
     </item>
     

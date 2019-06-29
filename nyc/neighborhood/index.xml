@@ -6,10 +6,37 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2019 23:40:25 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2019 17:15:23 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chelsea</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</link>
+      <pubDate>Sat, 29 Jun 2019 17:15:23 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hell&#39;s Kitchen</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/hells-kitchen/</link>
+      <pubDate>Sat, 29 Jun 2019 17:15:23 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/hells-kitchen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Midtown West</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</link>
+      <pubDate>Sat, 29 Jun 2019 17:15:23 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>South Street Seaport</title>
@@ -26,15 +53,6 @@
       <pubDate>Sat, 15 Jun 2019 12:31:42 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/flatiron/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Midtown West</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</link>
-      <pubDate>Tue, 11 Jun 2019 00:16:35 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</guid>
       <description></description>
     </item>
     
@@ -80,15 +98,6 @@
       <pubDate>Sun, 26 May 2019 00:04:00 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-east/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chelsea</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</link>
-      <pubDate>Tue, 21 May 2019 01:32:46 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</guid>
       <description></description>
     </item>
     
@@ -224,15 +233,6 @@
       <pubDate>Fri, 09 Nov 2018 13:47:21 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/tribeca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Williamsburg</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/williamsburg/</link>
-      <pubDate>Thu, 11 Oct 2018 22:13:19 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/williamsburg/</guid>
       <description></description>
     </item>
     
