@@ -6,10 +6,28 @@
     <description>Recent content in Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jun 2019 17:15:23 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2019 15:32:05 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>bars</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/bars/</link>
+      <pubDate>Sun, 30 Jun 2019 15:32:05 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/bars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tiki bar</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/tiki-bar/</link>
+      <pubDate>Sun, 30 Jun 2019 15:32:05 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/tiki-bar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>korean</title>
@@ -138,15 +156,6 @@
     </item>
     
     <item>
-      <title>bars</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/bars/</link>
-      <pubDate>Tue, 21 May 2019 01:32:46 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/bars/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>KBBQ</title>
       <link>https://www.gourmandsyndrome.com/cuisine/kbbq/</link>
       <pubDate>Sat, 18 May 2019 14:47:11 -0400</pubDate>
@@ -224,15 +233,6 @@
       <pubDate>Wed, 27 Feb 2019 00:43:34 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/lomo-saltado/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peruvian</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/peruvian/</link>
-      <pubDate>Wed, 27 Feb 2019 00:43:34 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/peruvian/</guid>
       <description></description>
     </item>
     
