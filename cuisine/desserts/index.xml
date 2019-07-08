@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>desserts on Gourmand Syndrome</title>
+    <title>Desserts on Gourmand Syndrome</title>
     <link>https://www.gourmandsyndrome.com/cuisine/desserts/</link>
-    <description>Recent content in desserts on Gourmand Syndrome</description>
+    <description>Recent content in Desserts on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Apr 2019 20:26:36 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2019 23:58:31 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/cuisine/desserts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Carlo&#39;s Bakery</title>
+      <link>https://www.gourmandsyndrome.com/nyc/desserts/carlos-bakery/</link>
+      <pubDate>Sun, 30 Jun 2019 23:58:31 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/desserts/carlos-bakery/</guid>
+      <description>Summary This place is known for the dessert chef featured on Cake Boss. To be quite honest, I&amp;rsquo;ve never watched it, so I don&amp;rsquo;t know what to expect.
+  We got chocolate cannoli, plain cannoli, some red velvet cake thing, and lobster tail. To be honest, the lobster tail was actually quite good and was my favorite of everything. The lobster tail&amp;rsquo;s pastry thin crust was flaky but not brittle.</description>
+    </item>
     
     <item>
       <title>Dō Cookie Dough</title>

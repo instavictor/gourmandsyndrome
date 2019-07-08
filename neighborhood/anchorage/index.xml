@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anchorage on Gourmand Syndrome</title>
-    <link>https://www.gourmandsyndrome.com/anc/city/anchorage/</link>
+    <link>https://www.gourmandsyndrome.com/neighborhood/anchorage/</link>
     <description>Recent content in Anchorage on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Jan 2019 13:50:05 -0500</lastBuildDate>
     
-	<atom:link href="https://www.gourmandsyndrome.com/anc/city/anchorage/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gourmandsyndrome.com/neighborhood/anchorage/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
