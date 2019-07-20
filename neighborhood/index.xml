@@ -6,10 +6,19 @@
     <description>Recent content in Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jul 2019 13:05:12 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2019 13:08:49 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Union Square</title>
+      <link>https://www.gourmandsyndrome.com/neighborhood/union-square/</link>
+      <pubDate>Fri, 05 Jul 2019 13:08:49 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/neighborhood/union-square/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>East Village</title>
@@ -224,15 +233,6 @@
       <pubDate>Sat, 02 Feb 2019 20:50:44 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/neighborhood/west-village/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Girdwood</title>
-      <link>https://www.gourmandsyndrome.com/neighborhood/girdwood/</link>
-      <pubDate>Sat, 26 Jan 2019 13:50:05 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/neighborhood/girdwood/</guid>
       <description></description>
     </item>
     

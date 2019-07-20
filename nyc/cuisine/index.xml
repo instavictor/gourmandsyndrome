@@ -6,10 +6,19 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jul 2019 13:05:12 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2019 13:08:49 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ramen</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/ramen/</link>
+      <pubDate>Fri, 05 Jul 2019 13:08:49 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/ramen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fried Chicken</title>
@@ -143,15 +152,6 @@
       <pubDate>Sun, 02 Jun 2019 23:04:29 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/thai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ramen</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/ramen/</link>
-      <pubDate>Tue, 28 May 2019 16:46:29 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/ramen/</guid>
       <description></description>
     </item>
     

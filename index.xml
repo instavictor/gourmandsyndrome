@@ -6,10 +6,20 @@
     <description>Recent content on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jul 2019 13:05:12 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2019 13:08:49 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ichiba</title>
+      <link>https://www.gourmandsyndrome.com/nyc/ramen/ichiba/</link>
+      <pubDate>Fri, 05 Jul 2019 13:08:49 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/ramen/ichiba/</guid>
+      <description>Summary This ramen place is near NYU and Union Station, so it&amp;rsquo;s very accessible.
+  The spicy miso ramen comes with ox bones and marrow broth, spicy miso garlic base, bean sprouts, roasted corn, toasted nori, naruto fishcake, soy braised beef, scallions, and thick wavy noodle. THe broth is super rich, far beyond what I was expecting. It&amp;rsquo;s not spicy per se, but the soup doesn&amp;rsquo;t go down super smooth for me.</description>
+    </item>
     
     <item>
       <title>Blue Ribbon Fried Chicken</title>
@@ -257,17 +267,6 @@ I wanted the fish ceviche, but they were out for whatever reason. The shrimp cev
       <guid>https://www.gourmandsyndrome.com/dc/bbq/hill-country-barbecue-market/</guid>
       <description>Summary I did not realize that they had this in New York City, so hopefully this didn&amp;rsquo;t ruin the entire experience.
 When you sit down, they take drink orders at your table. To order food, you have to physically walk up with a card to the butcher stations. They they stamp your card, and you come back to your table. When you&amp;rsquo;re done, the waiters take the card and charge you then.</description>
-    </item>
-    
-    <item>
-      <title>Paname</title>
-      <link>https://www.gourmandsyndrome.com/nyc/french/paname/</link>
-      <pubDate>Sun, 21 Apr 2019 23:49:42 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/french/paname/</guid>
-      <description>Summary I&amp;rsquo;m not a fan of brunch at all, so this was the first restaurant in the area I was in that seemed interesting to me. I completely forgot it was Easter Sunday, but luckily their prixe fix menu had all the regulars on it.
-  The bread was nothing to write home about. It came slightly on the cold side.
-  The escargots de bourgogne in baby potatoes were actually pretty good.</description>
     </item>
     
   </channel>

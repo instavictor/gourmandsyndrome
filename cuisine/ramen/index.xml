@@ -6,10 +6,20 @@
     <description>Recent content in ramen on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2019 16:46:29 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2019 13:08:49 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/cuisine/ramen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ichiba</title>
+      <link>https://www.gourmandsyndrome.com/nyc/ramen/ichiba/</link>
+      <pubDate>Fri, 05 Jul 2019 13:08:49 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/ramen/ichiba/</guid>
+      <description>Summary This ramen place is near NYU and Union Station, so it&amp;rsquo;s very accessible.
+  The spicy miso ramen comes with ox bones and marrow broth, spicy miso garlic base, bean sprouts, roasted corn, toasted nori, naruto fishcake, soy braised beef, scallions, and thick wavy noodle. THe broth is super rich, far beyond what I was expecting. It&amp;rsquo;s not spicy per se, but the soup doesn&amp;rsquo;t go down super smooth for me.</description>
+    </item>
     
     <item>
       <title>Tonchin</title>
@@ -232,15 +242,6 @@
       
       <guid>https://www.gourmandsyndrome.com/nyc/ramen/yuji-ramen/</guid>
       <description>Ramen omakase. Really good. Everything is homemade. $130 per person.</description>
-    </item>
-    
-    <item>
-      <title>Ryujin Ramen</title>
-      <link>https://www.gourmandsyndrome.com/nyc/ramen/ryujin-ramen/</link>
-      <pubDate>Sun, 16 Sep 2018 20:19:50 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/ramen/ryujin-ramen/</guid>
-      <description>It&amp;rsquo;s just ok. I&amp;rsquo;d go to other ramen places over this.</description>
     </item>
     
   </channel>
