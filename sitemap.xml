@@ -3,8 +3,127 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/cuisine/asian/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/asian/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/cuisine/bars/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/bars/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/borough/</loc>
-    <lastmod>2019-07-28T19:04:27-04:00</lastmod>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/cuisine/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/neighborhood/lic/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/locale/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/neighborhood/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/bars/penthouse-808/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/cuisine/peruvian/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/peruvian/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/borough/queens/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/queens/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
+    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -21,24 +140,6 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/cuisine/</loc>
-    <lastmod>2019-07-28T19:04:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2019-07-28T19:04:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2019-07-28T19:04:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/borough/manhattan/</loc>
     <lastmod>2019-07-28T19:04:27-04:00</lastmod>
     <priority>0</priority>
@@ -46,36 +147,6 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/manhattan/</loc>
-    <lastmod>2019-07-28T19:04:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/neighborhood/</loc>
-    <lastmod>2019-07-28T19:04:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2019-07-28T19:04:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2019-07-28T19:04:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2019-07-28T19:04:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
     <lastmod>2019-07-28T19:04:27-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -105,12 +176,6 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/breakfast/</loc>
-    <lastmod>2019-07-28T19:04:27-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
     <lastmod>2019-07-28T19:04:27-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -231,25 +296,13 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/tiki-bar/</loc>
-    <lastmod>2019-06-30T15:32:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/cuisine/bars/</loc>
-    <lastmod>2019-06-30T15:32:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/bars/</loc>
-    <lastmod>2019-06-30T15:32:05-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/cuisine/tiki-bar/</loc>
+    <lastmod>2019-06-30T15:32:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/tiki-bar/</loc>
     <lastmod>2019-06-30T15:32:05-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -436,18 +489,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/thai/jaew-hon/</loc>
     <lastmod>2019-06-02T23:04:29-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/borough/queens/</loc>
-    <lastmod>2019-06-02T23:04:29-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/queens/</loc>
-    <lastmod>2019-06-02T23:04:29-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -673,13 +714,13 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/cuisine/bbq/</loc>
+    <loc>https://www.gourmandsyndrome.com/dc/cuisine/bbq/</loc>
     <lastmod>2019-05-04T15:45:38-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/dc/cuisine/bbq/</loc>
+    <loc>https://www.gourmandsyndrome.com/cuisine/bbq/</loc>
     <lastmod>2019-05-04T15:45:38-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -750,18 +791,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/brazilian/favela-cubana/</loc>
     <lastmod>2019-04-21T19:59:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</loc>
-    <lastmod>2019-04-19T22:27:33-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/neighborhood/lic/</loc>
-    <lastmod>2019-04-19T22:27:33-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -935,12 +964,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/lax/marios-peruvian-and-seafood/</loc>
     <lastmod>2019-03-12T00:43:34-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/cuisine/peruvian/</loc>
-    <lastmod>2019-03-12T00:43:34-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1366,12 +1389,6 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/lomo-saltado/</loc>
-    <lastmod>2018-12-07T19:24:07-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/peruvian/</loc>
     <lastmod>2018-12-07T19:24:07-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2830,20 +2847,20 @@
   </url>
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/cuisine/piano-bar/</loc>
+    <lastmod>2018-09-09T01:49:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/piano-bar/</loc>
+    <lastmod>2018-09-09T01:49:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/bars/the-ragtrader-and-bo-beep-cocktail/</loc>
     <lastmod>2018-09-09T01:49:52-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/cuisine/piano/</loc>
-    <lastmod>2018-09-09T01:49:52-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/piano/</loc>
-    <lastmod>2018-09-09T01:49:52-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -2928,18 +2945,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/bars/mother-of-pearl/</loc>
     <lastmod>2018-09-09T01:28:40-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/cuisine/tiki/</loc>
-    <lastmod>2018-09-09T01:28:40-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/tiki/</loc>
-    <lastmod>2018-09-09T01:28:40-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

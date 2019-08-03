@@ -6,10 +6,20 @@
     <description>Recent content in Queens on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jun 2019 23:04:29 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2019 16:13:44 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/borough/queens/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Penthouse 808</title>
+      <link>https://www.gourmandsyndrome.com/nyc/bars/penthouse-808/</link>
+      <pubDate>Fri, 02 Aug 2019 16:13:44 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/bars/penthouse-808/</guid>
+      <description>Summary This bar / restaurant is located on the 6th floor in the Ravel Hotel in Long Island City. The view is fairly nice as you can see Midtown from the east, but it is not stellar since it sits slightly lower than the Queensborough bridge and there are 2 smoke stack obstructions as you look towards the Empire State building.
+We ordered some bottles of Rose and an entree.</description>
+    </item>
     
     <item>
       <title>Jaew Hon</title>
@@ -242,15 +252,6 @@ Final Verdict It&amp;rsquo;s a nice addition to the sparse Long Island City neig
       
       <guid>https://www.gourmandsyndrome.com/nyc/coffee/birch-coffee/</guid>
       <description>The cold brew was pretty good, and the Ethiopian beans were good too.</description>
-    </item>
-    
-    <item>
-      <title>Happy Stony Noodle</title>
-      <link>https://www.gourmandsyndrome.com/nyc/chinese/happy-stony-noodle/</link>
-      <pubDate>Sun, 09 Sep 2018 22:49:11 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/chinese/happy-stony-noodle/</guid>
-      <description>Cheap. It&amp;rsquo;s ok beef noodle + stinky tofu. Beef noodle with mustard green was ok.</description>
     </item>
     
   </channel>

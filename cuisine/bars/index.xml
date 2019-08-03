@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bars on Gourmand Syndrome</title>
+    <title>Bars on Gourmand Syndrome</title>
     <link>https://www.gourmandsyndrome.com/cuisine/bars/</link>
-    <description>Recent content in bars on Gourmand Syndrome</description>
+    <description>Recent content in Bars on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jun 2019 15:32:05 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2019 16:13:44 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/cuisine/bars/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Penthouse 808</title>
+      <link>https://www.gourmandsyndrome.com/nyc/bars/penthouse-808/</link>
+      <pubDate>Fri, 02 Aug 2019 16:13:44 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/bars/penthouse-808/</guid>
+      <description>Summary This bar / restaurant is located on the 6th floor in the Ravel Hotel in Long Island City. The view is fairly nice as you can see Midtown from the east, but it is not stellar since it sits slightly lower than the Queensborough bridge and there are 2 smoke stack obstructions as you look towards the Empire State building.
+We ordered some bottles of Rose and an entree.</description>
+    </item>
     
     <item>
       <title>The Polynesian</title>
@@ -230,15 +240,6 @@ But it&amp;rsquo;s CLOSED.</description>
       
       <guid>https://www.gourmandsyndrome.com/nyc/bars/raines-law-room/</guid>
       <description>Cool place. It&amp;rsquo;s in some random building basement, and the couches are comfy. Feels a little noir-ish.</description>
-    </item>
-    
-    <item>
-      <title>Bathtub Gin</title>
-      <link>https://www.gourmandsyndrome.com/nyc/bars/bathtub-gin/</link>
-      <pubDate>Sat, 25 Aug 2018 14:57:48 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/bars/bathtub-gin/</guid>
-      <description>Went here with a friend for the first time. Saw a random bouncer looking guy standing outside of a coffee shop. There&amp;rsquo;s a door next to the coffee shop that leads into an apartment complex. My friend and I looked at each other. We were thinking we were suppose to open this door, and that this &amp;ldquo;speak easy&amp;rdquo; is somewhere in this apartment complex. We tried to open the door, but it wouldn&amp;rsquo;t turn at all.</description>
     </item>
     
   </channel>

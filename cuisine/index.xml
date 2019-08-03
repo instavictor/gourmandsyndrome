@@ -6,10 +6,37 @@
     <description>Recent content in Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jul 2019 19:04:27 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2019 16:13:44 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Asian</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/asian/</link>
+      <pubDate>Fri, 02 Aug 2019 16:13:44 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/asian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bars</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/bars/</link>
+      <pubDate>Fri, 02 Aug 2019 16:13:44 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/bars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peruvian</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/peruvian/</link>
+      <pubDate>Fri, 02 Aug 2019 16:13:44 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/peruvian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Brazilian</title>
@@ -66,16 +93,7 @@
     </item>
     
     <item>
-      <title>bars</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/bars/</link>
-      <pubDate>Sun, 30 Jun 2019 15:32:05 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/bars/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tiki bar</title>
+      <title>Tiki Bar</title>
       <link>https://www.gourmandsyndrome.com/cuisine/tiki-bar/</link>
       <pubDate>Sun, 30 Jun 2019 15:32:05 -0400</pubDate>
       
@@ -215,24 +233,6 @@
       <pubDate>Sat, 27 Apr 2019 16:41:15 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/french/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BBQ</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/bbq/</link>
-      <pubDate>Sat, 27 Apr 2019 15:45:38 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/bbq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vegetarian</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/vegetarian/</link>
-      <pubDate>Tue, 16 Apr 2019 22:05:50 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/vegetarian/</guid>
       <description></description>
     </item>
     
