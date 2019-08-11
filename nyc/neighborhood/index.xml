@@ -6,10 +6,28 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Aug 2019 14:10:38 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2019 14:05:56 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Union Square</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/union-square/</link>
+      <pubDate>Fri, 09 Aug 2019 14:05:56 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/union-square/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fidi</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/fidi/</link>
+      <pubDate>Sun, 04 Aug 2019 13:56:39 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/fidi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Midtown East</title>
@@ -44,15 +62,6 @@
       <pubDate>Mon, 22 Jul 2019 20:20:51 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Union Square</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/union-square/</link>
-      <pubDate>Fri, 05 Jul 2019 13:08:49 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/union-square/</guid>
       <description></description>
     </item>
     
@@ -224,15 +233,6 @@
       <pubDate>Sat, 19 Jan 2019 23:33:24 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/gowanus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>South Village</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/south-village/</link>
-      <pubDate>Sat, 29 Dec 2018 17:05:57 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/south-village/</guid>
       <description></description>
     </item>
     
