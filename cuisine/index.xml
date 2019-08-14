@@ -6,10 +6,37 @@
     <description>Recent content in Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Aug 2019 14:10:38 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2019 14:05:56 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Desserts</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/desserts/</link>
+      <pubDate>Fri, 09 Aug 2019 14:05:56 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/desserts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>italian</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/italian/</link>
+      <pubDate>Fri, 09 Aug 2019 14:02:43 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/italian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sandwiches</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/sandwiches/</link>
+      <pubDate>Sun, 04 Aug 2019 13:56:39 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/sandwiches/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>steak</title>
@@ -89,15 +116,6 @@
       <pubDate>Wed, 03 Jul 2019 13:05:12 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/fried-chicken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>desserts</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/desserts/</link>
-      <pubDate>Sun, 30 Jun 2019 23:58:31 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/desserts/</guid>
       <description></description>
     </item>
     
@@ -192,15 +210,6 @@
     </item>
     
     <item>
-      <title>italian</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/italian/</link>
-      <pubDate>Mon, 27 May 2019 16:20:26 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/italian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Izakaya</title>
       <link>https://www.gourmandsyndrome.com/cuisine/izakaya/</link>
       <pubDate>Sun, 26 May 2019 00:04:00 -0400</pubDate>
@@ -219,20 +228,11 @@
     </item>
     
     <item>
-      <title>mexican</title>
+      <title>Mexican</title>
       <link>https://www.gourmandsyndrome.com/cuisine/mexican/</link>
       <pubDate>Mon, 06 May 2019 16:34:50 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/mexican/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cuban</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/cuban/</link>
-      <pubDate>Sun, 05 May 2019 17:55:03 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/cuban/</guid>
       <description></description>
     </item>
     
