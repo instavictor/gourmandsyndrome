@@ -6,10 +6,20 @@
     <description>Recent content in Chelsea on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2019 01:32:46 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2019 14:45:07 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/neighborhood/chelsea/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Death Ave</title>
+      <link>https://www.gourmandsyndrome.com/nyc/mediterranean/death-ave/</link>
+      <pubDate>Tue, 20 Aug 2019 14:45:07 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/mediterranean/death-ave/</guid>
+      <description>Summary This is a restaurant located close to the end of the Highline. It&amp;rsquo;s down on 10th ave at the corner. It&amp;rsquo;s actually next door to its bar. So if you want to visit this place, don&amp;rsquo;t open the first door on your left. Open the second door.
+  The sour beer on the top was quite good. It had some flavors of a Guinness but obviously with the sour in it.</description>
+    </item>
     
     <item>
       <title>The 18th Room</title>
@@ -233,15 +243,6 @@ This place is CLOSED for obvious reasons.</description>
       
       <guid>https://www.gourmandsyndrome.com/nyc/japanese/go-go-curry/</guid>
       <description>Good lunch spot and fast. Cheap.</description>
-    </item>
-    
-    <item>
-      <title>Lasagna Ristorante</title>
-      <link>https://www.gourmandsyndrome.com/nyc/italian/lasagna-ristorante/</link>
-      <pubDate>Sun, 16 Sep 2018 13:53:40 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/italian/lasagna-ristorante/</guid>
-      <description>Lots of food for lunch and just ok.</description>
     </item>
     
   </channel>

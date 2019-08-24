@@ -39,7 +39,34 @@
     </item>
     
     <item>
-      <title>desserts</title>
+      <title>Greek</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/greek/</link>
+      <pubDate>Tue, 20 Aug 2019 14:45:07 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/greek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New American</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/new-american/</link>
+      <pubDate>Tue, 20 Aug 2019 14:45:07 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/new-american/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mediterranean</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/mediterranean/</link>
+      <pubDate>Tue, 20 Aug 2019 14:45:07 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/mediterranean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desserts</title>
       <link>https://www.gourmandsyndrome.com/cuisine/desserts/</link>
       <pubDate>Fri, 09 Aug 2019 14:05:56 -0400</pubDate>
       
@@ -156,15 +183,6 @@
     </item>
     
     <item>
-      <title>New American</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/new-american/</link>
-      <pubDate>Sun, 23 Jun 2019 23:40:25 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/new-american/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Michelin Star</title>
       <link>https://www.gourmandsyndrome.com/cuisine/michelin-star/</link>
       <pubDate>Sat, 15 Jun 2019 12:31:42 -0400</pubDate>
@@ -215,24 +233,6 @@
       <pubDate>Sun, 02 Jun 2019 23:04:29 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/thai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Izakaya</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/izakaya/</link>
-      <pubDate>Sun, 26 May 2019 00:04:00 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/izakaya/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>KBBQ</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/kbbq/</link>
-      <pubDate>Sat, 18 May 2019 14:47:11 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/kbbq/</guid>
       <description></description>
     </item>
     
