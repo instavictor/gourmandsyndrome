@@ -6,10 +6,19 @@
     <description>Recent content in Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Aug 2019 14:05:56 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2019 15:13:32 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Greenwich Village</title>
+      <link>https://www.gourmandsyndrome.com/neighborhood/greenwich-village/</link>
+      <pubDate>Fri, 23 Aug 2019 15:13:32 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/neighborhood/greenwich-village/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Union Square</title>
@@ -152,15 +161,6 @@
       <pubDate>Sat, 27 Apr 2019 15:45:38 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/neighborhood/penn-quarter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Greenwich Village</title>
-      <link>https://www.gourmandsyndrome.com/neighborhood/greenwich-village/</link>
-      <pubDate>Sat, 20 Apr 2019 20:26:36 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/neighborhood/greenwich-village/</guid>
       <description></description>
     </item>
     

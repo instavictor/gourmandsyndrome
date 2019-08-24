@@ -6,13 +6,40 @@
     <description>Recent content in Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Aug 2019 14:05:56 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2019 15:13:32 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Desserts</title>
+      <title>Japanese</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/japanese/</link>
+      <pubDate>Fri, 23 Aug 2019 15:13:32 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/japanese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seafood</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/seafood/</link>
+      <pubDate>Fri, 23 Aug 2019 15:13:32 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/seafood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sushi</title>
+      <link>https://www.gourmandsyndrome.com/cuisine/sushi/</link>
+      <pubDate>Fri, 23 Aug 2019 15:13:32 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/cuisine/sushi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>desserts</title>
       <link>https://www.gourmandsyndrome.com/cuisine/desserts/</link>
       <pubDate>Fri, 09 Aug 2019 14:05:56 -0400</pubDate>
       
@@ -138,15 +165,6 @@
     </item>
     
     <item>
-      <title>Seafood</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/seafood/</link>
-      <pubDate>Sun, 23 Jun 2019 23:40:25 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/seafood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Michelin Star</title>
       <link>https://www.gourmandsyndrome.com/cuisine/michelin-star/</link>
       <pubDate>Sat, 15 Jun 2019 12:31:42 -0400</pubDate>
@@ -170,15 +188,6 @@
       <pubDate>Sat, 15 Jun 2019 12:31:42 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/spanish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Japanese</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/japanese/</link>
-      <pubDate>Tue, 11 Jun 2019 00:16:35 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/japanese/</guid>
       <description></description>
     </item>
     
@@ -224,15 +233,6 @@
       <pubDate>Sat, 18 May 2019 14:47:11 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/cuisine/kbbq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mexican</title>
-      <link>https://www.gourmandsyndrome.com/cuisine/mexican/</link>
-      <pubDate>Mon, 06 May 2019 16:34:50 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/cuisine/mexican/</guid>
       <description></description>
     </item>
     

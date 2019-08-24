@@ -6,10 +6,22 @@
     <description>Recent content in Japanese on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jun 2019 00:16:35 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2019 15:13:32 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/cuisine/japanese/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rawbar by Domodomo</title>
+      <link>https://www.gourmandsyndrome.com/nyc/seafood/rawbar-by-domodomo/</link>
+      <pubDate>Fri, 23 Aug 2019 15:13:32 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/seafood/rawbar-by-domodomo/</guid>
+      <description>Summary Close to NYU, this is next door to its parent restaurant Domodomo. This is primarily a rawbar, meaning somewhat affordable raw seafood.
+  The iced green tea is nice for a warm day. The green tea is quite flavorful, but of course if you want it to be sweeter, you can ask for sugar.
+  We ordered a dozen oysters. Essentially 2 of the following:
+- Half Moon (Cape Cod Bay, MA) : sweet, medium salnity, clean finish</description>
+    </item>
     
     <item>
       <title>Katsu Hama</title>
@@ -239,15 +251,6 @@ But it&amp;rsquo;s CLOSED.</description>
       <guid>https://www.gourmandsyndrome.com/nyc/japanese/uma-temakeria/</guid>
       <description>Terrible &amp;ldquo;sushi burrito&amp;rdquo;
 This place is CLOSED for obvious reasons.</description>
-    </item>
-    
-    <item>
-      <title>Go Go Curry</title>
-      <link>https://www.gourmandsyndrome.com/nyc/japanese/go-go-curry/</link>
-      <pubDate>Sun, 16 Sep 2018 14:04:46 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/japanese/go-go-curry/</guid>
-      <description>Good lunch spot and fast. Cheap.</description>
     </item>
     
   </channel>

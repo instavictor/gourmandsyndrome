@@ -6,10 +6,37 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Aug 2019 14:05:56 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2019 15:13:32 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Japanese</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</link>
+      <pubDate>Fri, 23 Aug 2019 15:13:32 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seafood</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/seafood/</link>
+      <pubDate>Fri, 23 Aug 2019 15:13:32 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/seafood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sushi</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/sushi/</link>
+      <pubDate>Fri, 23 Aug 2019 15:13:32 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/sushi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>desserts</title>
@@ -138,15 +165,6 @@
     </item>
     
     <item>
-      <title>Seafood</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/seafood/</link>
-      <pubDate>Sun, 23 Jun 2019 23:40:25 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/seafood/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Michelin Star</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/michelin-star/</link>
       <pubDate>Sat, 15 Jun 2019 12:31:42 -0400</pubDate>
@@ -170,15 +188,6 @@
       <pubDate>Sat, 15 Jun 2019 12:31:42 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/spanish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Japanese</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</link>
-      <pubDate>Tue, 11 Jun 2019 00:16:35 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</guid>
       <description></description>
     </item>
     
@@ -224,15 +233,6 @@
       <pubDate>Sun, 26 May 2019 00:04:00 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/izakaya/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>KBBQ</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/kbbq/</link>
-      <pubDate>Sat, 18 May 2019 14:47:11 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/kbbq/</guid>
       <description></description>
     </item>
     

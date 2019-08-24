@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sushi on Gourmand Syndrome</title>
+    <link>https://www.gourmandsyndrome.com/cuisine/sushi/</link>
+    <description>Recent content in Sushi on Gourmand Syndrome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Aug 2019 15:13:32 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.gourmandsyndrome.com/cuisine/sushi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rawbar by Domodomo</title>
+      <link>https://www.gourmandsyndrome.com/nyc/seafood/rawbar-by-domodomo/</link>
+      <pubDate>Fri, 23 Aug 2019 15:13:32 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/seafood/rawbar-by-domodomo/</guid>
+      <description>Summary Close to NYU, this is next door to its parent restaurant Domodomo. This is primarily a rawbar, meaning somewhat affordable raw seafood.
+  The iced green tea is nice for a warm day. The green tea is quite flavorful, but of course if you want it to be sweeter, you can ask for sugar.
+  We ordered a dozen oysters. Essentially 2 of the following:
+- Half Moon (Cape Cod Bay, MA) : sweet, medium salnity, clean finish</description>
+    </item>
+    
+  </channel>
+</rss>
