@@ -6,10 +6,28 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Aug 2019 15:13:32 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2019 21:57:14 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chinese</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</link>
+      <pubDate>Fri, 30 Aug 2019 21:57:14 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thai</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/thai/</link>
+      <pubDate>Sun, 25 Aug 2019 20:53:17 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/thai/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Japanese</title>
@@ -75,7 +93,7 @@
     </item>
     
     <item>
-      <title>desserts</title>
+      <title>Desserts</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/desserts/</link>
       <pubDate>Fri, 09 Aug 2019 14:05:56 -0400</pubDate>
       
@@ -84,7 +102,7 @@
     </item>
     
     <item>
-      <title>italian</title>
+      <title>Italian</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</link>
       <pubDate>Fri, 09 Aug 2019 14:02:43 -0400</pubDate>
       
@@ -93,7 +111,7 @@
     </item>
     
     <item>
-      <title>sandwiches</title>
+      <title>Sandwiches</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/sandwiches/</link>
       <pubDate>Sun, 04 Aug 2019 13:56:39 -0400</pubDate>
       
@@ -102,7 +120,7 @@
     </item>
     
     <item>
-      <title>steak</title>
+      <title>Steak</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/steak/</link>
       <pubDate>Sat, 03 Aug 2019 14:10:38 -0400</pubDate>
       
@@ -147,7 +165,7 @@
     </item>
     
     <item>
-      <title>breakfast</title>
+      <title>Breakfast</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/breakfast/</link>
       <pubDate>Sun, 28 Jul 2019 19:04:27 -0400</pubDate>
       
@@ -156,7 +174,7 @@
     </item>
     
     <item>
-      <title>ramen</title>
+      <title>Ramen</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/ramen/</link>
       <pubDate>Fri, 05 Jul 2019 13:08:49 -0400</pubDate>
       
@@ -210,29 +228,11 @@
     </item>
     
     <item>
-      <title>Chinese</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</link>
-      <pubDate>Sun, 09 Jun 2019 22:51:37 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Garden</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/garden/</link>
       <pubDate>Sat, 08 Jun 2019 13:30:59 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/garden/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tastings</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/tastings/</link>
-      <pubDate>Tue, 04 Jun 2019 15:34:10 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/tastings/</guid>
       <description></description>
     </item>
     

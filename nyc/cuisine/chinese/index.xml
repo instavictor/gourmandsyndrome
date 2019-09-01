@@ -6,10 +6,21 @@
     <description>Recent content in Chinese on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jun 2019 22:51:37 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2019 21:57:14 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/chinese/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Xu&#39;s Public House</title>
+      <link>https://www.gourmandsyndrome.com/nyc/chinese/xus-public-house/</link>
+      <pubDate>Fri, 30 Aug 2019 21:57:14 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/chinese/xus-public-house/</guid>
+      <description>Summary This seems to be a new upscaled Chinese restaurant that we accidentally stumbled into. The decor is very modern and has a slight pretentious feel to it. I learned that the restaurant likes to advertise it hand makes basically all the dough.
+  They gave this waffle like starter. It is similar to those red bean cakes but without the red bean.
+  The dumpling sampler had 4 dumplings.</description>
+    </item>
     
     <item>
       <title>Dun Huang</title>
@@ -241,15 +252,6 @@ This is PERMA closed.</description>
       
       <guid>https://www.gourmandsyndrome.com/nyc/chinese/yaso-tangbao/</guid>
       <description>This place was pretty good for the price. The soup dumplings had the authentice black vinegar sauce with ginger. They were open on Thanksgiving.</description>
-    </item>
-    
-    <item>
-      <title>M Noodle Shop</title>
-      <link>https://www.gourmandsyndrome.com/nyc/chinese/m-noodle-shop/</link>
-      <pubDate>Sun, 09 Sep 2018 22:23:32 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/chinese/m-noodle-shop/</guid>
-      <description>Terrible but cheap Chinese. The pork chop on top of rice was terrible.</description>
     </item>
     
   </channel>
