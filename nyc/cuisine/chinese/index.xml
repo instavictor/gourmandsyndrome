@@ -6,10 +6,21 @@
     <description>Recent content in Chinese on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Aug 2019 21:57:14 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2019 23:20:02 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/chinese/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Baodega</title>
+      <link>https://www.gourmandsyndrome.com/nyc/chinese/baodega/</link>
+      <pubDate>Fri, 06 Sep 2019 23:20:02 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/chinese/baodega/</guid>
+      <description>Summary This little spot closed to the edge of Flatiron is a decent place if you&amp;rsquo;re into Shanghainese food and are not close to Chinatown.
+  The passion fruit lemonade was good. You can taste the passion fruit, and it mixed well with the lemonade.
+  The chilled marinated cucumbers were also good too although I felt the cucumbers were not marinated long enough. They were crunchy with an OK kick to them.</description>
+    </item>
     
     <item>
       <title>Xu&#39;s Public House</title>
@@ -243,15 +254,6 @@ This is PERMA closed.</description>
       
       <guid>https://www.gourmandsyndrome.com/nyc/chinese/dumpling-man/</guid>
       <description>XLB was just ok. Price was cheap.</description>
-    </item>
-    
-    <item>
-      <title>Yaso Tangbao</title>
-      <link>https://www.gourmandsyndrome.com/nyc/chinese/yaso-tangbao/</link>
-      <pubDate>Sun, 09 Sep 2018 22:25:22 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/chinese/yaso-tangbao/</guid>
-      <description>This place was pretty good for the price. The soup dumplings had the authentice black vinegar sauce with ginger. They were open on Thanksgiving.</description>
     </item>
     
   </channel>

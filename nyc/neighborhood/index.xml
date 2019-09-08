@@ -6,10 +6,28 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Aug 2019 21:57:14 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2019 23:20:02 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Flatiron</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/flatiron/</link>
+      <pubDate>Fri, 06 Sep 2019 23:20:02 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/flatiron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South Village</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/south-village/</link>
+      <pubDate>Mon, 02 Sep 2019 23:18:16 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/south-village/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Union Square</title>
@@ -120,15 +138,6 @@
     </item>
     
     <item>
-      <title>Flatiron</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/flatiron/</link>
-      <pubDate>Sat, 15 Jun 2019 12:31:42 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/flatiron/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jackson Heights</title>
       <link>https://www.gourmandsyndrome.com/nyc/neighborhood/jackson-heights/</link>
       <pubDate>Sun, 02 Jun 2019 23:04:29 -0400</pubDate>
@@ -224,15 +233,6 @@
       <pubDate>Sat, 02 Feb 2019 20:50:44 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/west-village/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gowanus</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/gowanus/</link>
-      <pubDate>Sat, 19 Jan 2019 23:33:24 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/gowanus/</guid>
       <description></description>
     </item>
     
