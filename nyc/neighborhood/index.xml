@@ -6,10 +6,19 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Sep 2019 23:20:02 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2019 21:47:32 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>West Village</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/west-village/</link>
+      <pubDate>Sat, 07 Sep 2019 21:47:32 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/west-village/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Flatiron</title>
@@ -224,15 +233,6 @@
       <pubDate>Sat, 09 Feb 2019 22:13:37 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/flushing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>West Village</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/west-village/</link>
-      <pubDate>Sat, 02 Feb 2019 20:50:44 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/west-village/</guid>
       <description></description>
     </item>
     
