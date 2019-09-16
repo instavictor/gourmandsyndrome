@@ -6,10 +6,37 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Sep 2019 21:47:32 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2019 18:03:04 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>French</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/french/</link>
+      <pubDate>Sat, 14 Sep 2019 18:03:04 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/french/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michelin Star</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/michelin-star/</link>
+      <pubDate>Sat, 14 Sep 2019 18:03:04 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/michelin-star/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tastings</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/tastings/</link>
+      <pubDate>Sat, 14 Sep 2019 18:03:04 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/tastings/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pizza</title>
@@ -206,33 +233,6 @@
       <pubDate>Wed, 03 Jul 2019 13:05:12 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/fried-chicken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tiki Bar</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/tiki-bar/</link>
-      <pubDate>Sun, 30 Jun 2019 15:32:05 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/tiki-bar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michelin Star</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/michelin-star/</link>
-      <pubDate>Sat, 15 Jun 2019 12:31:42 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/michelin-star/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Portuguese</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/portuguese/</link>
-      <pubDate>Sat, 15 Jun 2019 12:31:42 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/portuguese/</guid>
       <description></description>
     </item>
     
