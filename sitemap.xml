@@ -3,6 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/</loc>
+    <lastmod>2019-09-19T18:12:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</loc>
+    <lastmod>2019-09-19T18:12:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/les/</loc>
+    <lastmod>2019-09-19T18:12:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/locale/</loc>
+    <lastmod>2019-09-19T18:12:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/manhattan/</loc>
+    <lastmod>2019-09-19T18:12:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
+    <lastmod>2019-09-19T18:12:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
+    <lastmod>2019-09-19T18:12:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
+    <lastmod>2019-09-19T18:12:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2019-09-19T18:12:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/italian/spaghetti-incident/</loc>
+    <lastmod>2019-09-19T18:12:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
+    <lastmod>2019-09-19T18:12:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/french/</loc>
     <lastmod>2019-09-14T18:03:04-04:00</lastmod>
     <priority>0</priority>
@@ -11,24 +76,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/french/gabriel-kreuther/</loc>
     <lastmod>2019-09-14T18:03:04-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2019-09-14T18:03:04-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2019-09-14T18:03:04-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/manhattan/</loc>
-    <lastmod>2019-09-14T18:03:04-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -44,37 +91,7 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2019-09-14T18:03:04-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2019-09-14T18:03:04-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2019-09-14T18:03:04-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
-    <lastmod>2019-09-14T18:03:04-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/tastings/</loc>
-    <lastmod>2019-09-14T18:03:04-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
     <lastmod>2019-09-14T18:03:04-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -145,12 +162,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/chinese/xus-public-house/</loc>
     <lastmod>2019-08-30T21:57:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/les/</loc>
-    <lastmod>2019-08-25T20:53:17-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -236,12 +247,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/desserts/patisserie-fouet/</loc>
     <lastmod>2019-08-09T14:05:56-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</loc>
-    <lastmod>2019-08-09T14:02:43-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
