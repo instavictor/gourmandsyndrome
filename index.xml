@@ -6,10 +6,21 @@
     <description>Recent content on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Sep 2019 18:12:47 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2019 18:22:29 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gitano Jungle Room</title>
+      <link>https://www.gourmandsyndrome.com/nyc/mexican/gitano-jungle-room/</link>
+      <pubDate>Sun, 22 Sep 2019 18:22:29 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/mexican/gitano-jungle-room/</guid>
+      <description>Summary This place is located near the James Hotel. They have an outdoors garden that has a decent view.
+{{ gs/figure 1 }}
+The chilaquiles was basically 2 eggs, crema, salsa verde, and crispy tortillas. There wasn&amp;rsquo;t much else here. I thought it was pretty primitive and uninteresting. The salsa was good, but you wish there was some more meats and maybe avocado or something else to give it a little more flavor.</description>
+    </item>
     
     <item>
       <title>Spaghetti Incident</title>
@@ -251,16 +262,6 @@ The area is largely going through some sort of construction. The restaurant is l
       <guid>https://www.gourmandsyndrome.com/nyc/portuguese/aldea/</guid>
       <description>Summary I&amp;rsquo;ve never had Portuguese food other than the pastels, so this is the first for me. This special occasion was for a birthday and to try out a different type of cuisine that is largely not as popular as the mainstream French or Asian themed Michelin Star restaurants.
 We got the tasting menu with wine pairing. The hosts were very nice in that we mentioned we&amp;rsquo;d like to just have wine pairing for 1 person and not the other, so that we can share since we&amp;rsquo;re not big drinkers.</description>
-    </item>
-    
-    <item>
-      <title>Katsu Hama</title>
-      <link>https://www.gourmandsyndrome.com/nyc/japanese/katsu-hama/</link>
-      <pubDate>Tue, 11 Jun 2019 00:16:35 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/japanese/katsu-hama/</guid>
-      <description>Summary Katsu is some of my favorite Japanese food. We decided to try this restaurant because it was close to where we were in Midtown. This type of food generally is not overly expensive like other Japanese foods, and it&amp;rsquo;s pretty filling too. And for whatever reason, the pork cutlets are always really good and hearty too.
-  The Berkshire pork cutlet is basically a slightly fattier piece compared to a regular pork cutlet.</description>
     </item>
     
   </channel>
