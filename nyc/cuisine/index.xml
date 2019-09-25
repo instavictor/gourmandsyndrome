@@ -21,20 +21,11 @@
     </item>
     
     <item>
-      <title>Italian</title>
+      <title>italian</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</link>
       <pubDate>Thu, 19 Sep 2019 18:12:47 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>French</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/french/</link>
-      <pubDate>Sat, 14 Sep 2019 18:03:04 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/french/</guid>
       <description></description>
     </item>
     
@@ -53,6 +44,15 @@
       <pubDate>Sat, 14 Sep 2019 18:03:04 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/tastings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>french</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/french/</link>
+      <pubDate>Sat, 14 Sep 2019 18:03:04 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/french/</guid>
       <description></description>
     </item>
     
