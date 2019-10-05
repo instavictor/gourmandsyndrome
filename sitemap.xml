@@ -108,6 +108,12 @@
   </url>
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</loc>
+    <lastmod>2019-09-19T18:12:47-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/les/</loc>
     <lastmod>2019-09-19T18:12:47-04:00</lastmod>
     <priority>0</priority>
@@ -119,8 +125,8 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</loc>
-    <lastmod>2019-09-19T18:12:47-04:00</lastmod>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/french/</loc>
+    <lastmod>2019-09-14T18:03:04-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -143,12 +149,6 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/tastings/</loc>
-    <lastmod>2019-09-14T18:03:04-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/french/</loc>
     <lastmod>2019-09-14T18:03:04-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2302,14 +2302,14 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/breakfast/moes-doughs-donut-shop/</loc>
-    <lastmod>2018-09-09T21:43:44-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/donuts/</loc>
     <lastmod>2018-09-09T21:43:44-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/breakfast/moes-doughs-donut-shop/</loc>
+    <lastmod>2018-09-09T21:43:44-04:00</lastmod>
   </url>
   
   <url>
