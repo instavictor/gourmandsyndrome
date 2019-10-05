@@ -6,10 +6,21 @@
     <description>Recent content in Japanese on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Aug 2019 15:13:32 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2019 15:39:55 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/japanese/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kaoru</title>
+      <link>https://www.gourmandsyndrome.com/nyc/japanese/kaoru/</link>
+      <pubDate>Wed, 02 Oct 2019 15:39:55 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/japanese/kaoru/</guid>
+      <description>Summary This place is basically chirashi haven.
+  It&amp;rsquo;s miso soup.
+  The uni don came with hamachi and spicy tuna and shiso leaf. I wasn&amp;rsquo;t too much of a fan of the spicy tuna compared to some other places, but it was still pretty good. The spicy tuna had a very particular flavor that was masked of course when you use soy sauce with wasabi. Otherwise, the fish tasted pretty fresh overall.</description>
+    </item>
     
     <item>
       <title>Rawbar by Domodomo</title>
@@ -241,15 +252,6 @@ But it&amp;rsquo;s CLOSED.</description>
       <guid>https://www.gourmandsyndrome.com/nyc/japanese/uma-temakeria/</guid>
       <description>Terrible &amp;ldquo;sushi burrito&amp;rdquo;
 This place is CLOSED for obvious reasons.</description>
-    </item>
-    
-    <item>
-      <title>Go Go Curry</title>
-      <link>https://www.gourmandsyndrome.com/nyc/japanese/go-go-curry/</link>
-      <pubDate>Sun, 16 Sep 2018 14:04:46 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/japanese/go-go-curry/</guid>
-      <description>Good lunch spot and fast. Cheap.</description>
     </item>
     
   </channel>

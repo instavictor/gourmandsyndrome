@@ -6,10 +6,28 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Sep 2019 18:22:29 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2019 15:40:25 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Koreatown</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/koreatown/</link>
+      <pubDate>Fri, 04 Oct 2019 15:40:25 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/koreatown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Midtown East</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-east/</link>
+      <pubDate>Wed, 02 Oct 2019 15:39:55 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-east/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>South Village</title>
@@ -102,15 +120,6 @@
     </item>
     
     <item>
-      <title>Midtown East</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-east/</link>
-      <pubDate>Sat, 03 Aug 2019 14:10:38 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-east/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>LIC</title>
       <link>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</link>
       <pubDate>Fri, 02 Aug 2019 16:13:44 -0400</pubDate>
@@ -188,15 +197,6 @@
       <pubDate>Sat, 18 May 2019 14:47:11 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/kips-bay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Koreatown</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/koreatown/</link>
-      <pubDate>Fri, 17 May 2019 15:57:00 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/koreatown/</guid>
       <description></description>
     </item>
     

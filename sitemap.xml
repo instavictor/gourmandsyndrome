@@ -3,26 +3,96 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/mexican/gitano-jungle-room/</loc>
-    <lastmod>2019-09-22T18:22:29-04:00</lastmod>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</loc>
+    <lastmod>2019-10-04T15:40:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/dim-sum/</loc>
+    <lastmod>2019-10-04T15:40:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/chinese/dim-sum-palace/</loc>
+    <lastmod>2019-10-04T15:40:25-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2019-09-28T18:25:30-04:00</lastmod>
+    <lastmod>2019-10-04T15:40:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/koreatown/</loc>
+    <lastmod>2019-10-04T15:40:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2019-09-28T18:25:30-04:00</lastmod>
+    <lastmod>2019-10-04T15:40:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/manhattan/</loc>
-    <lastmod>2019-09-28T18:25:30-04:00</lastmod>
+    <lastmod>2019-10-04T15:40:25-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
+    <lastmod>2019-10-04T15:40:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
+    <lastmod>2019-10-04T15:40:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
+    <lastmod>2019-10-04T15:40:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2019-10-04T15:40:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
+    <lastmod>2019-10-04T15:40:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</loc>
+    <lastmod>2019-10-02T15:39:55-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/japanese/kaoru/</loc>
+    <lastmod>2019-10-02T15:39:55-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-east/</loc>
+    <lastmod>2019-10-02T15:39:55-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/mexican/gitano-jungle-room/</loc>
+    <lastmod>2019-09-22T18:22:29-04:00</lastmod>
   </url>
   
   <url>
@@ -32,44 +102,8 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2019-09-28T18:25:30-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2019-09-28T18:25:30-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2019-09-28T18:25:30-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
-    <lastmod>2019-09-28T18:25:30-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/south-village/</loc>
     <lastmod>2019-09-22T18:22:29-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2019-09-28T18:25:30-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</loc>
-    <lastmod>2019-09-19T18:12:47-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,6 +116,12 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/italian/spaghetti-incident/</loc>
     <lastmod>2019-09-19T18:12:47-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</loc>
+    <lastmod>2019-09-19T18:12:47-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -133,12 +173,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/chinese/baodega/</loc>
     <lastmod>2019-09-06T23:20:02-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</loc>
-    <lastmod>2019-09-06T23:20:02-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -211,12 +245,6 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/greenwich-village/</loc>
-    <lastmod>2019-08-23T15:13:32-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</loc>
     <lastmod>2019-08-23T15:13:32-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -302,12 +330,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/steak/empire-steak-house/</loc>
     <lastmod>2019-08-03T14:10:38-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-east/</loc>
-    <lastmod>2019-09-21T17:57:11-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -561,12 +583,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/kips-bay/</loc>
     <lastmod>2019-05-18T14:47:11-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/koreatown/</loc>
-    <lastmod>2019-05-17T15:57:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -6,10 +6,21 @@
     <description>Recent content in Chinese on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Sep 2019 23:20:02 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2019 15:40:25 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/chinese/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dim Sum Palace</title>
+      <link>https://www.gourmandsyndrome.com/nyc/chinese/dim-sum-palace/</link>
+      <pubDate>Fri, 04 Oct 2019 15:40:25 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/chinese/dim-sum-palace/</guid>
+      <description>Summary It&amp;rsquo;s the evening and where could be a good place to get fairly traditional Cantonese style Chinese food? Dim Sum Palace!
+  The pork ribs (páigǔ; 排骨) is pretty decent. It came out piping hot with a lump of black bean that probably was suppose to be mixed in the sauce. It&amp;rsquo;s a little different than other dim sum places, but still pretty good.
+  The salted pepper prawns were really good.</description>
+    </item>
     
     <item>
       <title>Baodega</title>
@@ -245,15 +256,6 @@ This is PERMA closed.</description>
       
       <guid>https://www.gourmandsyndrome.com/nyc/chinese/nan-xiang-xiao-long-bao/</guid>
       <description>XLB was ok. Scallion cakes were good. Beef wrap was good. Cash only.</description>
-    </item>
-    
-    <item>
-      <title>Dumpling Man</title>
-      <link>https://www.gourmandsyndrome.com/nyc/chinese/dumpling-man/</link>
-      <pubDate>Sun, 09 Sep 2018 22:28:07 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/chinese/dumpling-man/</guid>
-      <description>XLB was just ok. Price was cheap.</description>
     </item>
     
   </channel>
