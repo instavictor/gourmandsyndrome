@@ -6,10 +6,19 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Oct 2019 15:40:25 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2019 22:44:18 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Italian</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</link>
+      <pubDate>Fri, 11 Oct 2019 22:44:18 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chinese</title>
@@ -44,15 +53,6 @@
       <pubDate>Sun, 22 Sep 2019 18:22:29 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/mexican/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Italian</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</link>
-      <pubDate>Thu, 19 Sep 2019 18:12:47 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</guid>
       <description></description>
     </item>
     
