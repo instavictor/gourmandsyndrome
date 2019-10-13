@@ -6,10 +6,28 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Oct 2019 22:44:18 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2019 22:48:16 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Greek</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/greek/</link>
+      <pubDate>Sat, 12 Oct 2019 22:48:16 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/greek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mediterranean</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/mediterranean/</link>
+      <pubDate>Sat, 12 Oct 2019 22:48:16 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/mediterranean/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Italian</title>
@@ -102,6 +120,15 @@
     </item>
     
     <item>
+      <title>KBBQ</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/kbbq/</link>
+      <pubDate>Mon, 02 Sep 2019 23:18:16 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/kbbq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Korean</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/korean/</link>
       <pubDate>Mon, 02 Sep 2019 23:18:16 -0400</pubDate>
@@ -156,24 +183,6 @@
     </item>
     
     <item>
-      <title>Greek</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/greek/</link>
-      <pubDate>Tue, 20 Aug 2019 14:45:07 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/greek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mediterranean</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/mediterranean/</link>
-      <pubDate>Tue, 20 Aug 2019 14:45:07 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/mediterranean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Desserts</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/desserts/</link>
       <pubDate>Fri, 09 Aug 2019 14:05:56 -0400</pubDate>
@@ -224,15 +233,6 @@
       <pubDate>Fri, 02 Aug 2019 16:13:44 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/peruvian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brazilian</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/brazilian/</link>
-      <pubDate>Sun, 28 Jul 2019 19:04:27 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/brazilian/</guid>
       <description></description>
     </item>
     

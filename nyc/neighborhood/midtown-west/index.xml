@@ -6,10 +6,20 @@
     <description>Recent content in Midtown West on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Sep 2019 18:03:04 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2019 22:48:16 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Souvlaki GR</title>
+      <link>https://www.gourmandsyndrome.com/nyc/mediterranean/souvlaki-gr/</link>
+      <pubDate>Sat, 12 Oct 2019 22:48:16 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/mediterranean/souvlaki-gr/</guid>
+      <description>Summary If you&amp;rsquo;re just shy of Central Park to the south and it&amp;rsquo;s in the middle of the day, this might be a good option.
+  On the bottom is the mixed grilled meat platter for two people (psita tis oras poikilia). It&amp;rsquo;s a combination of lambchops, traditional Greek sauce, pork/beef skewers, and pita and tzatziki. All of this was pretty good. The lambchops were ordered medium rare, and it was tender and delicious.</description>
+    </item>
     
     <item>
       <title>Gabriel Kreuther</title>
@@ -246,15 +256,6 @@ It&amp;rsquo;s also CLOSED.</description>
       
       <guid>https://www.gourmandsyndrome.com/nyc/ramen/totto-ramen/</guid>
       <description>I think this is still one of my top favorite ramen places in NYC. It&amp;rsquo;s cash only.</description>
-    </item>
-    
-    <item>
-      <title>Mentoku Ramen</title>
-      <link>https://www.gourmandsyndrome.com/nyc/ramen/mentoku-ramen/</link>
-      <pubDate>Sun, 16 Sep 2018 20:35:08 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/ramen/mentoku-ramen/</guid>
-      <description>It seems I only wrote &amp;ldquo;pretty good&amp;rdquo; on my spreadsheet, and right now I am drawing a blank about this place.</description>
     </item>
     
   </channel>
