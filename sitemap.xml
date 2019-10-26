@@ -3,68 +3,79 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/bars/</loc>
+    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2019-10-19T22:45:48-04:00</lastmod>
+    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2019-10-19T22:45:48-04:00</lastmod>
+    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/manhattan/</loc>
-    <lastmod>2019-10-19T22:45:48-04:00</lastmod>
+    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown/</loc>
-    <lastmod>2019-10-19T22:45:48-04:00</lastmod>
+    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/new-american/</loc>
-    <lastmod>2019-10-19T22:45:48-04:00</lastmod>
+    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2019-10-19T22:45:48-04:00</lastmod>
+    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2019-10-19T22:45:48-04:00</lastmod>
+    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2019-10-19T22:45:48-04:00</lastmod>
+    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/</loc>
-    <lastmod>2019-10-19T22:45:48-04:00</lastmod>
+    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/new-american/the-elgin/</loc>
+    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
+    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/new-american/parker-and-quinn/</loc>
     <lastmod>2019-10-19T22:45:48-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2019-10-19T22:45:48-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -384,12 +395,6 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/asian/</loc>
-    <lastmod>2019-08-02T16:13:44-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/bars/</loc>
     <lastmod>2019-08-02T16:13:44-04:00</lastmod>
     <priority>0</priority>
   </url>

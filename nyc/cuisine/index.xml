@@ -6,15 +6,24 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Oct 2019 22:45:48 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2019 16:12:23 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Bars</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/bars/</link>
+      <pubDate>Fri, 25 Oct 2019 16:12:23 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/bars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>New American</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/new-american/</link>
-      <pubDate>Sat, 19 Oct 2019 22:45:48 -0400</pubDate>
+      <pubDate>Fri, 25 Oct 2019 16:12:23 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/new-american/</guid>
       <description></description>
@@ -215,15 +224,6 @@
       <pubDate>Fri, 02 Aug 2019 16:13:44 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/asian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bars</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/bars/</link>
-      <pubDate>Fri, 02 Aug 2019 16:13:44 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/bars/</guid>
       <description></description>
     </item>
     
