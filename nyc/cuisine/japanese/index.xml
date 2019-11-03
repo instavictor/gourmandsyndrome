@@ -6,10 +6,20 @@
     <description>Recent content in Japanese on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Oct 2019 15:39:55 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 14:39:27 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/japanese/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Murasaki</title>
+      <link>https://www.gourmandsyndrome.com/nyc/japanese/murasaki/</link>
+      <pubDate>Fri, 01 Nov 2019 14:39:27 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/japanese/murasaki/</guid>
+      <description>Summary Here is another nice neighborhood spot off Vernon Blvd in Long Island City. Reviews seem to rave about how good this neighborhood sushi spot is, so we decided to give it a try.
+  The peach sparkling sake was relatively inexpensive and mighty tasty. The peach flavor tasted artificial, but it was still pretty good. It felt like drinking champagne without the heavy alcohol taste and with that artificial peach sweetener.</description>
+    </item>
     
     <item>
       <title>Kaoru</title>
@@ -242,16 +252,6 @@ But it&amp;rsquo;s CLOSED.</description>
       
       <guid>https://www.gourmandsyndrome.com/nyc/japanese/curry-ya/</guid>
       <description>The spicy pork tonkatsu was pretty good. One of the better Japanese curry places in the city.</description>
-    </item>
-    
-    <item>
-      <title>Uma Temakeria</title>
-      <link>https://www.gourmandsyndrome.com/nyc/japanese/uma-temakeria/</link>
-      <pubDate>Sun, 16 Sep 2018 14:06:15 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/japanese/uma-temakeria/</guid>
-      <description>Terrible &amp;ldquo;sushi burrito&amp;rdquo;
-This place is CLOSED for obvious reasons.</description>
     </item>
     
   </channel>

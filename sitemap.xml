@@ -3,31 +3,107 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/bars/</loc>
-    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</loc>
+    <lastmod>2019-11-02T14:45:20-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
+    <lastmod>2019-11-02T14:45:20-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
+    <lastmod>2019-11-02T14:45:20-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/manhattan/</loc>
-    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
+    <lastmod>2019-11-02T14:45:20-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown/</loc>
+    <lastmod>2019-11-02T14:45:20-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</loc>
+    <lastmod>2019-11-02T14:45:20-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
+    <lastmod>2019-11-02T14:45:20-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
+    <lastmod>2019-11-02T14:45:20-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
+    <lastmod>2019-11-02T14:45:20-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2019-11-02T14:45:20-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/chinese/red-peony-chinese-cuisine/</loc>
+    <lastmod>2019-11-02T14:45:20-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/shanghainese/</loc>
+    <lastmod>2019-11-02T14:45:20-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
+    <lastmod>2019-11-02T14:45:20-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</loc>
+    <lastmod>2019-11-01T14:39:27-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</loc>
+    <lastmod>2019-11-01T14:39:27-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/japanese/murasaki/</loc>
+    <lastmod>2019-11-01T14:39:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/queens/</loc>
+    <lastmod>2019-11-01T14:39:27-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/bars/</loc>
     <lastmod>2019-10-25T16:12:23-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -39,55 +115,13 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
-    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/new-american/the-elgin/</loc>
     <lastmod>2019-10-25T16:12:23-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2019-10-25T16:12:23-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/new-american/parker-and-quinn/</loc>
     <lastmod>2019-10-19T22:45:48-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</loc>
-    <lastmod>2019-10-18T22:19:40-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/queens/</loc>
-    <lastmod>2019-10-18T22:19:40-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -114,12 +148,6 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</loc>
-    <lastmod>2019-10-12T22:48:16-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/mediterranean/souvlaki-gr/</loc>
     <lastmod>2019-10-12T22:48:16-04:00</lastmod>
   </url>
@@ -132,12 +160,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</loc>
     <lastmod>2019-10-11T22:44:18-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</loc>
-    <lastmod>2019-10-04T15:40:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -155,12 +177,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/koreatown/</loc>
     <lastmod>2019-10-04T15:40:25-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</loc>
-    <lastmod>2019-10-02T15:39:55-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -250,12 +266,6 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/flatiron/</loc>
-    <lastmod>2019-09-06T23:20:02-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/shanghainese/</loc>
     <lastmod>2019-09-06T23:20:02-04:00</lastmod>
     <priority>0</priority>
   </url>

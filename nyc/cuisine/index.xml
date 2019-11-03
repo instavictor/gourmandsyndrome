@@ -6,10 +6,37 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Oct 2019 16:12:23 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2019 14:45:20 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chinese</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</link>
+      <pubDate>Sat, 02 Nov 2019 14:45:20 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shanghainese</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/shanghainese/</link>
+      <pubDate>Sat, 02 Nov 2019 14:45:20 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/shanghainese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Japanese</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</link>
+      <pubDate>Fri, 01 Nov 2019 14:39:27 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bars</title>
@@ -66,29 +93,11 @@
     </item>
     
     <item>
-      <title>Chinese</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</link>
-      <pubDate>Fri, 04 Oct 2019 15:40:25 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dim Sum</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/dim-sum/</link>
       <pubDate>Fri, 04 Oct 2019 15:40:25 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/dim-sum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Japanese</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</link>
-      <pubDate>Wed, 02 Oct 2019 15:39:55 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</guid>
       <description></description>
     </item>
     
@@ -134,15 +143,6 @@
       <pubDate>Sat, 07 Sep 2019 21:47:32 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/pizza/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shanghainese</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/shanghainese/</link>
-      <pubDate>Fri, 06 Sep 2019 23:20:02 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/shanghainese/</guid>
       <description></description>
     </item>
     
