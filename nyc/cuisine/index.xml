@@ -6,10 +6,28 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Nov 2019 14:45:20 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2019 17:37:51 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Italian</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</link>
+      <pubDate>Sat, 16 Nov 2019 17:37:51 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuban</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/cuban/</link>
+      <pubDate>Fri, 08 Nov 2019 15:01:15 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/cuban/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Chinese</title>
@@ -80,15 +98,6 @@
       <pubDate>Sat, 12 Oct 2019 22:48:16 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/mediterranean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Italian</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</link>
-      <pubDate>Fri, 11 Oct 2019 22:44:18 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</guid>
       <description></description>
     </item>
     
@@ -224,15 +233,6 @@
       <pubDate>Fri, 02 Aug 2019 16:13:44 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/asian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peruvian</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/peruvian/</link>
-      <pubDate>Fri, 02 Aug 2019 16:13:44 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/peruvian/</guid>
       <description></description>
     </item>
     

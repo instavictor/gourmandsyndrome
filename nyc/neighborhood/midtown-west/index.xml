@@ -6,10 +6,20 @@
     <description>Recent content in Midtown West on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Nov 2019 14:45:20 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2019 17:37:51 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Wolf</title>
+      <link>https://www.gourmandsyndrome.com/nyc/italian/wolf/</link>
+      <pubDate>Sat, 16 Nov 2019 17:37:51 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/italian/wolf/</guid>
+      <description>Summary If you&amp;rsquo;re around the Rockafeller area and are looking for pretty decent Italian food at a not overly expensive price, this restaurant might be a good candidate. It is located on the 2nd floor of the Nordstrom NYC flagship store near the watches section. We walked in without reservations around 5:30 PM, and we were seated at the bar fairly quickly.
+  Because Nordstrom doesn&amp;rsquo;t have the drinks menu online, I&amp;rsquo;m hoping my memory serves me well.</description>
+    </item>
     
     <item>
       <title>Red Peony Chinese Cuisine</title>
@@ -248,15 +258,6 @@ Final Verdict I keep recommending this place over other KBBQ places not only bec
       <guid>https://www.gourmandsyndrome.com/nyc/seafood/lobster-press/</guid>
       <description>This is Marc Forgione&amp;rsquo;s fast food-ish restaurant near Penn Station. I got the chili lobster here, but it&amp;rsquo;s not as good as having it at the restaurant.
 It&amp;rsquo;s also CLOSED.</description>
-    </item>
-    
-    <item>
-      <title>Shinshi Ramen</title>
-      <link>https://www.gourmandsyndrome.com/nyc/ramen/shinshi-ramen/</link>
-      <pubDate>Sun, 16 Sep 2018 20:47:51 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/ramen/shinshi-ramen/</guid>
-      <description>Pretty good tsukemen. Get the spicy miso. Tsukemen seems fairly rare in NYC. Still looking for something similar to LA Tsujita.</description>
     </item>
     
   </channel>
