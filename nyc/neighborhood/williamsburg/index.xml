@@ -6,10 +6,20 @@
     <description>Recent content in Williamsburg on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Oct 2018 22:13:19 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2019 17:03:01 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/williamsburg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>La Cafette</title>
+      <link>https://www.gourmandsyndrome.com/nyc/french/la-cafette/</link>
+      <pubDate>Sat, 23 Nov 2019 17:03:01 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/french/la-cafette/</guid>
+      <description>Summary This restaurant has been on my list for a while. Before I moved out of North Williamsburg, I wanted to eat something with pork. Unfortunately at the time, they were closed on a Tuesday for whatever reason, so I did not have the opportunity to try this place until today.
+The ambiance is a dimly lit romantic setting right near the corner of Havenmayer. There were a lot of candles all over, and the tables were pretty close to each other reminding me of my time in Paris.</description>
+    </item>
     
     <item>
       <title>Chimu Bistro</title>
@@ -232,15 +242,6 @@ The pumpkin tart was really good too. The crust was flaky similar to an egg tart
       
       <guid>https://www.gourmandsyndrome.com/nyc/coffee/brooklyn-ball-factory/</guid>
       <description>Decent place.</description>
-    </item>
-    
-    <item>
-      <title>Mountain Province</title>
-      <link>https://www.gourmandsyndrome.com/nyc/coffee/mountain-province/</link>
-      <pubDate>Sun, 09 Sep 2018 22:55:43 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/coffee/mountain-province/</guid>
-      <description>I like their latte.</description>
     </item>
     
   </channel>

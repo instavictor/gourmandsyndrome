@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Argentinian on Gourmand Syndrome</title>
+    <link>https://www.gourmandsyndrome.com/nyc/cuisine/argentinian/</link>
+    <description>Recent content in Argentinian on Gourmand Syndrome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Nov 2019 11:58:27 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/argentinian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Buena Vista</title>
+      <link>https://www.gourmandsyndrome.com/nyc/latin/buena-vista/</link>
+      <pubDate>Wed, 20 Nov 2019 11:58:27 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/latin/buena-vista/</guid>
+      <description>Summary A friend was in town around the Hudson Yards area, and we wanted to look for something around the area. The menu here looked pretty decent, and it was on my bookmarks for quite a while.
+  The bread came with some type of tomato olive oil medley. It reminded me of bruschetta toppings but more akin to diced tomatoes out of a jar. The sauce itself was alright.</description>
+    </item>
+    
+  </channel>
+</rss>

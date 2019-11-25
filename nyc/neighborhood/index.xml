@@ -6,15 +6,33 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Nov 2019 17:37:51 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2019 17:03:01 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Williamsburg</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/williamsburg/</link>
+      <pubDate>Sat, 23 Nov 2019 17:03:01 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/williamsburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hell&#39;s Kitchen</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/hells-kitchen/</link>
+      <pubDate>Wed, 20 Nov 2019 11:58:27 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/hells-kitchen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Midtown</title>
       <link>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown/</link>
-      <pubDate>Sat, 16 Nov 2019 17:37:51 -0500</pubDate>
+      <pubDate>Wed, 20 Nov 2019 11:58:27 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown/</guid>
       <description></description>
@@ -23,9 +41,18 @@
     <item>
       <title>Midtown West</title>
       <link>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</link>
-      <pubDate>Sat, 16 Nov 2019 17:37:51 -0500</pubDate>
+      <pubDate>Wed, 20 Nov 2019 11:58:27 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nolita</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/nolita/</link>
+      <pubDate>Mon, 18 Nov 2019 11:46:08 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/nolita/</guid>
       <description></description>
     </item>
     
@@ -156,15 +183,6 @@
     </item>
     
     <item>
-      <title>Hell&#39;s Kitchen</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/hells-kitchen/</link>
-      <pubDate>Sun, 30 Jun 2019 23:58:31 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/hells-kitchen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>South Street Seaport</title>
       <link>https://www.gourmandsyndrome.com/nyc/neighborhood/south-street-seaport/</link>
       <pubDate>Sun, 23 Jun 2019 23:40:25 -0400</pubDate>
@@ -215,24 +233,6 @@
       <pubDate>Sat, 27 Apr 2019 16:41:15 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/noho/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Greenpoint</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/greenpoint/</link>
-      <pubDate>Sat, 23 Feb 2019 19:47:29 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/greenpoint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chinatown</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/chinatown/</link>
-      <pubDate>Sun, 17 Feb 2019 19:30:41 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/chinatown/</guid>
       <description></description>
     </item>
     
