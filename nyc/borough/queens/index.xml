@@ -6,10 +6,20 @@
     <description>Recent content in Queens on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Nov 2019 15:01:15 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 21:24:57 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/borough/queens/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Inkan</title>
+      <link>https://www.gourmandsyndrome.com/nyc/peruvian/the-inkan/</link>
+      <pubDate>Wed, 27 Nov 2019 21:24:57 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/peruvian/the-inkan/</guid>
+      <description>Summary In a forever hunt for the best lomo saltado in NYC, this is another place we tried. This restaurant is located near Vernon where all the restaurants are, and it was relatively easy to walk in without reservations.
+  I got the passion fruit juice with water which was basically passion fruit syrup with water and crushed ice. It was pretty good, but it was pretty obvious that you could probably make this at home.</description>
+    </item>
     
     <item>
       <title>Madera</title>
@@ -248,15 +258,6 @@ Final Verdict It&amp;rsquo;s a nice addition to the sparse Long Island City neig
       
       <guid>https://www.gourmandsyndrome.com/nyc/korean/pelicana-chicken/</guid>
       <description>Korean wings. They have ice cream beer which was a gimmick. It&amp;rsquo;s mediocre at best. They do give you these finger &amp;ldquo;condom&amp;rdquo; looking things to handle the chicken.</description>
-    </item>
-    
-    <item>
-      <title>ChaTime</title>
-      <link>https://www.gourmandsyndrome.com/nyc/desserts/chatime/</link>
-      <pubDate>Sun, 09 Sep 2018 23:27:10 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/desserts/chatime/</guid>
-      <description>Passion fruit green tea was just OK.</description>
     </item>
     
   </channel>

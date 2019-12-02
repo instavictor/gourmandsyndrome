@@ -6,10 +6,19 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Nov 2019 17:03:01 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 21:24:57 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LIC</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</link>
+      <pubDate>Wed, 27 Nov 2019 21:24:57 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Williamsburg</title>
@@ -53,15 +62,6 @@
       <pubDate>Mon, 18 Nov 2019 11:46:08 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/nolita/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LIC</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</link>
-      <pubDate>Fri, 08 Nov 2019 15:01:15 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</guid>
       <description></description>
     </item>
     
