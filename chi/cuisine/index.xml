@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chi/Cuisine on Gourmand Syndrome</title>
+    <link>https://www.gourmandsyndrome.com/chi/cuisine/</link>
+    <description>Recent content in Chi/Cuisine on Gourmand Syndrome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Dec 2019 22:41:26 -0500</lastBuildDate>
+    
+	<atom:link href="https://www.gourmandsyndrome.com/chi/cuisine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pizza</title>
+      <link>https://www.gourmandsyndrome.com/chi/cuisine/pizza/</link>
+      <pubDate>Mon, 16 Dec 2019 22:41:26 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/chi/cuisine/pizza/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
