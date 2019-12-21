@@ -6,10 +6,19 @@
     <description>Recent content in Locale on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Dec 2019 06:53:57 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2019 22:41:26 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/locale/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>chi</title>
+      <link>https://www.gourmandsyndrome.com/locale/chi/</link>
+      <pubDate>Mon, 16 Dec 2019 22:41:26 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/locale/chi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>nyc</title>

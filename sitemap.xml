@@ -3,6 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/chi/</loc>
+    <lastmod>2019-12-16T22:41:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/</loc>
+    <lastmod>2019-12-16T22:41:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/locale/</loc>
+    <lastmod>2019-12-16T22:41:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/chi/pizza/lou-malnatis-pizzeria/</loc>
+    <lastmod>2019-12-16T22:41:26-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/locale/chi/</loc>
+    <lastmod>2019-12-16T22:41:26-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/brazilian/brazil-brazil/</loc>
     <lastmod>2019-12-08T06:53:57-05:00</lastmod>
   </url>
@@ -10,18 +39,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/brazilian/</loc>
     <lastmod>2019-12-08T06:53:57-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2019-12-16T12:31:42-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2019-12-16T12:31:42-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2640,6 +2657,10 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/ancsidebar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/chisidebar/</loc>
   </url>
   
   <url>
