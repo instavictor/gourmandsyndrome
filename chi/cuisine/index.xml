@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chi/Cuisine on Gourmand Syndrome</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Chi/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Dec 2019 22:40:39 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2019 22:40:50 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/chi/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Michelin Star</title>
       <link>https://www.gourmandsyndrome.com/chi/cuisine/michelin-star/</link>
-      <pubDate>Tue, 17 Dec 2019 22:40:39 -0500</pubDate>
+      <pubDate>Wed, 18 Dec 2019 22:40:50 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/chi/cuisine/michelin-star/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>New American</title>
       <link>https://www.gourmandsyndrome.com/chi/cuisine/new-american/</link>
-      <pubDate>Tue, 17 Dec 2019 22:40:39 -0500</pubDate>
+      <pubDate>Wed, 18 Dec 2019 22:40:50 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/chi/cuisine/new-american/</guid>
       <description></description>
