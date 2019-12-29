@@ -6,10 +6,19 @@
     <description>Recent content in Locale on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Dec 2019 22:40:50 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2019 16:05:07 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/locale/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>nyc</title>
+      <link>https://www.gourmandsyndrome.com/locale/nyc/</link>
+      <pubDate>Thu, 26 Dec 2019 16:05:07 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/locale/nyc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>chi</title>
@@ -17,15 +26,6 @@
       <pubDate>Wed, 18 Dec 2019 22:40:50 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/locale/chi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nyc</title>
-      <link>https://www.gourmandsyndrome.com/locale/nyc/</link>
-      <pubDate>Sun, 08 Dec 2019 06:53:57 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/locale/nyc/</guid>
       <description></description>
     </item>
     

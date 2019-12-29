@@ -6,10 +6,19 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Dec 2019 06:53:57 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2019 16:05:07 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>East Village</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/east-village/</link>
+      <pubDate>Thu, 26 Dec 2019 16:05:07 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/east-village/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Midtown West</title>
@@ -170,15 +179,6 @@
       <pubDate>Sun, 28 Jul 2019 19:04:27 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/uws/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>East Village</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/east-village/</link>
-      <pubDate>Wed, 03 Jul 2019 13:05:12 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/east-village/</guid>
       <description></description>
     </item>
     

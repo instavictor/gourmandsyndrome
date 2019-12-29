@@ -6,10 +6,19 @@
     <description>Recent content in Manhattan on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Dec 2019 06:53:57 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2019 16:05:07 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/borough/manhattan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Dip</title>
+      <link>https://www.gourmandsyndrome.com/nyc/sandwiches/the-dip/</link>
+      <pubDate>Thu, 26 Dec 2019 16:05:07 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/sandwiches/the-dip/</guid>
+      <description>Summary French dips, let alone good ones, are pretty nonexistent in NYC. I&#39;ve had a good one up in Upper West Side at Jacob&#39;s Pickles, but other that I usually get my cravings by making my own. We just got out of watching the movie theater, and we were reasonably close to this new location. The chef used to work as an executive chef at 4 Charles Prime Rib in the East Village, and they picked a fantastic location on St.</description>
+    </item>
     
     <item>
       <title>Brazil Brazil</title>
@@ -256,16 +265,6 @@ On this night, it was the Harold Mabern Trio.
       
       <guid>https://www.gourmandsyndrome.com/nyc/italian/vapiano/</guid>
       <description>Summary Vapiano seems like it&#39;s a chained Italian fast eatery. For the NYC location, the front desk gives you a card, and you walk up to a pasta station if you want pasta or a pizza station if you want pizza. You then tell the cook what you want, and they make it fresh in front of you. They ask that you take the card and tap the screen with it to get it charged with what you ordered.</description>
-    </item>
-    
-    <item>
-      <title>Shorty&#39;s</title>
-      <link>https://www.gourmandsyndrome.com/nyc/sandwiches/shortys/</link>
-      <pubDate>Sun, 04 Aug 2019 13:56:39 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/sandwiches/shortys/</guid>
-      <description>Summary This place is near Stone Street down in the Financial District. I&#39;m always down for a good cheesesteak, and yeah I also butcher the Philly style by ordering provolone over cheeze whiz.
-  The steak special comes with homemade broccoli rabe, provolone cheese, and I also added hot cherry peppers. These are the cherry peppers that are pickled with a nice kick to it. I thought this sandwich was pretty good, though I still prefer Federoff&#39;s in Williamsburg.</description>
     </item>
     
   </channel>

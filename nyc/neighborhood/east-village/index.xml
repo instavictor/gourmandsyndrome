@@ -6,10 +6,19 @@
     <description>Recent content in East Village on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jul 2019 13:05:12 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2019 16:05:07 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/east-village/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Dip</title>
+      <link>https://www.gourmandsyndrome.com/nyc/sandwiches/the-dip/</link>
+      <pubDate>Thu, 26 Dec 2019 16:05:07 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/sandwiches/the-dip/</guid>
+      <description>Summary French dips, let alone good ones, are pretty nonexistent in NYC. I&#39;ve had a good one up in Upper West Side at Jacob&#39;s Pickles, but other that I usually get my cravings by making my own. We just got out of watching the movie theater, and we were reasonably close to this new location. The chef used to work as an executive chef at 4 Charles Prime Rib in the East Village, and they picked a fantastic location on St.</description>
+    </item>
     
     <item>
       <title>Blue Ribbon Fried Chicken</title>
@@ -232,15 +241,6 @@ Unfortunately this is CLOSED.</description>
       
       <guid>https://www.gourmandsyndrome.com/nyc/chinese/ho-foods/</guid>
       <description>Taiwanese beef noodle was pretty good. $$$ but the broth was good. Long wait, but not sure if it&#39;s worth it. I kinda want to make my own again.</description>
-    </item>
-    
-    <item>
-      <title>Just for Fen</title>
-      <link>https://www.gourmandsyndrome.com/nyc/chinese/just-for-fen/</link>
-      <pubDate>Sun, 09 Sep 2018 22:42:47 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/chinese/just-for-fen/</guid>
-      <description>Was decent albeit expensive. Didn&#39;t care for the noodles at all.</description>
     </item>
     
   </channel>

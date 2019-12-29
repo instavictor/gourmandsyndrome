@@ -6,10 +6,28 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Dec 2019 06:53:57 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2019 16:05:07 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>French Dip</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/french-dip/</link>
+      <pubDate>Thu, 26 Dec 2019 16:05:07 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/french-dip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandwiches</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/sandwiches/</link>
+      <pubDate>Thu, 26 Dec 2019 16:05:07 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/sandwiches/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Brazilian</title>
@@ -215,24 +233,6 @@
       <pubDate>Mon, 02 Sep 2019 23:18:16 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/korean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jazz</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/jazz/</link>
-      <pubDate>Sat, 24 Aug 2019 18:25:30 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/jazz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seafood</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/seafood/</link>
-      <pubDate>Fri, 23 Aug 2019 15:13:32 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/seafood/</guid>
       <description></description>
     </item>
     
