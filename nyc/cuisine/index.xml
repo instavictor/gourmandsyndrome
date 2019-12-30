@@ -6,10 +6,28 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Dec 2019 16:05:07 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2019 16:06:10 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KBBQ</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/kbbq/</link>
+      <pubDate>Sat, 28 Dec 2019 16:06:10 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/kbbq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korean</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/korean/</link>
+      <pubDate>Sat, 28 Dec 2019 16:06:10 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/korean/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>French Dip</title>
@@ -215,24 +233,6 @@
       <pubDate>Sat, 07 Sep 2019 21:47:32 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/pizza/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>KBBQ</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/kbbq/</link>
-      <pubDate>Mon, 02 Sep 2019 23:18:16 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/kbbq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Korean</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/korean/</link>
-      <pubDate>Mon, 02 Sep 2019 23:18:16 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/korean/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Dec 2019 16:05:07 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2019 16:06:10 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chelsea</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</link>
+      <pubDate>Sat, 28 Dec 2019 16:06:10 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>East Village</title>
@@ -152,15 +161,6 @@
       <pubDate>Fri, 23 Aug 2019 15:13:32 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/greenwich-village/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chelsea</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</link>
-      <pubDate>Tue, 20 Aug 2019 14:45:07 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</guid>
       <description></description>
     </item>
     
