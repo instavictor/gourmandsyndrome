@@ -3,12 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</loc>
-    <lastmod>2019-12-28T16:06:10-05:00</lastmod>
+    <loc>https://www.gourmandsyndrome.com/</loc>
+    <lastmod>2019-12-29T14:29:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/</loc>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/hells-kitchen/</loc>
+    <lastmod>2019-12-29T14:29:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</loc>
+    <lastmod>2019-12-29T14:29:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/locale/</loc>
+    <lastmod>2019-12-29T14:29:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/manhattan/</loc>
+    <lastmod>2019-12-29T14:29:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown/</loc>
+    <lastmod>2019-12-29T14:29:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</loc>
+    <lastmod>2019-12-29T14:29:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
+    <lastmod>2019-12-29T14:29:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
+    <lastmod>2019-12-29T14:29:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
+    <lastmod>2019-12-29T14:29:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
+    <lastmod>2019-12-29T14:29:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2019-12-29T14:29:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/japanese/torishin/</loc>
+    <lastmod>2019-12-29T14:29:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/yakitori/</loc>
+    <lastmod>2019-12-29T14:29:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</loc>
     <lastmod>2019-12-28T16:06:10-05:00</lastmod>
   </url>
   
@@ -24,41 +89,6 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/korean/</loc>
-    <lastmod>2019-12-28T16:06:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2019-12-28T16:06:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/manhattan/</loc>
-    <lastmod>2019-12-28T16:06:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2019-12-28T16:06:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2019-12-28T16:06:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2019-12-28T16:06:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2019-12-28T16:06:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
     <lastmod>2019-12-28T16:06:10-05:00</lastmod>
   </url>
   
@@ -158,11 +188,6 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</loc>
-    <lastmod>2019-12-08T06:53:57-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</loc>
     <lastmod>2019-11-27T21:24:57-05:00</lastmod>
   </url>
@@ -213,17 +238,7 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/hells-kitchen/</loc>
-    <lastmod>2019-11-20T11:58:27-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/latin-american/</loc>
-    <lastmod>2019-11-20T11:58:27-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown/</loc>
     <lastmod>2019-11-20T11:58:27-05:00</lastmod>
   </url>
   
@@ -280,11 +295,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/shanghainese/</loc>
     <lastmod>2019-11-02T14:45:20-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</loc>
-    <lastmod>2019-11-22T17:05:57-05:00</lastmod>
   </url>
   
   <url>

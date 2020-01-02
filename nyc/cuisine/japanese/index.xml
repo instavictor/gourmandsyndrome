@@ -6,10 +6,20 @@
     <description>Recent content in Japanese on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Nov 2019 14:39:27 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2019 14:29:14 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/japanese/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Torishin</title>
+      <link>https://www.gourmandsyndrome.com/nyc/japanese/torishin/</link>
+      <pubDate>Sun, 29 Dec 2019 14:29:14 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/japanese/torishin/</guid>
+      <description>Summary For this special outing, Yakitori Torishin has been on my list ever since I moved to New York City. I finally had a chance to try this for the girlfriend&#39;s birthday.
+  We wanted the regular yakitori experience as opposed to the select counter experience. The reason is that I just couldn&#39;t imagine the value from yakitori at literally double the cost of a regular omakase. They brought us into the back room, and we were still seated in front of the chefs.</description>
+    </item>
     
     <item>
       <title>Murasaki</title>
@@ -243,15 +253,6 @@ But it&#39;s CLOSED.</description>
       
       <guid>https://www.gourmandsyndrome.com/nyc/japanese/abiko-curry/</guid>
       <description>One of my top favorite curry places. Warning: the medium is actually pretty spicy.</description>
-    </item>
-    
-    <item>
-      <title>Curry Ya</title>
-      <link>https://www.gourmandsyndrome.com/nyc/japanese/curry-ya/</link>
-      <pubDate>Sun, 16 Sep 2018 14:08:51 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/japanese/curry-ya/</guid>
-      <description>The spicy pork tonkatsu was pretty good. One of the better Japanese curry places in the city.</description>
     </item>
     
   </channel>
