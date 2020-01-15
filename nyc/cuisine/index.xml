@@ -6,10 +6,19 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Dec 2019 14:29:14 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 21:36:31 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>New American</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/new-american/</link>
+      <pubDate>Sat, 11 Jan 2020 21:36:31 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/new-american/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Japanese</title>
@@ -170,15 +179,6 @@
       <pubDate>Fri, 25 Oct 2019 16:12:23 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/bars/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New American</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/new-american/</link>
-      <pubDate>Fri, 25 Oct 2019 16:12:23 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/new-american/</guid>
       <description></description>
     </item>
     

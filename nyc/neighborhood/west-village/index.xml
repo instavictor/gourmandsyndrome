@@ -6,10 +6,20 @@
     <description>Recent content in West Village on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Sep 2019 21:47:32 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 21:36:31 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/west-village/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>While We Were Young</title>
+      <link>https://www.gourmandsyndrome.com/nyc/new-american/while-we-were-young/</link>
+      <pubDate>Sat, 11 Jan 2020 21:36:31 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/new-american/while-we-were-young/</guid>
+      <description>Summary Normally we don&#39;t care about brunches, but this restaurant was surprisingly good and not too expensive. Located in West Village near the &amp;ldquo;Friends&amp;rdquo; place and some touristy spots, this is a very quaint and small shop. If I recall, it only has like at most 5 tables with counters spread throughout the place. This place is small, so set your expectations accordingly.
+  We ordered a glass of orange juice and a One Night Stand.</description>
+    </item>
     
     <item>
       <title>I Love Panzerotti</title>
@@ -232,15 +242,6 @@ Again, skip the lines and sit at the bar.</description>
       
       <guid>https://www.gourmandsyndrome.com/nyc/breakfast/buvette/</guid>
       <description>This place is really good. Their steamed eggs are super fluffy, but pretty expensive. It&#39;s crowded but easy to walk in as 1.</description>
-    </item>
-    
-    <item>
-      <title>Mighty Quinn&#39;s BBQ</title>
-      <link>https://www.gourmandsyndrome.com/nyc/bbq/mighty-quinns-bbq/</link>
-      <pubDate>Sun, 09 Sep 2018 17:16:36 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/bbq/mighty-quinns-bbq/</guid>
-      <description>Their brisket is always good for the price.</description>
     </item>
     
   </channel>
