@@ -3,13 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/brooklyn/</loc>
+    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2020-01-11T21:36:31-05:00</lastmod>
+    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2020-01-11T21:36:31-05:00</lastmod>
+    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
+    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
+    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
+    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
+    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/vietnamese/</loc>
+    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/williamsburg/</loc>
+    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/vietnamese/zen-yai-pho-noodle-bar/</loc>
+    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
   </url>
   
   <url>
@@ -19,31 +64,6 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/new-american/</loc>
-    <lastmod>2020-01-11T21:36:31-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2020-01-11T21:36:31-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2020-01-11T21:36:31-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2020-01-11T21:36:31-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2020-01-11T21:36:31-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
     <lastmod>2020-01-11T21:36:31-05:00</lastmod>
   </url>
   
@@ -223,22 +243,12 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/brooklyn/</loc>
-    <lastmod>2019-11-23T17:03:01-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/french/</loc>
     <lastmod>2019-11-23T17:03:01-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/french/la-cafette/</loc>
-    <lastmod>2019-11-23T17:03:01-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/williamsburg/</loc>
     <lastmod>2019-11-23T17:03:01-05:00</lastmod>
   </url>
   
@@ -1224,11 +1234,6 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/vietnamese/di-an-di/</loc>
-    <lastmod>2018-11-11T19:28:12-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/vietnamese/</loc>
     <lastmod>2018-11-11T19:28:12-05:00</lastmod>
   </url>
   

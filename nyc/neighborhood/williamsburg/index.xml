@@ -6,10 +6,20 @@
     <description>Recent content in Williamsburg on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Nov 2019 17:03:01 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2020 21:38:40 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/williamsburg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Zen Yai Pho Noodle Bar</title>
+      <link>https://www.gourmandsyndrome.com/nyc/vietnamese/zen-yai-pho-noodle-bar/</link>
+      <pubDate>Sun, 12 Jan 2020 21:38:40 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/vietnamese/zen-yai-pho-noodle-bar/</guid>
+      <description>Summary Pho vietnamese restaurants are generally pretty scarce in the city compared to Los Angeles. If you do find one, they usually don&#39;t give you all the fixins and are timid about their offerings. In Los Angeles, I used to go to a restaurant called Phorage pretty frequently where their broth was very rich, and their meats were rare but tender. So how would this compare?
+  We started off with thai tea and matcha thai.</description>
+    </item>
     
     <item>
       <title>La Cafette</title>
@@ -233,15 +243,6 @@ The pumpkin tart was really good too. The crust was flaky similar to an egg tart
       
       <guid>https://www.gourmandsyndrome.com/nyc/coffee/gimme-coffee/</guid>
       <description>It&#39;s ok. Beans are not as good as Toby&#39;s. It&#39;s closed though.</description>
-    </item>
-    
-    <item>
-      <title>Brooklyn Ball Factory</title>
-      <link>https://www.gourmandsyndrome.com/nyc/coffee/brooklyn-ball-factory/</link>
-      <pubDate>Sun, 09 Sep 2018 22:56:49 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/coffee/brooklyn-ball-factory/</guid>
-      <description>Decent place.</description>
     </item>
     
   </channel>
