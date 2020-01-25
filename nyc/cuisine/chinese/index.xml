@@ -6,10 +6,20 @@
     <description>Recent content in Chinese on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Nov 2019 14:45:20 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2020 16:46:52 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/chinese/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tim Ho Wan</title>
+      <link>https://www.gourmandsyndrome.com/nyc/chinese/tim-ho-wan/</link>
+      <pubDate>Wed, 22 Jan 2020 16:46:52 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/chinese/tim-ho-wan/</guid>
+      <description>Summary A friend was in town, and I saw that Tim Ho was near their hotel. This place was always on my list to try given that it had received Michelin recognition at its Hong Kong location. Given I&#39;ve eaten at numerous dim sum places already, they tout themselves as the dim sum specialists, so I already have high expectations.
+  I don&#39;t remember the drink on the left, but the right was some type of mango cococnut slush.</description>
+    </item>
     
     <item>
       <title>Red Peony Chinese Cuisine</title>
@@ -248,16 +258,6 @@ It&#39;s probably why this place is PERMA CLOSED.</description>
       <guid>https://www.gourmandsyndrome.com/nyc/chinese/new-may-wah-359/</guid>
       <description>Taiwanese food. Rice cakes good. Everything else eh. Cash only.
 This place is PERMA closed.</description>
-    </item>
-    
-    <item>
-      <title>Sunshine</title>
-      <link>https://www.gourmandsyndrome.com/nyc/chinese/sunshine/</link>
-      <pubDate>Sun, 09 Sep 2018 22:30:40 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/chinese/sunshine/</guid>
-      <description>Dim sum is ok. Less wait than Jing Fong. Chicken feeet not as good as LA.
-This is PERMA closed.</description>
     </item>
     
   </channel>

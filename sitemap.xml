@@ -3,42 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/brooklyn/</loc>
-    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</loc>
+    <lastmod>2020-01-22T16:46:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/dim-sum/</loc>
+    <lastmod>2020-01-22T16:46:52-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
+    <lastmod>2020-01-22T16:46:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/hells-kitchen/</loc>
+    <lastmod>2020-01-22T16:46:52-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
+    <lastmod>2020-01-22T16:46:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/manhattan/</loc>
+    <lastmod>2020-01-22T16:46:52-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
+    <lastmod>2020-01-22T16:46:52-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
+    <lastmod>2020-01-22T16:46:52-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
+    <lastmod>2020-01-22T16:46:52-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
+    <lastmod>2020-01-22T16:46:52-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2020-01-22T16:46:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/chinese/tim-ho-wan/</loc>
+    <lastmod>2020-01-22T16:46:52-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/brooklyn/</loc>
     <lastmod>2020-01-12T21:38:40-05:00</lastmod>
   </url>
   
@@ -58,11 +83,6 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/manhattan/</loc>
-    <lastmod>2020-01-11T21:36:31-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/new-american/</loc>
     <lastmod>2020-01-11T21:36:31-05:00</lastmod>
   </url>
@@ -75,11 +95,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/new-american/while-we-were-young/</loc>
     <lastmod>2020-01-11T21:36:31-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/hells-kitchen/</loc>
-    <lastmod>2019-12-29T14:29:14-05:00</lastmod>
   </url>
   
   <url>
@@ -308,11 +323,6 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</loc>
-    <lastmod>2019-11-02T14:45:20-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/chinese/red-peony-chinese-cuisine/</loc>
     <lastmod>2019-11-02T14:45:20-05:00</lastmod>
   </url>
@@ -365,11 +375,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/italian/go-nonna/</loc>
     <lastmod>2019-10-11T22:44:18-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/dim-sum/</loc>
-    <lastmod>2019-10-04T15:40:25-04:00</lastmod>
   </url>
   
   <url>

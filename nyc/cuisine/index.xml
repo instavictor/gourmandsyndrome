@@ -6,10 +6,28 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jan 2020 21:38:40 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2020 16:46:52 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chinese</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</link>
+      <pubDate>Wed, 22 Jan 2020 16:46:52 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dim Sum</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/dim-sum/</link>
+      <pubDate>Wed, 22 Jan 2020 16:46:52 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/dim-sum/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Vietnamese</title>
@@ -165,15 +183,6 @@
     </item>
     
     <item>
-      <title>Chinese</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</link>
-      <pubDate>Sat, 02 Nov 2019 14:45:20 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Shanghainese</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/shanghainese/</link>
       <pubDate>Sat, 02 Nov 2019 14:45:20 -0500</pubDate>
@@ -206,15 +215,6 @@
       <pubDate>Sat, 12 Oct 2019 22:48:16 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/greek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dim Sum</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/dim-sum/</link>
-      <pubDate>Fri, 04 Oct 2019 15:40:25 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/dim-sum/</guid>
       <description></description>
     </item>
     

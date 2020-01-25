@@ -6,10 +6,19 @@
     <description>Recent content in Nyc/Borough on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jan 2020 21:38:40 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2020 16:46:52 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/borough/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Manhattan</title>
+      <link>https://www.gourmandsyndrome.com/nyc/borough/manhattan/</link>
+      <pubDate>Wed, 22 Jan 2020 16:46:52 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/borough/manhattan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Brooklyn</title>
@@ -17,15 +26,6 @@
       <pubDate>Sun, 12 Jan 2020 21:38:40 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/borough/brooklyn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Manhattan</title>
-      <link>https://www.gourmandsyndrome.com/nyc/borough/manhattan/</link>
-      <pubDate>Sat, 11 Jan 2020 21:36:31 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/borough/manhattan/</guid>
       <description></description>
     </item>
     

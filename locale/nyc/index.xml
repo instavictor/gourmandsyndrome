@@ -6,10 +6,20 @@
     <description>Recent content in nyc on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jan 2020 21:38:40 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2020 16:46:52 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/locale/nyc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tim Ho Wan</title>
+      <link>https://www.gourmandsyndrome.com/nyc/chinese/tim-ho-wan/</link>
+      <pubDate>Wed, 22 Jan 2020 16:46:52 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/chinese/tim-ho-wan/</guid>
+      <description>Summary A friend was in town, and I saw that Tim Ho was near their hotel. This place was always on my list to try given that it had received Michelin recognition at its Hong Kong location. Given I&#39;ve eaten at numerous dim sum places already, they tout themselves as the dim sum specialists, so I already have high expectations.
+  I don&#39;t remember the drink on the left, but the right was some type of mango cococnut slush.</description>
+    </item>
     
     <item>
       <title>Zen Yai Pho Noodle Bar</title>
@@ -252,16 +262,6 @@ The ambiance is a dimly lit romantic setting right near the corner of Havenmayer
       
       <guid>https://www.gourmandsyndrome.com/nyc/french/gabriel-kreuther/</guid>
       <description>Summary This post is going to be a big one. For our first anniversary, we treated ourselves to a nice French place that I think is generally underrated and under the radar. Gabriel Kreuthers has been something that I&#39;ve always wanted to try, and it&#39;s rated 2 Michelin Stars in 2019. We went bold with the Chef&#39;s Carte Blanche Tasting Menu. There are a total of at least 28 dishes spread through of what they say is 9 courses.</description>
-    </item>
-    
-    <item>
-      <title>I Love Panzerotti</title>
-      <link>https://www.gourmandsyndrome.com/nyc/pizza/i-love-panzerotti/</link>
-      <pubDate>Sat, 07 Sep 2019 21:47:32 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/pizza/i-love-panzerotti/</guid>
-      <description>Summary This little pizza shop is down right at the edge of South/West Village close to a Shake Shack. The panzerottis are like super thin calzones that are frieds as oppose to baked.
-  The dough that they use here is really tasty. It&#39;s chewy, has a nice bounce, and has a very nice flavor profile to it. The dough definitely has a distinct flavor to it that makes it taste super fresh.</description>
     </item>
     
   </channel>
