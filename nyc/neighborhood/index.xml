@@ -6,10 +6,19 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jan 2020 16:46:52 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2020 10:10:12 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>East Village</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/east-village/</link>
+      <pubDate>Sun, 02 Feb 2020 10:10:12 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/east-village/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hell&#39;s Kitchen</title>
@@ -62,15 +71,6 @@
       <pubDate>Sat, 28 Dec 2019 16:06:10 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>East Village</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/east-village/</link>
-      <pubDate>Thu, 26 Dec 2019 16:05:07 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/east-village/</guid>
       <description></description>
     </item>
     
