@@ -6,10 +6,19 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Feb 2020 10:10:12 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2020 22:35:01 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Italian</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</link>
+      <pubDate>Sun, 02 Feb 2020 22:35:01 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AYCE</title>
@@ -179,15 +188,6 @@
       <pubDate>Mon, 18 Nov 2019 11:46:08 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/mediterranean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Italian</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</link>
-      <pubDate>Sat, 16 Nov 2019 17:37:51 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</guid>
       <description></description>
     </item>
     
