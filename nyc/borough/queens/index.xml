@@ -6,10 +6,19 @@
     <description>Recent content in Queens on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Nov 2019 21:24:57 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 23:17:53 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/borough/queens/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R40</title>
+      <link>https://www.gourmandsyndrome.com/nyc/argentine/r40/</link>
+      <pubDate>Sat, 15 Feb 2020 23:17:53 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/argentine/r40/</guid>
+      <description>Summary Looking on Yelp, we found that this new Argentine restaurant opened up on Vernon Blvd pretty recently in Long Island City. The menu has a lot of interesting and affordable meat dishes. It&#39;s great that this street is opening a lot of cool restaurants of various cuisines. It appears they have a patio in the back that would be pretty awesome once the weather warms up. I can imagine this place being a super popular hot spot in the foreseeable future.</description>
+    </item>
     
     <item>
       <title>The Inkan</title>
@@ -250,15 +259,6 @@ Final Verdict It&#39;s a nice addition to the sparse Long Island City neighborho
       <guid>https://www.gourmandsyndrome.com/nyc/peruvian/jora/</guid>
       <description>It was ok. Meat was overly chewy and tough. Price wasn&#39;t too bad.
     </description>
-    </item>
-    
-    <item>
-      <title>Pelicana Chicken</title>
-      <link>https://www.gourmandsyndrome.com/nyc/korean/pelicana-chicken/</link>
-      <pubDate>Sun, 16 Sep 2018 14:45:34 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/korean/pelicana-chicken/</guid>
-      <description>Korean wings. They have ice cream beer which was a gimmick. It&#39;s mediocre at best. They do give you these finger &amp;ldquo;condom&amp;rdquo; looking things to handle the chicken.</description>
     </item>
     
   </channel>
