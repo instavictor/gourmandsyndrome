@@ -3,47 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/brooklyn/</loc>
+    <lastmod>2020-02-19T19:58:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/cobble-hill/</loc>
+    <lastmod>2020-02-19T19:58:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/</loc>
+    <lastmod>2020-02-19T19:58:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/thai/kor-tor-mor/</loc>
+    <lastmod>2020-02-19T19:58:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/locale/</loc>
+    <lastmod>2020-02-19T19:58:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
+    <lastmod>2020-02-19T19:58:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
+    <lastmod>2020-02-19T19:58:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
+    <lastmod>2020-02-19T19:58:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
+    <lastmod>2020-02-19T19:58:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2020-02-19T19:58:06-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/thai/</loc>
+    <lastmod>2020-02-19T19:58:06-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/argentine/</loc>
     <lastmod>2020-02-15T23:17:53-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2020-02-15T23:17:53-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</loc>
-    <lastmod>2020-02-15T23:17:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2020-02-15T23:17:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2020-02-15T23:17:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2020-02-15T23:17:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2020-02-15T23:17:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2020-02-15T23:17:53-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
     <lastmod>2020-02-15T23:17:53-05:00</lastmod>
   </url>
   
@@ -120,11 +140,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/chinese/tim-ho-wan/</loc>
     <lastmod>2020-01-22T16:46:52-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/brooklyn/</loc>
-    <lastmod>2020-01-12T21:38:40-05:00</lastmod>
   </url>
   
   <url>
@@ -385,11 +400,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/new-american/parker-and-quinn/</loc>
     <lastmod>2019-10-19T22:45:48-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/thai/</loc>
-    <lastmod>2019-10-18T22:19:40-04:00</lastmod>
   </url>
   
   <url>
@@ -2530,11 +2540,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/bars/the-otheroom/</loc>
     <lastmod>2018-09-09T01:48:36-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/cobble-hill/</loc>
-    <lastmod>2018-09-09T01:47:12-04:00</lastmod>
   </url>
   
   <url>

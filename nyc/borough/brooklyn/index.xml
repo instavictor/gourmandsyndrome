@@ -6,10 +6,20 @@
     <description>Recent content in Brooklyn on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jan 2020 21:38:40 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2020 19:58:06 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/borough/brooklyn/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kor Tor Mor</title>
+      <link>https://www.gourmandsyndrome.com/nyc/thai/kor-tor-mor/</link>
+      <pubDate>Wed, 19 Feb 2020 19:58:06 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/thai/kor-tor-mor/</guid>
+      <description>Summary What&#39;s nice about Thai food is they are rarely bad, and they are very consistent even at different restaurants. We were in Cobble Hill after an errand, and this place was relatively close by and open for a late afternoon dinner.
+  We got 2 different Thai teas. The first was the regular Thai tea and the other is Lychee Thai tea. Both were pretty good. The lychee might be sweet for some, but it tastes literally like the fruit.</description>
+    </item>
     
     <item>
       <title>Zen Yai Pho Noodle Bar</title>
@@ -236,15 +246,6 @@ Too bad it&#39;s CLOSED.</description>
       
       <guid>https://www.gourmandsyndrome.com/nyc/peruvian/llama-inn/</guid>
       <description>This place was pretty good. It&#39;s expensive sorta, but the lomo saltado was decent.</description>
-    </item>
-    
-    <item>
-      <title>Bulbap Grill</title>
-      <link>https://www.gourmandsyndrome.com/nyc/korean/bulbap-grill/</link>
-      <pubDate>Sun, 16 Sep 2018 14:50:52 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/korean/bulbap-grill/</guid>
-      <description>This place was ok in Greenpoint. The soondobu was probably the better thing to get. They do have Korean style tacos.</description>
     </item>
     
   </channel>

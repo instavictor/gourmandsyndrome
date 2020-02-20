@@ -6,10 +6,19 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Feb 2020 23:17:53 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2020 19:58:06 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Thai</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/thai/</link>
+      <pubDate>Wed, 19 Feb 2020 19:58:06 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/thai/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Argentine</title>
@@ -224,15 +233,6 @@
       <pubDate>Fri, 25 Oct 2019 16:12:23 -0400</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/bars/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thai</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/thai/</link>
-      <pubDate>Fri, 18 Oct 2019 22:19:40 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/thai/</guid>
       <description></description>
     </item>
     
