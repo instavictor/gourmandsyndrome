@@ -6,10 +6,19 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Feb 2020 19:58:06 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2020 15:42:48 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>LIC</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</link>
+      <pubDate>Sat, 22 Feb 2020 15:42:48 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cobble Hill</title>
@@ -17,15 +26,6 @@
       <pubDate>Wed, 19 Feb 2020 19:58:06 -0500</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/cobble-hill/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LIC</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</link>
-      <pubDate>Sat, 15 Feb 2020 23:17:53 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</guid>
       <description></description>
     </item>
     
