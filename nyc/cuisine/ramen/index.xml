@@ -6,10 +6,20 @@
     <description>Recent content in Ramen on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jul 2019 13:08:49 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2020 18:50:28 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/ramen/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mazete</title>
+      <link>https://www.gourmandsyndrome.com/nyc/ramen/mazete/</link>
+      <pubDate>Fri, 28 Feb 2020 18:50:28 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/ramen/mazete/</guid>
+      <description>Summary Typically when we walk north on 6th ave towards Trader Joe&#39;s for groceries, we stop by Cava across the street for a snack. We saw this seemingly new interesting restaurant opened with no one in it. The space is very bright, modern, and definitely has a Japanese cafe-chic vibe to it. This dry &amp;ldquo;ramen&amp;rdquo; place just opened along 6th Avenue between 20th and 21st Street.
+This is another one of those &amp;ldquo;pick X of this and Y of that&amp;rdquo; type of restaurant except the theme here is Japanese.</description>
+    </item>
     
     <item>
       <title>Ichiba</title>
@@ -234,15 +244,6 @@
       
       <guid>https://www.gourmandsyndrome.com/nyc/ramen/oramen/</guid>
       <description>This place is pretty good for the area. I like the miso.</description>
-    </item>
-    
-    <item>
-      <title>Yuji Ramen</title>
-      <link>https://www.gourmandsyndrome.com/nyc/ramen/yuji-ramen/</link>
-      <pubDate>Sun, 16 Sep 2018 20:20:55 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/ramen/yuji-ramen/</guid>
-      <description>Ramen omakase. Really good. Everything is homemade. $130 per person.</description>
     </item>
     
   </channel>

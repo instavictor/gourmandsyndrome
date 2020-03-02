@@ -6,10 +6,20 @@
     <description>Recent content in nyc on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Feb 2020 15:42:48 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2020 18:50:28 -0500</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/locale/nyc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mazete</title>
+      <link>https://www.gourmandsyndrome.com/nyc/ramen/mazete/</link>
+      <pubDate>Fri, 28 Feb 2020 18:50:28 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/ramen/mazete/</guid>
+      <description>Summary Typically when we walk north on 6th ave towards Trader Joe&#39;s for groceries, we stop by Cava across the street for a snack. We saw this seemingly new interesting restaurant opened with no one in it. The space is very bright, modern, and definitely has a Japanese cafe-chic vibe to it. This dry &amp;ldquo;ramen&amp;rdquo; place just opened along 6th Avenue between 20th and 21st Street.
+This is another one of those &amp;ldquo;pick X of this and Y of that&amp;rdquo; type of restaurant except the theme here is Japanese.</description>
+    </item>
     
     <item>
       <title>Maiella</title>
@@ -247,17 +257,6 @@ The ambiance is a dimly lit romantic setting right near the corner of Havenmayer
       <guid>https://www.gourmandsyndrome.com/nyc/mediterranean/souvlaki-gr/</guid>
       <description>Summary If you&#39;re just shy of Central Park to the south and it&#39;s in the middle of the day, this might be a good option.
   On the bottom is the mixed grilled meat platter for two people (psita tis oras poikilia). It&#39;s a combination of lambchops, traditional Greek sauce, pork/beef skewers, and pita and tzatziki. All of this was pretty good. The lambchops were ordered medium rare, and it was tender and delicious.</description>
-    </item>
-    
-    <item>
-      <title>Go Nonna</title>
-      <link>https://www.gourmandsyndrome.com/nyc/italian/go-nonna/</link>
-      <pubDate>Fri, 11 Oct 2019 22:44:18 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/italian/go-nonna/</guid>
-      <description>Summary This is a local restaurant to Long Island City that classifies itself as an Italian Argentine restaurant. The place is super small, but it feels nice and cozy.
-  The chicken piccata is served with capers in a lemon and butter sauce, served with roasted potatoes. This dish was actually really good. The potatoes had a nice crunch to them.
-  The lasagna marchigiane has bechamel, bolognese, and parmigiano.</description>
     </item>
     
   </channel>
