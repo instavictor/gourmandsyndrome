@@ -6,10 +6,19 @@
     <description>Recent content in Brooklyn on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Feb 2020 19:58:06 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2020 20:52:24 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/borough/brooklyn/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>High Lua Vietnamese Kitchen</title>
+      <link>https://www.gourmandsyndrome.com/nyc/vietnamese/high-lua-vietnamese-kitchen/</link>
+      <pubDate>Sat, 07 Mar 2020 20:52:24 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/vietnamese/high-lua-vietnamese-kitchen/</guid>
+      <description>Summary As usual, the North Williamsburg area is a pretty hot spot for restaurants to eat at. I had lived in this area for about 2 years, but I still come back time to time to get a haircut. Usually after the haircut, I&#39;ll check out something. I&#39;ve been looking for a decent pho place that is close enough to me such that I don&#39;t have to travel to Flushing.</description>
+    </item>
     
     <item>
       <title>Kor Tor Mor</title>
@@ -237,15 +246,6 @@ Unfortunately, it&#39;s CLOSED.</description>
       <guid>https://www.gourmandsyndrome.com/nyc/mexican/lucky-luna/</guid>
       <description>Got the pozole here which seems to be uncommon here in NYC. Spicy, but pretty good.
 Too bad it&#39;s CLOSED.</description>
-    </item>
-    
-    <item>
-      <title>Llama Inn</title>
-      <link>https://www.gourmandsyndrome.com/nyc/peruvian/llama-inn/</link>
-      <pubDate>Sun, 16 Sep 2018 16:32:46 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/peruvian/llama-inn/</guid>
-      <description>This place was pretty good. It&#39;s expensive sorta, but the lomo saltado was decent.</description>
     </item>
     
   </channel>

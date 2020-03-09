@@ -6,10 +6,19 @@
     <description>Recent content in Williamsburg on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jan 2020 21:38:40 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2020 20:52:24 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/williamsburg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>High Lua Vietnamese Kitchen</title>
+      <link>https://www.gourmandsyndrome.com/nyc/vietnamese/high-lua-vietnamese-kitchen/</link>
+      <pubDate>Sat, 07 Mar 2020 20:52:24 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/vietnamese/high-lua-vietnamese-kitchen/</guid>
+      <description>Summary As usual, the North Williamsburg area is a pretty hot spot for restaurants to eat at. I had lived in this area for about 2 years, but I still come back time to time to get a haircut. Usually after the haircut, I&#39;ll check out something. I&#39;ve been looking for a decent pho place that is close enough to me such that I don&#39;t have to travel to Flushing.</description>
+    </item>
     
     <item>
       <title>Zen Yai Pho Noodle Bar</title>
@@ -234,15 +243,6 @@ The pumpkin tart was really good too. The crust was flaky similar to an egg tart
       
       <guid>https://www.gourmandsyndrome.com/nyc/coffee/tobys-estate/</guid>
       <description>This is pretty good. The Brooklyn Blend beans are good for cold brew and hot.</description>
-    </item>
-    
-    <item>
-      <title>Gimme Coffee</title>
-      <link>https://www.gourmandsyndrome.com/nyc/coffee/gimme-coffee/</link>
-      <pubDate>Sun, 09 Sep 2018 22:57:57 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/coffee/gimme-coffee/</guid>
-      <description>It&#39;s ok. Beans are not as good as Toby&#39;s. It&#39;s closed though.</description>
     </item>
     
   </channel>
