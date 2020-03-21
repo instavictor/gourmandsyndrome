@@ -3,6 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/new-american/american-brass/</loc>
+    <lastmod>2020-03-15T18:50:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/french/</loc>
+    <lastmod>2020-03-15T18:50:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/</loc>
+    <lastmod>2020-03-15T18:50:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</loc>
+    <lastmod>2020-03-15T18:50:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/locale/</loc>
+    <lastmod>2020-03-15T18:50:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/new-american/</loc>
+    <lastmod>2020-03-15T18:50:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
+    <lastmod>2020-03-15T18:50:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
+    <lastmod>2020-03-15T18:50:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
+    <lastmod>2020-03-15T18:50:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
+    <lastmod>2020-03-15T18:50:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2020-03-15T18:50:08-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/queens/</loc>
+    <lastmod>2020-03-15T18:50:08-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/astoria/</loc>
     <lastmod>2020-03-08T22:26:22-04:00</lastmod>
   </url>
@@ -13,52 +73,12 @@
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2020-03-08T22:26:22-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/chinese/la-mian-lounge/</loc>
     <lastmod>2020-03-08T22:26:22-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2020-03-08T22:26:22-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/noodles/</loc>
-    <lastmod>2020-03-08T22:26:22-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2020-03-08T22:26:22-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2020-03-08T22:26:22-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2020-03-08T22:26:22-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2020-03-08T22:26:22-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
-    <lastmod>2020-03-08T22:26:22-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/queens/</loc>
     <lastmod>2020-03-08T22:26:22-04:00</lastmod>
   </url>
   
@@ -104,11 +124,6 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</loc>
-    <lastmod>2020-02-22T15:42:48-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</loc>
     <lastmod>2020-02-22T15:42:48-05:00</lastmod>
   </url>
   
@@ -195,11 +210,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/vietnamese/zen-yai-pho-noodle-bar/</loc>
     <lastmod>2020-01-12T21:38:40-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/new-american/</loc>
-    <lastmod>2020-01-11T21:36:31-05:00</lastmod>
   </url>
   
   <url>
@@ -350,11 +360,6 @@
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/peruvian/the-inkan/</loc>
     <lastmod>2019-11-27T21:24:57-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/french/</loc>
-    <lastmod>2019-11-23T17:03:01-05:00</lastmod>
   </url>
   
   <url>
