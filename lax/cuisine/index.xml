@@ -12,9 +12,27 @@
     
     
     <item>
+      <title>Chinese</title>
+      <link>https://www.gourmandsyndrome.com/lax/cuisine/chinese/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/lax/cuisine/chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disney</title>
+      <link>https://www.gourmandsyndrome.com/lax/cuisine/disney/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/lax/cuisine/disney/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>French</title>
       <link>https://www.gourmandsyndrome.com/lax/cuisine/french/</link>
-      <pubDate>Thu, 28 Feb 2019 00:43:34 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/lax/cuisine/french/</guid>
       <description></description>
@@ -23,7 +41,7 @@
     <item>
       <title>Japanese</title>
       <link>https://www.gourmandsyndrome.com/lax/cuisine/japanese/</link>
-      <pubDate>Thu, 28 Feb 2019 00:43:34 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/lax/cuisine/japanese/</guid>
       <description></description>
@@ -32,54 +50,36 @@
     <item>
       <title>Lomo Saltado</title>
       <link>https://www.gourmandsyndrome.com/lax/cuisine/lomo-saltado/</link>
-      <pubDate>Wed, 27 Feb 2019 00:43:34 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/lax/cuisine/lomo-saltado/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Peruvian</title>
-      <link>https://www.gourmandsyndrome.com/lax/cuisine/peruvian/</link>
-      <pubDate>Wed, 27 Feb 2019 00:43:34 -0400</pubDate>
+      <title>Michelin Star</title>
+      <link>https://www.gourmandsyndrome.com/lax/cuisine/michelin-star/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gourmandsyndrome.com/lax/cuisine/peruvian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disney</title>
-      <link>https://www.gourmandsyndrome.com/lax/cuisine/disney/</link>
-      <pubDate>Mon, 25 Feb 2019 00:43:34 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/lax/cuisine/disney/</guid>
+      <guid>https://www.gourmandsyndrome.com/lax/cuisine/michelin-star/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New American</title>
       <link>https://www.gourmandsyndrome.com/lax/cuisine/new-american/</link>
-      <pubDate>Mon, 25 Feb 2019 00:43:34 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/lax/cuisine/new-american/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Chinese</title>
-      <link>https://www.gourmandsyndrome.com/lax/cuisine/chinese/</link>
-      <pubDate>Sun, 24 Feb 2019 23:26:16 -0500</pubDate>
+      <title>Peruvian</title>
+      <link>https://www.gourmandsyndrome.com/lax/cuisine/peruvian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.gourmandsyndrome.com/lax/cuisine/chinese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michelin Star</title>
-      <link>https://www.gourmandsyndrome.com/lax/cuisine/michelin-star/</link>
-      <pubDate>Sun, 24 Feb 2019 23:26:16 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/lax/cuisine/michelin-star/</guid>
+      <guid>https://www.gourmandsyndrome.com/lax/cuisine/peruvian/</guid>
       <description></description>
     </item>
     
