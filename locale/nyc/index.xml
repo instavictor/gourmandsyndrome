@@ -6,10 +6,19 @@
     <description>Recent content in nyc on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Jul 2020 13:33:11 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2020 14:22:24 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/locale/nyc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aurora</title>
+      <link>https://www.gourmandsyndrome.com/nyc/italian/aurora/</link>
+      <pubDate>Sun, 09 Aug 2020 14:22:24 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/italian/aurora/</guid>
+      <description>Summary It&amp;rsquo;s been difficult to restart eating out again. Usually we just resort to delivery or takeout from various places nearby. However, it seems that many restaurants that are trying to outlast the pandemic by coming up with ideas to do the outdoor dining experience. Some restaurants don&amp;rsquo;t have a real patio, and you&amp;rsquo;re seated outside on the sidewalk within reach of people. And some restaurants like this one have a legit patio experience away from bystanders without worry.</description>
+    </item>
     
     <item>
       <title>Cuba</title>
@@ -245,16 +254,6 @@ The ambiance is a dimly lit romantic setting right near the corner of Havenmayer
       <guid>https://www.gourmandsyndrome.com/nyc/chinese/red-peony-chinese-cuisine/</guid>
       <description>Summary We were around Central Park near the southern side, and this was on my list of restaurants to try. This new-ish Chinese (Shanghainese) restaurant is located where Joe&amp;rsquo;s Shanghai used to be in Midtown. It&amp;rsquo;s not too far from the Apple flagship store.
   The stir fry snow pea leaf was mighty tasty. You can taste the subtleness of that wine, and the vegetable itself was tender and delicious.</description>
-    </item>
-    
-    <item>
-      <title>Murasaki</title>
-      <link>https://www.gourmandsyndrome.com/nyc/japanese/murasaki/</link>
-      <pubDate>Fri, 01 Nov 2019 14:39:27 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/japanese/murasaki/</guid>
-      <description>Summary Here is another nice neighborhood spot off Vernon Blvd in Long Island City. Reviews seem to rave about how good this neighborhood sushi spot is, so we decided to give it a try.
-  The peach sparkling sake was relatively inexpensive and mighty tasty. The peach flavor tasted artificial, but it was still pretty good. It felt like drinking champagne without the heavy alcohol taste and with that artificial peach sweetener.</description>
     </item>
     
   </channel>
