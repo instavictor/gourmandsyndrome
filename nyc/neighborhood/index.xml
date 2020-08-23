@@ -6,7 +6,7 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2020 14:22:24 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2020 13:24:00 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
@@ -201,6 +201,15 @@
     </item>
     
     <item>
+      <title>Long Island City</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/long-island-city/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/long-island-city/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Midtown</title>
       <link>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -224,15 +233,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Noho</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/noho/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/noho/</guid>
       <description></description>
     </item>
     

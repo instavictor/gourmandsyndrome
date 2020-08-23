@@ -6,10 +6,19 @@
     <description>Recent content on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2020 14:22:24 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2020 13:24:00 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>M.Wells</title>
+      <link>https://www.gourmandsyndrome.com/nyc/new-american/mwells/</link>
+      <pubDate>Sat, 22 Aug 2020 13:24:00 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/new-american/mwells/</guid>
+      <description>Summary This place is across the street from Food Cellar. It&amp;rsquo;s nestled in a garage and used to serve a lot of steak dishes. The menu has changed into a more casual patio like experience (I am guessing just for the summer). When we arrived, there was no table service. Instead you have to go to the counter and place your order there. The menus are shown via QRCode. After you place your order, you carry the utensils, dishes, and drinks back to your table.</description>
+    </item>
     
     <item>
       <title>Aurora</title>
@@ -242,17 +251,6 @@ The ambiance is a dimly lit romantic setting right near the corner of Havenmayer
       <guid>https://www.gourmandsyndrome.com/nyc/latin/buena-vista/</guid>
       <description>Summary A friend was in town around the Hudson Yards area, and we wanted to look for something around the area. The menu here looked pretty decent, and it was on my bookmarks for quite a while.
   The bread came with some type of tomato olive oil medley. It reminded me of bruschetta toppings but more akin to diced tomatoes out of a jar. The sauce itself was alright.</description>
-    </item>
-    
-    <item>
-      <title>Balzem</title>
-      <link>https://www.gourmandsyndrome.com/nyc/mediterranean/balzem/</link>
-      <pubDate>Mon, 18 Nov 2019 11:46:08 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/mediterranean/balzem/</guid>
-      <description>Summary This restaurant is right around the corner of Lombardi&amp;rsquo;s in Nolita. We were hungry, and of course all the super popular restaurants had wait time. This one though for some reason had none, so why not?
-  They served us complimentary bread with olive oil and olives. Nothing much to say, but it was a nice gesture and good too.
-  We also ordered octopus which was cooked in red wine sauce, pan seared and served on arugula salad.</description>
     </item>
     
   </channel>
