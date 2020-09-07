@@ -6,7 +6,7 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Aug 2020 13:24:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2020 17:30:23 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     
@@ -156,6 +156,15 @@
     </item>
     
     <item>
+      <title>Hudson Yards</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/hudson-yards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/hudson-yards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jackson Heights</title>
       <link>https://www.gourmandsyndrome.com/nyc/neighborhood/jackson-heights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -224,15 +233,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-east/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Midtown West</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-west/</guid>
       <description></description>
     </item>
     
