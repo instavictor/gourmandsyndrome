@@ -6,10 +6,19 @@
     <description>Recent content in nyc on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 19:34:10 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2020 20:43:38 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/locale/nyc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sapps</title>
+      <link>https://www.gourmandsyndrome.com/nyc/japanese/sapps/</link>
+      <pubDate>Sat, 19 Sep 2020 20:43:38 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/japanese/sapps/</guid>
+      <description>Summary In this pandemic, restaurants are trying all sorts of ways to do outdoor dining. What was interesting about Sapps was that they set up dining tables next door in the front of a mechanic shop but with plenty of distance between tables. They also put out propane powered heat warmers. When you arrive, you can basically choose your own seat, and the waiters will bring the water to you.</description>
+    </item>
     
     <item>
       <title>Allora</title>
@@ -239,16 +248,6 @@ I definitely want to preface that the ventilation in this restaurant is not good
       <guid>https://www.gourmandsyndrome.com/nyc/french/la-cafette/</guid>
       <description>Summary This restaurant has been on my list for a while. Before I moved out of North Williamsburg, I wanted to eat something with pork. Unfortunately at the time, they were closed on a Tuesday for whatever reason, so I did not have the opportunity to try this place until today.
 The ambiance is a dimly lit romantic setting right near the corner of Havenmayer. There were a lot of candles all over, and the tables were pretty close to each other reminding me of my time in Paris.</description>
-    </item>
-    
-    <item>
-      <title>Buena Vista</title>
-      <link>https://www.gourmandsyndrome.com/nyc/latin/buena-vista/</link>
-      <pubDate>Wed, 20 Nov 2019 11:58:27 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/latin/buena-vista/</guid>
-      <description>Summary A friend was in town around the Hudson Yards area, and we wanted to look for something around the area. The menu here looked pretty decent, and it was on my bookmarks for quite a while.
-  The bread came with some type of tomato olive oil medley. It reminded me of bruschetta toppings but more akin to diced tomatoes out of a jar. The sauce itself was alright.</description>
     </item>
     
   </channel>
