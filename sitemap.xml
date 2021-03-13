@@ -3,17 +3,102 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2021-02-14T23:21:42-05:00</lastmod>
+    <loc>https://www.gourmandsyndrome.com/mco/flower-and-garden-festival/</loc>
+    <lastmod>2021-03-06T23:24:11-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/spanish/haizea/</loc>
-    <lastmod>2021-02-14T23:21:42-05:00</lastmod>
+    <loc>https://www.gourmandsyndrome.com/</loc>
+    <lastmod>2021-03-06T23:24:11-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
+    <lastmod>2021-03-06T23:24:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/locale/mco/</loc>
+    <lastmod>2021-03-06T23:24:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/</loc>
+    <lastmod>2021-03-06T23:24:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/neighborhood/</loc>
+    <lastmod>2021-03-06T23:24:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/</loc>
+    <lastmod>2021-03-06T23:24:11-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/jaleo/</loc>
+    <lastmod>2021-03-05T21:46:29-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/hollywood-brown-derby/</loc>
+    <lastmod>2021-03-04T22:14:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/ogas-cantina/</loc>
+    <lastmod>2021-03-04T17:57:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/tiffins/</loc>
+    <lastmod>2021-03-03T19:10:54-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/regal-eagle-smokehouse/</loc>
+    <lastmod>2021-03-02T23:04:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/sommerfest/</loc>
+    <lastmod>2021-03-02T22:33:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/la-cava-del-tequila/</loc>
+    <lastmod>2021-03-02T22:18:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/yorkshire-county-fish-shop/</loc>
+    <lastmod>2021-03-02T22:01:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/beaches-and-cream/</loc>
+    <lastmod>2021-03-02T18:29:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/be-our-guest/</loc>
+    <lastmod>2021-03-01T17:43:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/california-grill/</loc>
+    <lastmod>2021-02-28T16:35:58-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/topolino/</loc>
+    <lastmod>2021-02-27T15:25:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/spanish/haizea/</loc>
     <lastmod>2021-02-14T23:21:42-05:00</lastmod>
   </url>
   
@@ -2118,7 +2203,15 @@
   </url>
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/african/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/american/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/american/</loc>
   </url>
   
   <url>
@@ -2131,6 +2224,10 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/anc/neighborhood/anchorage/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/neighborhood/animal-kingdom/</loc>
   </url>
   
   <url>
@@ -2158,11 +2255,19 @@
   </url>
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/bars/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/basque/</loc>
   </url>
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/bbq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/bbq/</loc>
   </url>
   
   <url>
@@ -2179,6 +2284,10 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/breakfast/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/british/</loc>
   </url>
   
   <url>
@@ -2234,6 +2343,10 @@
   </url>
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/mco/neighborhood/contemporary-hotel/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/cuban/</loc>
   </url>
   
@@ -2250,6 +2363,14 @@
   </url>
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/mco/neighborhood/disney-springs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/neighborhood/disney-world/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/donuts/</loc>
   </url>
   
@@ -2263,6 +2384,14 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/elmhurst/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/neighborhood/epcot/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/festival/</loc>
   </url>
   
   <url>
@@ -2286,6 +2415,10 @@
   </url>
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/french/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/lax/cuisine/french/</loc>
   </url>
   
@@ -2299,6 +2432,10 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/garden/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/german/</loc>
   </url>
   
   <url>
@@ -2330,6 +2467,10 @@
   </url>
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/mco/neighborhood/hollywood-studios/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/hot-pot/</loc>
   </url>
   
@@ -2338,7 +2479,15 @@
   </url>
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/ice-cream/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/italian/</loc>
   </url>
   
   <url>
@@ -2414,6 +2563,10 @@
   </url>
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/mco/neighborhood/magic-kingdom/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/manhattan/</loc>
   </url>
   
@@ -2423,6 +2576,10 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/mexican/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/mexican/</loc>
   </url>
   
   <url>
@@ -2463,6 +2620,10 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/new-american/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/new-american/</loc>
   </url>
   
   <url>
@@ -2546,6 +2707,10 @@
   </url>
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/mco/neighborhood/riviera-resort/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/rooftop/</loc>
   </url>
   
@@ -2594,6 +2759,10 @@
   </url>
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/spanish/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/speakeasy/</loc>
   </url>
   
@@ -2614,7 +2783,15 @@
   </url>
   
   <url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/sushi/</loc>
+  </url>
+  
+  <url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/tapas/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/tapas/</loc>
   </url>
   
   <url>
@@ -2671,6 +2848,10 @@
   
   <url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/williamsburg/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gourmandsyndrome.com/mco/neighborhood/yacht-club/</loc>
   </url>
   
   <url>

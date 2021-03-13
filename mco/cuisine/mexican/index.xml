@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mexican on Gourmand Syndrome</title>
+    <link>https://www.gourmandsyndrome.com/mco/cuisine/mexican/</link>
+    <description>Recent content in Mexican on Gourmand Syndrome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.gourmandsyndrome.com/mco/cuisine/mexican/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>La Cava Del Tequila</title>
+      <link>https://www.gourmandsyndrome.com/mco/la-cava-del-tequila/</link>
+      <pubDate>Tue, 02 Mar 2021 22:18:00 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/mco/la-cava-del-tequila/</guid>
+      <description>Summary This is located in the Mexican pavilion at Epcot. When you enter the pyramid, there&amp;rsquo;s a little store to the right next to the fountain. In this COVID environment, there are social distancing lines as you enter here. Unfortunately you can&amp;rsquo;t sit inside the bar, so you have to buy the drink and sit outside. I do not know if (or how much of) the drinks are pre-mixed, but it was served super fast.</description>
+    </item>
+    
+  </channel>
+</rss>
