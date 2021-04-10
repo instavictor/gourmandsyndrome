@@ -6,7 +6,7 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Mar 2021 21:33:42 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 09 Apr 2021 15:52:06 -0400</lastBuildDate>
     
 	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     
@@ -129,6 +129,15 @@
     </item>
     
     <item>
+      <title>Ceviche</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/ceviche/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/ceviche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chinese</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/chinese/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -224,15 +233,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/garden/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Greek</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/greek/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/greek/</guid>
       <description></description>
     </item>
     
