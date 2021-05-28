@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/mco/neighborhood/riviera-resort/</link>
     <description>Recent content in Riviera Resort on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/mco/neighborhood/riviera-resort/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/mco/neighborhood/riviera-resort/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Topolino&#39;s Terrace</title>
       <link>https://www.gourmandsyndrome.com/mco/topolino/</link>

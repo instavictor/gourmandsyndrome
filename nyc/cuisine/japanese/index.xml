@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/cuisine/japanese/</link>
     <description>Recent content in Japanese on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/japanese/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/japanese/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Takumen</title>
       <link>https://www.gourmandsyndrome.com/nyc/japanese/takumen/</link>

@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/neighborhood/flushing/</link>
     <description>Recent content in Flushing on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/flushing/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/flushing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Imperial Palace</title>
       <link>https://www.gourmandsyndrome.com/nyc/chinese/imperial-palace/</link>

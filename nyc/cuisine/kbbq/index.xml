@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/cuisine/kbbq/</link>
     <description>Recent content in KBBQ on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/kbbq/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/kbbq/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dokebi</title>
       <link>https://www.gourmandsyndrome.com/nyc/korean/dokebi/</link>

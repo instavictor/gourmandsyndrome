@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/neighborhood/times-square/</link>
     <description>Recent content in Times Square on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/times-square/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/times-square/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tony&#39;s Di Napoli</title>
       <link>https://www.gourmandsyndrome.com/nyc/italian/tonys-di-napoli/</link>

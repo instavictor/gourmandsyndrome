@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/cuisine/bars/</link>
     <description>Recent content in Bars on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/bars/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/bars/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Elgin</title>
       <link>https://www.gourmandsyndrome.com/nyc/new-american/the-elgin/</link>

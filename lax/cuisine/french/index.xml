@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/lax/cuisine/french/</link>
     <description>Recent content in French on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/lax/cuisine/french/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/lax/cuisine/french/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shiro</title>
       <link>https://www.gourmandsyndrome.com/lax/shiro/</link>

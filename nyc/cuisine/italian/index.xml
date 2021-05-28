@@ -5,10 +5,15 @@
     <link>https://www.gourmandsyndrome.com/nyc/cuisine/italian/</link>
     <description>Recent content in Italian on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/italian/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/italian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Don Angie</title>
+      <link>https://www.gourmandsyndrome.com/nyc/italian/don-angie/</link>
+      <pubDate>Sun, 23 May 2021 15:23:37 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/italian/don-angie/</guid>
+      <description>Summary This restaurant had been on my peripheral for a while because of the lasagna dish. I didn&amp;rsquo;t decide to try to book a reservation until I learned it was awarded its first every Michelin Star. I had tried a few times on Resy, but always missed it. Fortunately, I was able to land a reservation on a weekend at 5 PM EST. The restaurant itself is in West Village and felt like a typical trendy cafe in the area.</description>
+    </item>
     
     <item>
       <title>Allora</title>

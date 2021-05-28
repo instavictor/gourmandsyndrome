@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/mco/neighborhood/hollywood-studios/</link>
     <description>Recent content in Hollywood Studios on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/mco/neighborhood/hollywood-studios/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/mco/neighborhood/hollywood-studios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hollywood Brown Derby</title>
       <link>https://www.gourmandsyndrome.com/mco/hollywood-brown-derby/</link>

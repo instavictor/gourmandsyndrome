@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown/</link>
     <description>Recent content in Midtown on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/midtown/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/midtown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Izakaya Toribar</title>
       <link>https://www.gourmandsyndrome.com/nyc/japanese/izakaya-toribar/</link>

@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/mco/cuisine/british/</link>
     <description>Recent content in British on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/mco/cuisine/british/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/mco/cuisine/british/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yorkshire County Fish Shop</title>
       <link>https://www.gourmandsyndrome.com/mco/yorkshire-county-fish-shop/</link>

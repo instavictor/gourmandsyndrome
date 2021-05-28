@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/cuisine/ayce/</link>
     <description>Recent content in AYCE on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/ayce/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/ayce/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Huo Yi Hot Pot</title>
       <link>https://www.gourmandsyndrome.com/nyc/chinese/huo-yi-hot-pot/</link>

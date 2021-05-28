@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/neighborhood/downtown-brooklyn/</link>
     <description>Recent content in Downtown Brooklyn on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/downtown-brooklyn/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/downtown-brooklyn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yaso Tangbao</title>
       <link>https://www.gourmandsyndrome.com/nyc/chinese/yaso-tangbao/</link>

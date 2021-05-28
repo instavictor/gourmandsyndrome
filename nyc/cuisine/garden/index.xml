@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/cuisine/garden/</link>
     <description>Recent content in Garden on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/garden/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/garden/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Narcissa</title>
       <link>https://www.gourmandsyndrome.com/nyc/new-american/narcissa/</link>

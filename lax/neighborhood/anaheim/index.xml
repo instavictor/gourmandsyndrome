@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/lax/neighborhood/anaheim/</link>
     <description>Recent content in Anaheim on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/lax/neighborhood/anaheim/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/lax/neighborhood/anaheim/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Napa Rose</title>
       <link>https://www.gourmandsyndrome.com/lax/napa-rose/</link>

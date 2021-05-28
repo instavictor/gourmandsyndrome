@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/cuisine/moroccan/</link>
     <description>Recent content in Moroccan on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/moroccan/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/moroccan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cafe Mogador</title>
       <link>https://www.gourmandsyndrome.com/nyc/mediterranean/cafe-mogador/</link>

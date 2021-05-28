@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/cuisine/donuts/</link>
     <description>Recent content in Donuts on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/donuts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/donuts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Moe&#39;s Doughs Donut Shop</title>
       <link>https://www.gourmandsyndrome.com/nyc/breakfast/moes-doughs-donut-shop/</link>

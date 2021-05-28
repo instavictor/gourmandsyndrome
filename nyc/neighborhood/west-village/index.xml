@@ -5,10 +5,15 @@
     <link>https://www.gourmandsyndrome.com/nyc/neighborhood/west-village/</link>
     <description>Recent content in West Village on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/west-village/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/west-village/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Don Angie</title>
+      <link>https://www.gourmandsyndrome.com/nyc/italian/don-angie/</link>
+      <pubDate>Sun, 23 May 2021 15:23:37 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/italian/don-angie/</guid>
+      <description>Summary This restaurant had been on my peripheral for a while because of the lasagna dish. I didn&amp;rsquo;t decide to try to book a reservation until I learned it was awarded its first every Michelin Star. I had tried a few times on Resy, but always missed it. Fortunately, I was able to land a reservation on a weekend at 5 PM EST. The restaurant itself is in West Village and felt like a typical trendy cafe in the area.</description>
+    </item>
     
     <item>
       <title>While We Were Young</title>
@@ -232,15 +237,6 @@ They&amp;rsquo;re also known for the Cronut, but it can be bought at the Spring 
       <guid>https://www.gourmandsyndrome.com/nyc/breakfast/jacks-wife-freda/</guid>
       <description>Got the Shakshooka. I also asked for hot sauce, and it was some wet guacamole green looking thing. It has a nice kick to it. The shakshooka was also green too instead of the normal red sauce. Has a good kick to it and was also more sour than usual. Also got a side of the duck bacon which was interesting.
 Again, skip the lines and sit at the bar.</description>
-    </item>
-    
-    <item>
-      <title>Buvette</title>
-      <link>https://www.gourmandsyndrome.com/nyc/breakfast/buvette/</link>
-      <pubDate>Sun, 09 Sep 2018 21:38:03 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/breakfast/buvette/</guid>
-      <description>This place is really good. Their steamed eggs are super fluffy, but pretty expensive. It&amp;rsquo;s crowded but easy to walk in as 1.</description>
     </item>
     
   </channel>

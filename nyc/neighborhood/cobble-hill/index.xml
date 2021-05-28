@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/neighborhood/cobble-hill/</link>
     <description>Recent content in Cobble Hill on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/cobble-hill/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/cobble-hill/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kor Tor Mor</title>
       <link>https://www.gourmandsyndrome.com/nyc/thai/kor-tor-mor/</link>

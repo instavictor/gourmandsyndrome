@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/neighborhood/yorkville/</link>
     <description>Recent content in Yorkville on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/yorkville/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/yorkville/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uva</title>
       <link>https://www.gourmandsyndrome.com/nyc/italian/uva/</link>

@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/mco/neighborhood/magic-kingdom/</link>
     <description>Recent content in Magic Kingdom on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/mco/neighborhood/magic-kingdom/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/mco/neighborhood/magic-kingdom/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Be Our Guest</title>
       <link>https://www.gourmandsyndrome.com/mco/be-our-guest/</link>

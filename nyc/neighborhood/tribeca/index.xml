@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/neighborhood/tribeca/</link>
     <description>Recent content in TriBeCa on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/tribeca/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/tribeca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ninja</title>
       <link>https://www.gourmandsyndrome.com/nyc/japanese/ninja/</link>

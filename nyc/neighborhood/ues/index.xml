@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/neighborhood/ues/</link>
     <description>Recent content in UES on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/ues/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/ues/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Smoke Jazz and Supper Club</title>
       <link>https://www.gourmandsyndrome.com/nyc/new-american/smoke-jazz-and-supper-club/</link>

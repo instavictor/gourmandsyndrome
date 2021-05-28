@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/cuisine/ceviche/</link>
     <description>Recent content in Ceviche on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/ceviche/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/ceviche/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pio Pio</title>
       <link>https://www.gourmandsyndrome.com/nyc/peruvian/pio-pio/</link>

@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/lax/cuisine/peruvian/</link>
     <description>Recent content in Peruvian on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/lax/cuisine/peruvian/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/lax/cuisine/peruvian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mario&#39;s Peruvian &amp; Seafood</title>
       <link>https://www.gourmandsyndrome.com/lax/marios-peruvian-and-seafood/</link>

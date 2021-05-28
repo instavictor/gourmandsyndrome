@@ -5,10 +5,15 @@
     <link>https://www.gourmandsyndrome.com/nyc/borough/manhattan/</link>
     <description>Recent content in Manhattan on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/borough/manhattan/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/borough/manhattan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Don Angie</title>
+      <link>https://www.gourmandsyndrome.com/nyc/italian/don-angie/</link>
+      <pubDate>Sun, 23 May 2021 15:23:37 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/italian/don-angie/</guid>
+      <description>Summary This restaurant had been on my peripheral for a while because of the lasagna dish. I didn&amp;rsquo;t decide to try to book a reservation until I learned it was awarded its first every Michelin Star. I had tried a few times on Resy, but always missed it. Fortunately, I was able to land a reservation on a weekend at 5 PM EST. The restaurant itself is in West Village and felt like a typical trendy cafe in the area.</description>
+    </item>
     
     <item>
       <title>Madame Vo</title>
@@ -236,16 +241,6 @@ I definitely want to preface that the ventilation in this restaurant is not good
       <guid>https://www.gourmandsyndrome.com/nyc/italian/wolf/</guid>
       <description>Summary If you&amp;rsquo;re around the Rockafeller area and are looking for pretty decent Italian food at a not overly expensive price, this restaurant might be a good candidate. It is located on the 2nd floor of the Nordstrom NYC flagship store near the watches section. We walked in without reservations around 5:30 PM, and we were seated at the bar fairly quickly.
   Because Nordstrom doesn&amp;rsquo;t have the drinks menu online, I&amp;rsquo;m hoping my memory serves me well.</description>
-    </item>
-    
-    <item>
-      <title>Red Peony Chinese Cuisine</title>
-      <link>https://www.gourmandsyndrome.com/nyc/chinese/red-peony-chinese-cuisine/</link>
-      <pubDate>Sat, 02 Nov 2019 14:45:20 -0500</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/chinese/red-peony-chinese-cuisine/</guid>
-      <description>Summary We were around Central Park near the southern side, and this was on my list of restaurants to try. This new-ish Chinese (Shanghainese) restaurant is located where Joe&amp;rsquo;s Shanghai used to be in Midtown. It&amp;rsquo;s not too far from the Apple flagship store.
-  The stir fry snow pea leaf was mighty tasty. You can taste the subtleness of that wine, and the vegetable itself was tender and delicious.</description>
     </item>
     
   </channel>

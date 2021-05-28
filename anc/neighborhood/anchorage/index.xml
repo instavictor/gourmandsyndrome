@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/anc/neighborhood/anchorage/</link>
     <description>Recent content in Anchorage on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/anc/neighborhood/anchorage/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/anc/neighborhood/anchorage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simon and Seaford Saloon</title>
       <link>https://www.gourmandsyndrome.com/anc/simon-and-seaford-saloon/</link>

@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/neighborhood/bushwick/</link>
     <description>Recent content in Bushwick on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/bushwick/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/bushwick/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blanca</title>
       <link>https://www.gourmandsyndrome.com/nyc/tastings/blanca/</link>

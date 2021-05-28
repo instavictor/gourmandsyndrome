@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/chi/cuisine/michelin-star/</link>
     <description>Recent content in Michelin Star on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/chi/cuisine/michelin-star/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/chi/cuisine/michelin-star/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alinea</title>
       <link>https://www.gourmandsyndrome.com/chi/new-american/alinea/</link>

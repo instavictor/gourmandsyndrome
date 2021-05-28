@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</link>
     <description>Recent content in Chelsea on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Socarrat Paella Bar</title>
       <link>https://www.gourmandsyndrome.com/nyc/spanish/socarrat-paella-bar/</link>

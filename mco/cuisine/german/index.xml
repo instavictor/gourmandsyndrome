@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/mco/cuisine/german/</link>
     <description>Recent content in German on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/mco/cuisine/german/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/mco/cuisine/german/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sommerfest</title>
       <link>https://www.gourmandsyndrome.com/mco/sommerfest/</link>

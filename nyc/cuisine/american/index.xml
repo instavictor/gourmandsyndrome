@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/cuisine/american/</link>
     <description>Recent content in American on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/american/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/american/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Queens Room</title>
       <link>https://www.gourmandsyndrome.com/nyc/mediterranean/queens-room/</link>

@@ -5,11 +5,7 @@
     <link>https://www.gourmandsyndrome.com/nyc/cuisine/middle-eastern/</link>
     <description>Recent content in Middle Eastern on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/middle-eastern/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/middle-eastern/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ravagh</title>
       <link>https://www.gourmandsyndrome.com/nyc/mediterranean/ravagh/</link>
