@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/new-american/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Jojo</title>
+      <link>https://www.gourmandsyndrome.com/nyc/new-american/jojo/</link>
+      <pubDate>Sat, 06 Nov 2021 17:00:51 -0500</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/new-american/jojo/</guid>
+      <description>This restaurant is very close to the Bloomingdales along Lexington in the Upper East side. Surprisingly it has been here for a while, but we seldom come to this neighborhood to grab food. It just so happens we were on an errand run, so my partner was able to grab an early reservation. This is one of the more price friendly restaurants of Jean Georges although it arguably is still on the pricy side.</description>
+    </item>
+    
+    <item>
       <title>The Harrow</title>
       <link>https://www.gourmandsyndrome.com/nyc/new-american/the-harrow/</link>
       <pubDate>Sat, 18 Sep 2021 21:40:29 -0400</pubDate>
@@ -237,15 +246,6 @@ The food here is really good, filling, and not too expensive.
       
       <guid>https://www.gourmandsyndrome.com/nyc/new-american/maison-pickle/</guid>
       <description>French Dip is really good here, espeically the au jus drippings.</description>
-    </item>
-    
-    <item>
-      <title>Marc Forgione</title>
-      <link>https://www.gourmandsyndrome.com/nyc/new-american/marc-forgione/</link>
-      <pubDate>Sun, 16 Sep 2018 17:57:37 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/new-american/marc-forgione/</guid>
-      <description>My FAVORITE &amp;hellip; Chili Lobster.</description>
     </item>
     
   </channel>
