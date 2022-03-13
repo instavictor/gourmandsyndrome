@@ -6,7 +6,7 @@
     <description>Recent content in Mco/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Mar 2021 23:24:11 -0500</lastBuildDate><atom:link href="https://www.gourmandsyndrome.com/mco/cuisine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Feb 2022 11:13:50 -0500</lastBuildDate><atom:link href="https://www.gourmandsyndrome.com/mco/cuisine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>African</title>
       <link>https://www.gourmandsyndrome.com/mco/cuisine/african/</link>
@@ -85,6 +85,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/mco/cuisine/ice-cream/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indian</title>
+      <link>https://www.gourmandsyndrome.com/mco/cuisine/indian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/mco/cuisine/indian/</guid>
       <description></description>
     </item>
     
