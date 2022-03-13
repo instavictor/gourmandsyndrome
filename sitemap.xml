@@ -3,24 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2022-02-28T13:07:51-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/mco/jiko/</loc>
-    <lastmod>2022-02-28T13:07:51-05:00</lastmod>
+    <lastmod>2022-03-01T14:17:22-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2022-02-28T13:07:51-05:00</lastmod>
+    <lastmod>2022-03-01T14:17:22-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/mco/</loc>
-    <lastmod>2022-02-28T13:07:51-05:00</lastmod>
+    <lastmod>2022-03-01T14:17:22-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/cuisine/</loc>
-    <lastmod>2022-02-28T13:07:51-05:00</lastmod>
+    <lastmod>2022-03-01T14:17:22-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/neighborhood/</loc>
-    <lastmod>2022-02-28T13:07:51-05:00</lastmod>
+    <lastmod>2022-03-01T14:17:22-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/</loc>
+    <lastmod>2022-03-01T14:17:22-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/mco/steakhouse-71/</loc>
+    <lastmod>2022-03-01T14:17:22-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/mco/docking-bay-7-food-and-cargo/</loc>
+    <lastmod>2022-03-01T13:59:34-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/mco/jiko/</loc>
     <lastmod>2022-02-28T13:07:51-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/sanaa-lounge/</loc>
@@ -1547,6 +1553,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/neighborhood/contemporary-hotel/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/mco/neighborhood/contemporary-resort/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/cuban/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/desserts/</loc>
@@ -1772,6 +1780,8 @@
     <loc>https://www.gourmandsyndrome.com/stats/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/steak/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/steak/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/sunnyside/</loc>
   </url><url>
