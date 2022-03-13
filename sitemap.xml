@@ -3,22 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2022-03-03T10:22:56-05:00</lastmod>
+    <lastmod>2022-03-05T10:58:58-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2022-03-03T10:22:56-05:00</lastmod>
+    <lastmod>2022-03-05T10:58:58-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/mco/</loc>
-    <lastmod>2022-03-03T10:22:56-05:00</lastmod>
+    <lastmod>2022-03-05T10:58:58-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/cuisine/</loc>
-    <lastmod>2022-03-03T10:22:56-05:00</lastmod>
+    <lastmod>2022-03-05T10:58:58-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/neighborhood/</loc>
-    <lastmod>2022-03-03T10:22:56-05:00</lastmod>
+    <lastmod>2022-03-05T10:58:58-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/</loc>
-    <lastmod>2022-03-03T10:22:56-05:00</lastmod>
+    <lastmod>2022-03-05T10:58:58-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/mco/three-broomsticks/</loc>
+    <lastmod>2022-03-05T10:58:58-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/mco/florean-fortescues-ice-cream-parlour/</loc>
+    <lastmod>2022-03-05T10:54:19-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/mco/krusty-burger/</loc>
+    <lastmod>2022-03-05T10:49:12-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/satuli-canteen/</loc>
     <lastmod>2022-03-03T10:22:56-05:00</lastmod>
@@ -1537,6 +1546,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/burgers/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/burgers/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/bushwick/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/anc/cuisine/cajun/</loc>
@@ -1622,6 +1633,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/greenwich-village/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/neighborhood/hancock-park/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/mco/neighborhood/harry-potter/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/hells-kitchen/</loc>
   </url><url>
@@ -1771,6 +1784,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/shanghainese/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/mco/neighborhood/simpsons/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/soba/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/soho/</loc>
@@ -1822,6 +1837,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/ues/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/union-square/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/mco/neighborhood/universal/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/uws/</loc>
   </url><url>

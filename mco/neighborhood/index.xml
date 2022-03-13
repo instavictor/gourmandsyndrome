@@ -6,7 +6,7 @@
     <description>Recent content in Mco/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Mar 2022 10:22:56 -0500</lastBuildDate><atom:link href="https://www.gourmandsyndrome.com/mco/neighborhood/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Mar 2022 10:58:58 -0400</lastBuildDate><atom:link href="https://www.gourmandsyndrome.com/mco/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Animal Kingdom</title>
       <link>https://www.gourmandsyndrome.com/mco/neighborhood/animal-kingdom/</link>
@@ -71,6 +71,15 @@
     </item>
     
     <item>
+      <title>Harry Potter</title>
+      <link>https://www.gourmandsyndrome.com/mco/neighborhood/harry-potter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/mco/neighborhood/harry-potter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hollywood Studios</title>
       <link>https://www.gourmandsyndrome.com/mco/neighborhood/hollywood-studios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -94,6 +103,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/mco/neighborhood/riviera-resort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simpsons</title>
+      <link>https://www.gourmandsyndrome.com/mco/neighborhood/simpsons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/mco/neighborhood/simpsons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal</title>
+      <link>https://www.gourmandsyndrome.com/mco/neighborhood/universal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/mco/neighborhood/universal/</guid>
       <description></description>
     </item>
     
