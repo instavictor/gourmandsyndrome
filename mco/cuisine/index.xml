@@ -6,7 +6,7 @@
     <description>Recent content in Mco/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Mar 2022 10:58:58 -0400</lastBuildDate><atom:link href="https://www.gourmandsyndrome.com/mco/cuisine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Mar 2022 23:30:17 -0400</lastBuildDate><atom:link href="https://www.gourmandsyndrome.com/mco/cuisine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>African</title>
       <link>https://www.gourmandsyndrome.com/mco/cuisine/african/</link>
@@ -139,6 +139,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/mco/cuisine/new-american/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seafood</title>
+      <link>https://www.gourmandsyndrome.com/mco/cuisine/seafood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/mco/cuisine/seafood/</guid>
       <description></description>
     </item>
     

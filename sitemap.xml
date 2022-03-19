@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.gourmandsyndrome.com/mco/bluezoo/</loc>
+    <lastmod>2022-03-05T23:30:17-04:00</lastmod>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2022-03-05T10:58:58-04:00</lastmod>
+    <lastmod>2022-03-05T23:30:17-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2022-03-05T10:58:58-04:00</lastmod>
+    <lastmod>2022-03-05T23:30:17-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/mco/</loc>
-    <lastmod>2022-03-05T10:58:58-04:00</lastmod>
+    <lastmod>2022-03-05T23:30:17-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/cuisine/</loc>
-    <lastmod>2022-03-05T10:58:58-04:00</lastmod>
+    <lastmod>2022-03-05T23:30:17-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/neighborhood/</loc>
-    <lastmod>2022-03-05T10:58:58-04:00</lastmod>
+    <lastmod>2022-03-05T23:30:17-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/</loc>
-    <lastmod>2022-03-05T10:58:58-04:00</lastmod>
+    <lastmod>2022-03-05T23:30:17-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/three-broomsticks/</loc>
     <lastmod>2022-03-05T10:58:58-04:00</lastmod>
@@ -1790,6 +1793,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/seafood/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/mco/cuisine/seafood/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/anc/cuisine/seafood/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/search/</loc>
@@ -1825,6 +1830,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/sushi/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/cuisine/sushi/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/mco/neighborhood/swan-dolphin/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/tapas/</loc>
   </url><url>
