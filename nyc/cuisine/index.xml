@@ -6,7 +6,16 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Mar 2022 19:18:22 -0400</lastBuildDate><atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Mar 2022 18:08:47 -0400</lastBuildDate><atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Afghan</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/afghan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/afghan/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>American</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/american/</link>
@@ -220,15 +229,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/fried-chicken/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Garden</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/garden/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/garden/</guid>
       <description></description>
     </item>
     
