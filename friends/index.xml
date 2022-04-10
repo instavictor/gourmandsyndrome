@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Friends on Gourmand Syndrome</title>
+    <link>https://www.gourmandsyndrome.com/friends/</link>
+    <description>Recent content in Friends on Gourmand Syndrome</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Apr 2022 22:33:20 -0400</lastBuildDate><atom:link href="https://www.gourmandsyndrome.com/friends/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>le</title>
+      <link>https://www.gourmandsyndrome.com/friends/le/</link>
+      <pubDate>Sun, 03 Apr 2022 22:33:20 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/friends/le/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
