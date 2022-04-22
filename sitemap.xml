@@ -2,26 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/steak/carne-mare/</loc>
+    <lastmod>2022-04-15T14:58:48-04:00</lastmod>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2022-04-09T14:36:26-04:00</lastmod>
+    <lastmod>2022-04-15T14:58:48-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2022-04-09T14:36:26-04:00</lastmod>
+    <lastmod>2022-04-15T14:58:48-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2022-04-09T14:36:26-04:00</lastmod>
+    <lastmod>2022-04-15T14:58:48-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2022-04-09T14:36:26-04:00</lastmod>
+    <lastmod>2022-04-15T14:58:48-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2022-04-09T14:36:26-04:00</lastmod>
+    <lastmod>2022-04-15T14:58:48-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2022-04-09T14:36:26-04:00</lastmod>
+    <lastmod>2022-04-15T14:58:48-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/</loc>
-    <lastmod>2022-04-09T14:36:26-04:00</lastmod>
+    <lastmod>2022-04-15T14:58:48-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/peruvian/caravan-chicken/</loc>
+    <lastmod>2022-04-10T14:17:13-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/indonesian/wayan/</loc>
     <lastmod>2022-04-09T14:36:26-04:00</lastmod>
@@ -1570,6 +1576,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/ayce/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/cuisine/ayce/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/baked-alaska/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/bars/</loc>
   </url><url>
