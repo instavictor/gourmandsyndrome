@@ -3,25 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2022-05-07T15:10:54-04:00</lastmod>
+    <lastmod>2022-05-08T19:07:12-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2022-05-07T15:10:54-04:00</lastmod>
+    <lastmod>2022-05-08T19:07:12-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2022-05-07T15:10:54-04:00</lastmod>
+    <lastmod>2022-05-08T19:07:12-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2022-05-07T15:10:54-04:00</lastmod>
+    <lastmod>2022-05-08T19:07:12-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2022-05-07T15:10:54-04:00</lastmod>
+    <lastmod>2022-05-08T19:07:12-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2022-05-07T15:10:54-04:00</lastmod>
+    <lastmod>2022-05-08T19:07:12-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/</loc>
-    <lastmod>2022-05-07T15:10:54-04:00</lastmod>
+    <lastmod>2022-05-08T19:07:12-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/fried-chicken/sweet-chick/</loc>
+    <lastmod>2022-05-08T19:07:12-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/ramen/ramen-spot/</loc>
     <lastmod>2022-05-07T15:10:54-04:00</lastmod>
@@ -1882,6 +1885,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/south-street-seaport/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/south-village/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/southern/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/spanish/</loc>
   </url><url>
