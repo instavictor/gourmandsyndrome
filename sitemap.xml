@@ -2,28 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/italian/da-andrea/</loc>
-    <lastmod>2022-06-04T19:59:02-04:00</lastmod>
-  </url><url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2022-06-04T19:59:02-04:00</lastmod>
+    <lastmod>2022-06-11T16:10:50-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2022-06-04T19:59:02-04:00</lastmod>
+    <lastmod>2022-06-11T16:10:50-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2022-06-04T19:59:02-04:00</lastmod>
+    <lastmod>2022-06-11T16:10:50-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2022-06-04T19:59:02-04:00</lastmod>
+    <lastmod>2022-06-11T16:10:50-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2022-06-04T19:59:02-04:00</lastmod>
+    <lastmod>2022-06-11T16:10:50-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2022-06-04T19:59:02-04:00</lastmod>
+    <lastmod>2022-06-11T16:10:50-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2022-06-11T16:10:50-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/italian/piatto/</loc>
+    <lastmod>2022-06-11T16:10:50-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/italian/da-andrea/</loc>
     <lastmod>2022-06-04T19:59:02-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/korean/oiji-mi/</loc>
@@ -722,9 +725,6 @@
     <loc>https://www.gourmandsyndrome.com/nyc/chinese/house-special/</loc>
     <lastmod>2019-02-23T19:30:41-05:00</lastmod>
   </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/brazilian/emporium-brasil/</loc>
-    <lastmod>2019-02-17T23:13:28-05:00</lastmod>
-  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/brazilian/rice-n-beans/</loc>
     <lastmod>2019-02-17T23:06:11-05:00</lastmod>
   </url><url>
@@ -1003,9 +1003,6 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/ramen/momofuku-noodle-bar/</loc>
     <lastmod>2018-09-16T20:29:53-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/ramen/ippudo/</loc>
-    <lastmod>2018-09-16T20:28:33-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/ramen/zundo-ya/</loc>
     <lastmod>2018-09-16T20:27:35-04:00</lastmod>
