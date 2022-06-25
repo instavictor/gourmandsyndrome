@@ -2,26 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.gourmandsyndrome.com/sea/seafood/elliots-oyster-house/</loc>
+    <lastmod>2022-06-20T14:30:50-04:00</lastmod>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2022-06-15T19:37:58-04:00</lastmod>
+    <lastmod>2022-06-20T14:30:50-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2022-06-15T19:37:58-04:00</lastmod>
+    <lastmod>2022-06-20T14:30:50-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/locale/sea/</loc>
+    <lastmod>2022-06-20T14:30:50-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/sea/cuisine/</loc>
+    <lastmod>2022-06-20T14:30:50-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/sea/neighborhood/</loc>
+    <lastmod>2022-06-20T14:30:50-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/sea/</loc>
+    <lastmod>2022-06-20T14:30:50-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2022-06-15T19:37:58-04:00</lastmod>
+    <lastmod>2022-06-17T23:13:28-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2022-06-15T19:37:58-04:00</lastmod>
+    <lastmod>2022-06-17T23:13:28-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2022-06-15T19:37:58-04:00</lastmod>
+    <lastmod>2022-06-17T23:13:28-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2022-06-15T19:37:58-04:00</lastmod>
+    <lastmod>2022-06-17T23:13:28-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/</loc>
-    <lastmod>2022-06-15T19:37:58-04:00</lastmod>
+    <lastmod>2022-06-17T23:13:28-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/french/per-se/</loc>
     <lastmod>2022-06-15T19:37:58-04:00</lastmod>
@@ -813,7 +828,7 @@
     <lastmod>2019-01-01T19:14:46-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/brazilian/ipanema/</loc>
-    <lastmod>2018-12-08T18:52:00-05:00</lastmod>
+    <lastmod>2022-06-17T23:13:28-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/peruvian/chirp/</loc>
     <lastmod>2018-12-07T19:24:07-05:00</lastmod>
@@ -1885,6 +1900,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/scotch/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/sea/cuisine/seafood/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/seafood/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/cuisine/seafood/</loc>
@@ -1962,6 +1979,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/vegetarian/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/vietnamese/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/sea/neighborhood/waterfront/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/chi/neighborhood/west-loop/</loc>
   </url><url>
