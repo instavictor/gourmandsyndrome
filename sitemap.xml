@@ -2,29 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.gourmandsyndrome.com/nyc/burgers/black-iron-burger/</loc>
+    <lastmod>2022-07-08T10:47:34-04:00</lastmod>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2022-07-03T14:37:37-04:00</lastmod>
+    <lastmod>2022-07-08T10:47:34-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/locale/</loc>
+    <lastmod>2022-07-08T10:47:34-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
+    <lastmod>2022-07-08T10:47:34-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
+    <lastmod>2022-07-08T10:47:34-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
+    <lastmod>2022-07-08T10:47:34-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
+    <lastmod>2022-07-08T10:47:34-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2022-07-08T10:47:34-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/thai/khun-noo-thai-noodle-house/</loc>
     <lastmod>2022-06-26T15:10:22-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2022-07-03T14:37:37-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2022-07-03T14:37:37-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2022-07-03T14:37:37-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2022-07-03T14:37:37-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2022-07-03T14:37:37-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
-    <lastmod>2022-07-03T14:37:37-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/sea/seafood/elliots-oyster-house/</loc>
     <lastmod>2022-06-20T14:30:50-04:00</lastmod>
