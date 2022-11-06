@@ -989,9 +989,6 @@
     <loc>https://www.gourmandsyndrome.com/nyc/steak/212-steakhouse/</loc>
     <lastmod>2018-09-16T21:54:49-04:00</lastmod>
   </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/steak/peter-lugers/</loc>
-    <lastmod>2018-09-16T21:52:39-04:00</lastmod>
-  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/steak/old-homestead/</loc>
     <lastmod>2019-08-21T14:10:38-04:00</lastmod>
   </url><url>
@@ -1664,8 +1661,17 @@
     <loc>https://www.gourmandsyndrome.com/lax/maude-1/</loc>
     <lastmod>2014-05-07T20:45:27-04:00</lastmod>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/nick-and-stefs-steakhouse/</loc>
+    <lastmod>2013-09-14T11:58:51-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/wolfgangs-steakhouse/</loc>
+    <lastmod>2013-06-21T11:32:29-05:00</lastmod>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/black-market-liquor-bar/</loc>
     <lastmod>2013-02-23T00:05:01-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/steak/peter-lugers/</loc>
+    <lastmod>2018-09-16T21:52:39-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/ramen-hayatemaru/</loc>
     <lastmod>2013-04-08T23:38:48-04:00</lastmod>
@@ -2053,6 +2059,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/steak/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/cuisine/steak/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/cuisine/steak/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/neighborhood/studio-city/</loc>
   </url><url>
