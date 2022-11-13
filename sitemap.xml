@@ -1664,6 +1664,15 @@
     <loc>https://www.gourmandsyndrome.com/lax/maude-1/</loc>
     <lastmod>2014-05-07T20:45:27-04:00</lastmod>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/tatsu-ramen/</loc>
+    <lastmod>2014-03-13T17:49:54-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/waterloo-and-city/</loc>
+    <lastmod>2014-03-09T17:24:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/grimaldis/</loc>
+    <lastmod>2014-03-03T17:16:28-05:00</lastmod>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/friends/jye/</loc>
     <lastmod>2014-02-28T21:49:43-05:00</lastmod>
   </url><url>
@@ -1794,6 +1803,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/cuisine/british/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/cuisine/british/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/brooklyn/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/brunch/</loc>
@@ -1832,6 +1843,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/cuban/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/neighborhood/culver-city/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/curry/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/desserts/</loc>
@@ -1855,6 +1868,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/downtown-brooklyn/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/east-village/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/neighborhood/el-segundo/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/elmhurst/</loc>
   </url><url>
@@ -1883,6 +1898,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/garden/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/gastropub/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/cuisine/gastropub/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/cuisine/german/</loc>
   </url><url>
@@ -2031,6 +2048,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/piano-bar/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/pizza/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/cuisine/pizza/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/chi/cuisine/pizza/</loc>
   </url><url>
