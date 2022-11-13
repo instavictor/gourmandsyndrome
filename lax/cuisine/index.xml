@@ -6,7 +6,7 @@
     <description>Recent content in Lax/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Nov 2022 16:06:52 -0500</lastBuildDate><atom:link href="https://www.gourmandsyndrome.com/lax/cuisine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Feb 2019 00:43:34 -0400</lastBuildDate><atom:link href="https://www.gourmandsyndrome.com/lax/cuisine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2014 Expedition</title>
       <link>https://www.gourmandsyndrome.com/lax/cuisine/2014-expedition/</link>
@@ -31,6 +31,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/lax/cuisine/chinese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dim Sum</title>
+      <link>https://www.gourmandsyndrome.com/lax/cuisine/dim-sum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/lax/cuisine/dim-sum/</guid>
       <description></description>
     </item>
     
@@ -166,15 +175,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/lax/cuisine/tapas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tasting</title>
-      <link>https://www.gourmandsyndrome.com/lax/cuisine/tasting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/lax/cuisine/tasting/</guid>
       <description></description>
     </item>
     
