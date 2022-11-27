@@ -1046,9 +1046,6 @@
     <loc>https://www.gourmandsyndrome.com/nyc/sandwiches/tal-bagels/</loc>
     <lastmod>2018-09-16T21:12:09-04:00</lastmod>
   </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/sandwiches/katzs-delicatessen/</loc>
-    <lastmod>2018-09-16T21:11:20-04:00</lastmod>
-  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/sandwiches/roccos-pizza-joint/</loc>
     <lastmod>2018-09-16T21:09:08-04:00</lastmod>
   </url><url>
@@ -1093,9 +1090,6 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/ramen/kuu-ramen/</loc>
     <lastmod>2018-09-16T20:31:18-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/ramen/momofuku-noodle-bar/</loc>
-    <lastmod>2018-09-16T20:29:53-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/ramen/ippudo/</loc>
     <lastmod>2022-06-10T20:28:33-04:00</lastmod>
@@ -1168,9 +1162,6 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/new-american/maison-pickle/</loc>
     <lastmod>2018-09-16T17:59:44-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/new-american/marc-forgione/</loc>
-    <lastmod>2018-09-16T17:57:37-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/new-american/leuca/</loc>
     <lastmod>2018-09-16T17:56:23-04:00</lastmod>
@@ -1418,9 +1409,6 @@
     <loc>https://www.gourmandsyndrome.com/nyc/desserts/cafe-zaiya/</loc>
     <lastmod>2018-09-09T23:14:29-04:00</lastmod>
   </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/desserts/chikalicious/</loc>
-    <lastmod>2018-09-09T23:12:41-04:00</lastmod>
-  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/desserts/patisserie-tomoko/</loc>
     <lastmod>2018-09-09T23:10:26-04:00</lastmod>
   </url><url>
@@ -1564,9 +1552,6 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/breakfast/egg-shop/</loc>
     <lastmod>2018-09-09T21:35:41-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/breakfast/doughnut-plant/</loc>
-    <lastmod>2018-09-09T21:25:33-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/breakfast/russ-and-daughters-cafe/</loc>
     <lastmod>2018-09-09T21:23:40-04:00</lastmod>
@@ -1784,11 +1769,32 @@
     <loc>https://www.gourmandsyndrome.com/lax/wolfgangs-steakhouse/</loc>
     <lastmod>2013-06-21T11:32:29-05:00</lastmod>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/chi/burgers/the-weiner-circle/</loc>
+    <lastmod>2013-04-27T15:00:15-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/chi/japanese/roka-akor/</loc>
+    <lastmod>2013-04-14T15:10:09-05:00</lastmod>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/black-market-liquor-bar/</loc>
     <lastmod>2013-02-23T00:05:01-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/steak/peter-lugers/</loc>
     <lastmod>2018-09-16T21:52:39-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/ramen/momofuku-noodle-bar/</loc>
+    <lastmod>2012-12-16T18:29:51-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/new-american/marc-forgione/</loc>
+    <lastmod>2012-12-12T18:16:30-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/friends/rex/</loc>
+    <lastmod>2018-09-09T23:12:41-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/new-american/wd-50/</loc>
+    <lastmod>2012-12-11T17:59:21-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/new-american/momofuku-ssam/</loc>
+    <lastmod>2012-12-10T17:47:37-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/las/latelier/</loc>
     <lastmod>2012-11-07T14:28:30-05:00</lastmod>
@@ -1805,9 +1811,6 @@
     <loc>https://www.gourmandsyndrome.com/las/neighborhood/</loc>
     <lastmod>2012-11-07T14:28:30-05:00</lastmod>
   </url><url>
-    <loc>https://www.gourmandsyndrome.com/friends/rex/</loc>
-    <lastmod>2012-11-07T14:28:30-05:00</lastmod>
-  </url><url>
     <loc>https://www.gourmandsyndrome.com/las/sage/</loc>
     <lastmod>2012-11-06T14:08:37-05:00</lastmod>
   </url><url>
@@ -1819,6 +1822,9 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/las/burger-bar/</loc>
     <lastmod>2012-07-22T14:01:00-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/mexican/barrio-chino/</loc>
+    <lastmod>2012-07-13T17:33:37-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/ink-1/</loc>
     <lastmod>2012-07-12T22:55:46-04:00</lastmod>
@@ -1832,11 +1838,35 @@
     <loc>https://www.gourmandsyndrome.com/las/rm-seafood/</loc>
     <lastmod>2012-06-30T13:45:52-05:00</lastmod>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/desserts/rice-to-riches/</loc>
+    <lastmod>2012-06-01T16:40:14-05:00</lastmod>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/bazaar-saam/</loc>
     <lastmod>2012-05-20T21:40:25-04:00</lastmod>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/pizza/lombardis/</loc>
+    <lastmod>2012-05-19T16:35:48-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/burgers/shake-shack/</loc>
+    <lastmod>2012-04-29T16:25:01-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/sandwiches/katzs-delicatessen/</loc>
+    <lastmod>2012-04-28T16:13:03-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/desserts/chikalicious/</loc>
+    <lastmod>2018-09-09T23:12:41-04:00</lastmod>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/sushi-gen/</loc>
     <lastmod>2012-04-15T21:06:31-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/italian/bacaro/</loc>
+    <lastmod>2012-04-14T15:50:02-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/seafood/lukes-lobster/</loc>
+    <lastmod>2012-04-12T15:42:52-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/breakfast/doughnut-plant/</loc>
+    <lastmod>2018-09-09T21:25:33-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/cuisine/2014-expedition/</loc>
   </url><url>
@@ -1849,6 +1879,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/american/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/cuisine/american/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/chi/cuisine/american/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/anc/cuisine/american/</loc>
   </url><url>
@@ -1988,6 +2020,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/fidi/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/fill/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/flatiron/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/flushing/</loc>
@@ -2062,6 +2096,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/cuisine/japanese/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/chi/cuisine/japanese/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/jazz/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/jewish/</loc>
@@ -2069,6 +2105,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/kaiseki/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/cuisine/kaiseki/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/chi/cuisine/kaiseki/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/kbbq/</loc>
   </url><url>
@@ -2285,6 +2323,8 @@
     <loc>https://www.gourmandsyndrome.com/lax/cuisine/tastings/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/las/cuisine/tastings/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/chi/cuisine/tastings/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/tea-rooms/</loc>
   </url><url>
