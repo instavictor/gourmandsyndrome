@@ -3,27 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2022-11-23T15:28:11-05:00</lastmod>
+    <lastmod>2022-11-25T15:28:26-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2022-11-23T15:28:11-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/korean/naro/</loc>
-    <lastmod>2022-11-23T15:28:11-05:00</lastmod>
+    <lastmod>2022-11-25T15:28:26-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2022-11-23T15:28:11-05:00</lastmod>
+    <lastmod>2022-11-25T15:28:26-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2022-11-23T15:28:11-05:00</lastmod>
+    <lastmod>2022-11-25T15:28:26-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2022-11-23T15:28:11-05:00</lastmod>
+    <lastmod>2022-11-25T15:28:26-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2022-11-23T15:28:11-05:00</lastmod>
+    <lastmod>2022-11-25T15:28:26-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2022-11-25T15:28:26-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/italian/piccola-cucina/</loc>
+    <lastmod>2022-11-25T15:28:26-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/korean/naro/</loc>
     <lastmod>2022-11-23T15:28:11-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/new-american/the-reading-room/</loc>
@@ -1745,7 +1748,7 @@
     <loc>https://www.gourmandsyndrome.com/lax/grimaldis/</loc>
     <lastmod>2014-03-03T17:16:28-05:00</lastmod>
   </url><url>
-    <loc>https://www.gourmandsyndrome.com/friends/jye/</loc>
+    <loc>https://www.gourmandsyndrome.com/friends/jie/</loc>
     <lastmod>2014-02-28T21:49:43-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/n-naka/</loc>
@@ -1769,9 +1772,6 @@
     <loc>https://www.gourmandsyndrome.com/lax/l-and-e-oyster-bar/</loc>
     <lastmod>2014-01-11T21:28:38-05:00</lastmod>
   </url><url>
-    <loc>https://www.gourmandsyndrome.com/friends/jie/</loc>
-    <lastmod>2013-10-15T20:56:48-05:00</lastmod>
-  </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/melisse/</loc>
     <lastmod>2013-10-15T20:56:48-05:00</lastmod>
   </url><url>
@@ -1790,11 +1790,35 @@
     <loc>https://www.gourmandsyndrome.com/nyc/steak/peter-lugers/</loc>
     <lastmod>2018-09-16T21:52:39-04:00</lastmod>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/las/latelier/</loc>
+    <lastmod>2012-11-07T14:28:30-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/locale/las/</loc>
+    <lastmod>2012-11-07T14:28:30-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/las/</loc>
+    <lastmod>2012-11-07T14:28:30-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/las/cuisine/</loc>
+    <lastmod>2012-11-07T14:28:30-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/las/neighborhood/</loc>
+    <lastmod>2012-11-07T14:28:30-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/friends/rex/</loc>
+    <lastmod>2012-11-07T14:28:30-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/las/sage/</loc>
+    <lastmod>2012-11-06T14:08:37-05:00</lastmod>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/ramen-hayatemaru/</loc>
     <lastmod>2013-04-08T23:38:48-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/ink-2/</loc>
     <lastmod>2012-07-27T22:55:53-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/las/burger-bar/</loc>
+    <lastmod>2012-07-22T14:01:00-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/ink-1/</loc>
     <lastmod>2012-07-12T22:55:46-04:00</lastmod>
@@ -1804,6 +1828,9 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/baco-mercat/</loc>
     <lastmod>2012-07-02T22:20:17-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/las/rm-seafood/</loc>
+    <lastmod>2012-06-30T13:45:52-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/bazaar-saam/</loc>
     <lastmod>2012-05-20T21:40:25-04:00</lastmod>
@@ -1836,6 +1863,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/argentine/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/argentinian/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/las/neighborhood/aria/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/asian/</loc>
   </url><url>
@@ -1886,6 +1915,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/burgers/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/cuisine/burgers/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/las/cuisine/burgers/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/bushwick/</loc>
   </url><url>
@@ -1969,6 +2000,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/cuisine/french/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/las/cuisine/french/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/french-dip/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/fried-chicken/</loc>
@@ -2049,6 +2082,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/neighborhood/koreatown/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/las/borough/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/latin-american/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/borough/</loc>
@@ -2067,6 +2102,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/neighborhood/magic-kingdom/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/las/neighborhood/mandalay-bay/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/manhattan/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/mediterranean/</loc>
@@ -2078,6 +2115,8 @@
     <loc>https://www.gourmandsyndrome.com/mco/cuisine/mexican/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/mezcal/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/las/neighborhood/mgm-grand/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/michelin-star/</loc>
   </url><url>
@@ -2102,6 +2141,8 @@
     <loc>https://www.gourmandsyndrome.com/mco/cuisine/new-american/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/cuisine/new-american/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/las/cuisine/new-american/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/chi/cuisine/new-american/</loc>
   </url><url>
@@ -2175,6 +2216,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/cuisine/seafood/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/las/cuisine/seafood/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/anc/cuisine/seafood/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/search/</loc>
@@ -2240,6 +2283,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/tastings/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/cuisine/tastings/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/las/cuisine/tastings/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/tea-rooms/</loc>
   </url><url>
