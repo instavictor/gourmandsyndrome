@@ -2,28 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2023-01-20T13:30:43-05:00</lastmod>
+    <loc>https://www.gourmandsyndrome.com/nyc/vietnamese/cha-pas-noodles/</loc>
+    <lastmod>2023-01-25T15:46:02-05:00</lastmod>
   </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/mediterranean/ilili/</loc>
-    <lastmod>2023-01-20T13:30:43-05:00</lastmod>
+    <loc>https://www.gourmandsyndrome.com/</loc>
+    <lastmod>2023-01-25T15:46:02-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2023-01-20T13:30:43-05:00</lastmod>
+    <lastmod>2023-01-25T15:46:02-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2023-01-20T13:30:43-05:00</lastmod>
+    <lastmod>2023-01-25T15:46:02-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2023-01-20T13:30:43-05:00</lastmod>
+    <lastmod>2023-01-25T15:46:02-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2023-01-20T13:30:43-05:00</lastmod>
+    <lastmod>2023-01-25T15:46:02-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2023-01-20T13:30:43-05:00</lastmod>
+    <lastmod>2023-01-25T15:46:02-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2023-01-25T15:46:02-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/mediterranean/ilili/</loc>
     <lastmod>2023-01-20T13:30:43-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/desserts/lysee/</loc>
@@ -1034,9 +1037,6 @@
     <loc>https://www.gourmandsyndrome.com/nyc/thai/thai-sliders/</loc>
     <lastmod>2018-09-16T21:48:22-04:00</lastmod>
   </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/spanish/casa-mono/</loc>
-    <lastmod>2018-09-16T21:44:25-04:00</lastmod>
-  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/spanish/cafe-riazor/</loc>
     <lastmod>2018-09-16T21:42:26-04:00</lastmod>
   </url><url>
@@ -1228,6 +1228,9 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/peruvian/senor-pollo/</loc>
     <lastmod>2018-09-16T15:55:02-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/spanish/casa-mono/</loc>
+    <lastmod>2023-01-22T14:06:53-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/korean/samwon-garden-bbq/</loc>
     <lastmod>2018-09-16T15:01:19-04:00</lastmod>
@@ -2046,8 +2049,6 @@
     <loc>https://www.gourmandsyndrome.com/mco/cuisine/festival/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/fidi/</loc>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/fill/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/flatiron/</loc>
   </url><url>
