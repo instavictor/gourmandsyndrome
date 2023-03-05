@@ -3,28 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2023-02-27T14:37:37-04:00</lastmod>
+    <lastmod>2023-03-04T11:00:11-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/locale/</loc>
+    <lastmod>2023-03-04T11:00:11-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
+    <lastmod>2023-03-04T11:00:11-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
+    <lastmod>2023-03-04T11:00:11-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
+    <lastmod>2023-03-04T11:00:11-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
+    <lastmod>2023-03-04T11:00:11-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2023-03-04T11:00:11-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/mediterranean/zou-zous/</loc>
+    <lastmod>2023-02-26T23:02:18-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/french/le-rock/</loc>
     <lastmod>2023-02-24T21:30:43-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2023-02-27T14:37:37-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2023-02-27T14:37:37-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2023-02-27T14:37:37-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2023-02-27T14:37:37-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2023-02-27T14:37:37-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
-    <lastmod>2023-02-27T14:37:37-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/italian/duomo-51/</loc>
     <lastmod>2023-02-20T20:06:13-05:00</lastmod>
@@ -72,7 +75,7 @@
     <lastmod>2022-12-09T13:31:41-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/mediterranean/svl-souvlaki-bar/</loc>
-    <lastmod>2022-12-04T11:00:11-05:00</lastmod>
+    <lastmod>2023-03-04T11:00:11-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/korean/oppa-bistro/</loc>
     <lastmod>2022-12-02T16:16:09-05:00</lastmod>
@@ -2209,6 +2212,20 @@
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/mezcal/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/las/neighborhood/mgm-grand/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/michelin-1/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/cuisine/michelin-1/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/michelin-2/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/cuisine/michelin-2/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/chi/cuisine/michelin-2/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/michelin-3/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/chi/cuisine/michelin-3/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/michelin-star/</loc>
   </url><url>
