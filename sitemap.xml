@@ -3,28 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.gourmandsyndrome.com/friends/</loc>
-    <lastmod>2023-04-16T11:50:51-04:00</lastmod>
+    <lastmod>2023-04-16T23:10:54-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2023-04-16T11:50:51-04:00</lastmod>
+    <lastmod>2023-04-16T23:10:54-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/friends/jie/</loc>
-    <lastmod>2023-04-16T11:50:51-04:00</lastmod>
+    <lastmod>2023-04-16T23:10:54-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/lax/</loc>
-    <lastmod>2023-04-16T11:50:51-04:00</lastmod>
+    <lastmod>2023-04-16T23:10:54-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/cuisine/</loc>
-    <lastmod>2023-04-16T11:50:51-04:00</lastmod>
+    <lastmod>2023-04-16T23:10:54-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/neighborhood/</loc>
-    <lastmod>2023-04-16T11:50:51-04:00</lastmod>
+    <lastmod>2023-04-16T23:10:54-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/</loc>
-    <lastmod>2023-04-16T11:50:51-04:00</lastmod>
+    <lastmod>2023-04-16T23:10:54-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2023-04-16T11:50:51-04:00</lastmod>
+    <lastmod>2023-04-16T23:10:54-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/xecora/</loc>
+    <lastmod>2023-04-16T23:10:54-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/yangs-kitchen/</loc>
     <lastmod>2023-04-16T11:50:51-04:00</lastmod>
@@ -2079,6 +2082,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/east-village/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/neighborhood/el-monte/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/neighborhood/el-segundo/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/elmhurst/</loc>
@@ -2222,6 +2227,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/mexican/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/cuisine/mexican/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/cuisine/mexican/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/mezcal/</loc>
   </url><url>
