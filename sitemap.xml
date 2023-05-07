@@ -2,29 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.gourmandsyndrome.com/lax/carthay-circle/</loc>
+    <lastmod>2023-04-17T20:04:45-04:00</lastmod>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/friends/</loc>
-    <lastmod>2023-04-16T23:10:54-04:00</lastmod>
+    <lastmod>2023-04-17T20:04:45-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2023-04-16T23:10:54-04:00</lastmod>
+    <lastmod>2023-04-17T20:04:45-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/friends/jie/</loc>
-    <lastmod>2023-04-16T23:10:54-04:00</lastmod>
+    <lastmod>2023-04-17T20:04:45-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/lax/</loc>
-    <lastmod>2023-04-16T23:10:54-04:00</lastmod>
+    <lastmod>2023-04-17T20:04:45-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/cuisine/</loc>
-    <lastmod>2023-04-16T23:10:54-04:00</lastmod>
+    <lastmod>2023-04-17T20:04:45-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/neighborhood/</loc>
-    <lastmod>2023-04-16T23:10:54-04:00</lastmod>
+    <lastmod>2023-04-17T20:04:45-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/</loc>
-    <lastmod>2023-04-16T23:10:54-04:00</lastmod>
+    <lastmod>2023-04-17T20:04:45-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2023-04-16T23:10:54-04:00</lastmod>
+    <lastmod>2023-04-17T20:04:45-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/xecora/</loc>
     <lastmod>2023-04-16T23:10:54-04:00</lastmod>
@@ -2071,6 +2074,10 @@
     <loc>https://www.gourmandsyndrome.com/mco/neighborhood/disney-springs/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/neighborhood/disney-world/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/cuisine/disneyland/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/neighborhood/disneyland-california-adventure/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/donuts/</loc>
   </url><url>
