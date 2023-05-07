@@ -2,17 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.gourmandsyndrome.com/lax/carthay-circle/</loc>
-    <lastmod>2023-04-17T20:04:45-04:00</lastmod>
-  </url><url>
     <loc>https://www.gourmandsyndrome.com/friends/</loc>
-    <lastmod>2023-04-18T00:43:34-04:00</lastmod>
+    <lastmod>2023-04-24T14:16:24-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2023-04-18T00:43:34-04:00</lastmod>
+    <lastmod>2023-04-24T14:16:24-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/locale/haw/</loc>
+    <lastmod>2023-04-24T14:16:24-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/haw/cuisine/</loc>
+    <lastmod>2023-04-24T14:16:24-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/haw/neighborhood/</loc>
+    <lastmod>2023-04-24T14:16:24-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/haw/</loc>
+    <lastmod>2023-04-24T14:16:24-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/friends/jye/</loc>
-    <lastmod>2023-04-18T00:43:34-04:00</lastmod>
+    <lastmod>2023-04-24T14:16:24-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/locale/</loc>
+    <lastmod>2023-04-24T14:16:24-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/haw/poke-fix/</loc>
+    <lastmod>2023-04-24T14:16:24-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/lax/carthay-circle/</loc>
+    <lastmod>2023-04-17T20:04:45-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/lax/</loc>
     <lastmod>2023-04-18T00:43:34-04:00</lastmod>
@@ -24,9 +42,6 @@
     <lastmod>2023-04-18T00:43:34-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/</loc>
-    <lastmod>2023-04-18T00:43:34-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/locale/</loc>
     <lastmod>2023-04-18T00:43:34-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/xecora/</loc>
@@ -2151,6 +2166,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/neighborhood/hollywood-studios/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/haw/neighborhood/honolulu/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/hot-pot/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/hudson-yards/</loc>
@@ -2317,6 +2334,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/chi/cuisine/pizza/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/haw/cuisine/poke/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/portuguese/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/prospect-heights/</loc>
@@ -2458,6 +2477,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/vietnamese/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/cuisine/vietnamese/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/haw/neighborhood/waikiki/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/sea/neighborhood/waterfront/</loc>
   </url><url>
