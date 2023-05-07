@@ -71,15 +71,6 @@
     </item>
     
     <item>
-      <title>Disneyland</title>
-      <link>https://www.gourmandsyndrome.com/lax/cuisine/disneyland/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/lax/cuisine/disneyland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>French</title>
       <link>https://www.gourmandsyndrome.com/lax/cuisine/french/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -229,6 +220,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/lax/cuisine/seafood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spanish</title>
+      <link>https://www.gourmandsyndrome.com/lax/cuisine/spanish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/lax/cuisine/spanish/</guid>
       <description></description>
     </item>
     
