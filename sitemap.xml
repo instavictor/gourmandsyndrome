@@ -2,28 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/italian/giardino-54/</loc>
-    <lastmod>2023-07-22T18:03:04-04:00</lastmod>
-  </url><url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2023-07-22T18:03:04-04:00</lastmod>
+    <lastmod>2023-07-26T21:47:04-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2023-07-22T18:03:04-04:00</lastmod>
+    <lastmod>2023-07-26T21:47:04-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2023-07-22T18:03:04-04:00</lastmod>
+    <lastmod>2023-07-26T21:47:04-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2023-07-22T18:03:04-04:00</lastmod>
+    <lastmod>2023-07-26T21:47:04-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2023-07-22T18:03:04-04:00</lastmod>
+    <lastmod>2023-07-26T21:47:04-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2023-07-22T18:03:04-04:00</lastmod>
+    <lastmod>2023-07-26T21:47:04-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2023-07-26T21:47:04-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/japanese/secchu-yokota/</loc>
+    <lastmod>2023-07-26T21:47:04-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/italian/giardino-54/</loc>
     <lastmod>2023-07-22T18:03:04-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/thai/pranakhon/</loc>
@@ -2040,6 +2043,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/neighborhood/alhambra/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/alphabet-city/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/alsatian/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/american/</loc>
@@ -2549,6 +2554,8 @@
     <loc>https://www.gourmandsyndrome.com/chi/cuisine/tastings/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/tea-rooms/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/tempura/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/thai/</loc>
   </url><url>
