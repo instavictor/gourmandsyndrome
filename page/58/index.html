@@ -33,2120 +33,938 @@ if (!doNotTrack) {
 	gtag('config', 'G-CN5KPHS31R', { 'anonymize_ip': false });
 }
 </script>
-<link href="/dist/gs.css" rel="stylesheet"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<link href="/dist/gs.css" rel="stylesheet">
+
+
+
+<link href="/lib/fa/css/fontawesome.min.css" rel="stylesheet">
+<link href="/lib/fa/css/brands.min.css" rel="stylesheet">
+<link href="/lib/fa/css/solid.min.css" rel="stylesheet">
 
 <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "34ca6cdc94b34f5e95bfb14e20dc1a12"}'></script>
 
 </head>
 
     <body><header>
-    <div class="logo" onclick="window.location='/';" style="background-image: url(/img/logo.png);"></div>
+    <div class="logo" onclick="window.location='/';"></div>
 
     <section id="navigation">
-        <div class="locale">
-            <div><i class="fas fa-globe icons" alt="Choose locale"></i></div>
-            <div>
-                <span id="locale-text"><a href="#" class="locale-text">All</a></span><div>
-                    <i class="fas fa-caret-down icons locale-picker"></i>
-                    <div id="locale-dropdown" style="display: none;">
-                        <div class="option" value="">All</div>
-                        <div class="option" value="anc">Anchorage</div>
-                        <div class="option" value="chi">Chicago</div>
-                        <div class="option" value="dc">Washington DC</div>
-                        <div class="option" value="haw">Hawaii</div>
-                        <div class="option" value="las">Las Vegas</div>
-                        <div class="option" value="lax">Los Angeles</div>
-                        <div class="option" value="mco">Orlando</div>
-                        <div class="option" value="nyc">New York City</div>
-                        <div class="option" value="sea">Seattle</div>
+        <section class="locale">
+            <i class="fas fa-globe icons" alt="Choose locale">
+                <div class="locale-group">
+                    <span id="locale-text"><a href="#" class="locale-text">All</a></span><div>
+                        <i class="fas fa-caret-down icons locale-picker">
+                            <div id="locale-dropdown" style="display: none;">
+                                <div class="option" value="">All</div>
+                                <div class="option" value="anc">Anchorage</div>
+                                <div class="option" value="chi">Chicago</div>
+                                <div class="option" value="dc">Washington DC</div>
+                                <div class="option" value="haw">Hawaii</div>
+                                <div class="option" value="las">Las Vegas</div>
+                                <div class="option" value="lax">Los Angeles</div>
+                                <div class="option" value="mco">Orlando</div>
+                                <div class="option" value="nyc">New York City</div>
+                                <div class="option" value="sea">Seattle</div></div>
+                        </i>
                     </div>
                 </div>
-            </div>
-        </div>
-        <form id="search-form" action="/search">
-            <i class="fas fa-search icons"></i>
-            <input type="search" id="search" placeholder="Search" name="q">
-        </form><div class="map">
-            <div><i class="fas fa-map icons" alt="View map"></i></div>
-            <div><a href="https://www.google.com/maps/d/u/0/embed?mid=1hJvQnjmjETZ4ab4InbG84iLg3Z5N_mHX">NYC Map</a></div>
-        </div>
-    </section>
-</header>
+            </i>
+        </section><section class="map">
+            <i class="fas fa-map icons" alt="View map">
+                <div class="map-group"><a href="https://www.google.com/maps/d/u/0/embed?mid=1hJvQnjmjETZ4ab4InbG84iLg3Z5N_mHX">NYC Map</a></div>
+            </i>
+        </section>
 
-<section id="page-divider"></section>
+        <section class="search">
+            <i class="fas fa-search icons">
+                <div class="search-group"><a href="#search" class="search-link">Search</a></div>
+            </i>
+            <div>
+                <form id="search-form" action="/search" class="hide">
+                    <input type="search" id="search" placeholder="Search" name="q">
+                    <button type="submit"><i class="fas fa-magnifying-glass-arrow-right icons"></i></button>
+                </form>
+            </div>
+            
+        </section>
+    </section>
+   
+</header>
 
         <section id="main">
     <section id="content">
         <article>
+        
+
+        
+        
+
         <div class="title">
-            <a href="https://www.gourmandsyndrome.com/nyc/korean/barn-joo/">Barn Joo</a>
+            <a href="https://www.gourmandsyndrome.com/nyc/korean/barn-joo/">Barn Joo
+
+
+
+
+
+</a>
         </div>
 
-        
-        <div class="meta">
-                <i class="fas fa-globe icons" title="Locale"></i>
-                
-                <a href="/nyc">NYC</a>
-            </div>
-        
-        
-        
-            <div class="meta borough">
-                <i class="fas fa-city icons" title="City"></i> 
-                
-                    <a href="/nyc/borough/manhattan">Manhattan</a></div>
-        
-
-        
-        
-        
-        
-        <div class="meta neighborhood">
-                <i class="fas fa-home icons" title="Neighborhood"></i> 
-                
+        <div class="metadata"><div class="meta">
+                    <i class="fas fa-globe icons" title="Locale">
                     
-                    <a href="/nyc/neighborhood/union-square">Union Square</a></div>
-        
-        <div class="meta cuisine">
-                <i class="fas fa-utensils icons" title="Cuisine"></i>
-                
-                    <a href="/nyc/cuisine/korean">Korean</a></div><div class="meta yelp">
-                <i class="fab fa-yelp icons" title="Yelp"></i> <a href="https://www.yelp.com/biz/barn-joo-new-york-3">Yelp</a>
-            </div><div class="meta map">
-                <i class="fas fa-map-marker-alt icons" title="Map"></i> <a href="https://goo.gl/maps/aqxFx41tGVBzVetJ8">Google</a>
-            </div><div class="posted">Updated March 18, 2022</div><div class="summary">
+                    <a href="/nyc">NYC</a>
+                    </i>
+                </div>
+            
+            
+            
+                <div class="meta borough">
+                    <i class="fas fa-city icons" title="City">
+                    
+                        <a href="/nyc/borough/manhattan">Manhattan</a></i> 
+                </div>
+            
+
+            
+            
+            
+            
+            <div class="meta neighborhood">
+                    <i class="fas fa-home icons" title="Neighborhood">
+                    
+                        
+                        <a href="/nyc/neighborhood/union-square">Union Square</a></i>
+                </div>
+            
+            <div class="meta cuisine">
+                    <i class="fas fa-utensils icons" title="Cuisine">
+                    
+                        <a href="/nyc/cuisine/korean">Korean</a></i>
+                </div><div class="meta yelp">
+                    <i class="fab fa-yelp icons" title="Yelp"><a href="https://www.yelp.com/biz/barn-joo-new-york-3">Yelp</a></i>
+                </div><div class="meta map">
+                    <i class="fas fa-map-marker-alt icons" title="Map"><a href="https://goo.gl/maps/aqxFx41tGVBzVetJ8">Google</a></i>
+                </div></div><div class="posted">Updated March 18, 2022</div><div class="summary">
             I had been here several years ago, and it hasn&rsquo;t changed much at all. This is a Korean bar type restaurant in Union Square with a myriad of different Korean foods including noodles, rice, buns, etc. The last time I was here, I had ordered a bunch of side dishes and had wrote down typical Korean American bar food. This time around, we decided to try out Korean BBQ. The staff led us up the stairs where there were many tables with BBQ grills in them.</div><div class="read-more">
                 <button><a href="https://www.gourmandsyndrome.com/nyc/korean/barn-joo/">More</a></button>
             </div></article><article>
+        
+
+        
+        
+
         <div class="title">
-            <a href="https://www.gourmandsyndrome.com/nyc/bars/raines-law-room/">Raines Law Room</a>
+            <a href="https://www.gourmandsyndrome.com/nyc/bars/raines-law-room/">Raines Law Room
+
+
+
+
+
+</a>
         </div>
 
-        
-        <div class="meta">
-                <i class="fas fa-globe icons" title="Locale"></i>
-                
-                <a href="/nyc">NYC</a>
-            </div>
-        
-        
-        
-            <div class="meta borough">
-                <i class="fas fa-city icons" title="City"></i> 
-                
-                    <a href="/nyc/borough/manhattan">Manhattan</a></div>
-        
-
-        
-        
-        
-        
-        <div class="meta neighborhood">
-                <i class="fas fa-home icons" title="Neighborhood"></i> 
-                
+        <div class="metadata"><div class="meta">
+                    <i class="fas fa-globe icons" title="Locale">
                     
-                    <a href="/nyc/neighborhood/flatiron">Flatiron</a></div>
-        
-        <div class="meta cuisine">
-                <i class="fas fa-utensils icons" title="Cuisine"></i>
-                
-                    <a href="/nyc/cuisine/bars">Bars</a>
-                    <a href="/nyc/cuisine/speakeasy">Speakeasy</a></div><div class="meta yelp">
-                <i class="fab fa-yelp icons" title="Yelp"></i> <a href="https://www.yelp.com/biz/raines-law-room-new-york">Yelp</a>
-            </div><div class="meta map">
-                <i class="fas fa-map-marker-alt icons" title="Map"></i> <a href="https://goo.gl/maps/nemreH3MMvk">Google</a>
-            </div><div class="posted">September 9, 2018</div><div class="summary">
+                    <a href="/nyc">NYC</a>
+                    </i>
+                </div>
+            
+            
+            
+                <div class="meta borough">
+                    <i class="fas fa-city icons" title="City">
+                    
+                        <a href="/nyc/borough/manhattan">Manhattan</a></i> 
+                </div>
+            
+
+            
+            
+            
+            
+            <div class="meta neighborhood">
+                    <i class="fas fa-home icons" title="Neighborhood">
+                    
+                        
+                        <a href="/nyc/neighborhood/flatiron">Flatiron</a></i>
+                </div>
+            
+            <div class="meta cuisine">
+                    <i class="fas fa-utensils icons" title="Cuisine">
+                    
+                        <a href="/nyc/cuisine/bars">Bars</a>
+                        <a href="/nyc/cuisine/speakeasy">Speakeasy</a></i>
+                </div><div class="meta yelp">
+                    <i class="fab fa-yelp icons" title="Yelp"><a href="https://www.yelp.com/biz/raines-law-room-new-york">Yelp</a></i>
+                </div><div class="meta map">
+                    <i class="fas fa-map-marker-alt icons" title="Map"><a href="https://goo.gl/maps/nemreH3MMvk">Google</a></i>
+                </div></div><div class="posted">September 9, 2018</div><div class="summary">
             Cool place. It&rsquo;s in some random building basement, and the couches are comfy. Feels a little noir-ish.</div></article><article>
+        
+
+        
+        
+
         <div class="title">
-            <a href="https://www.gourmandsyndrome.com/nyc/bars/bathtub-gin/">Bathtub Gin</a>
+            <a href="https://www.gourmandsyndrome.com/nyc/bars/bathtub-gin/">Bathtub Gin
+
+
+
+
+
+</a>
         </div>
 
-        
-        <div class="meta">
-                <i class="fas fa-globe icons" title="Locale"></i>
-                
-                <a href="/nyc">NYC</a>
-            </div>
-        
-        
-        
-            <div class="meta borough">
-                <i class="fas fa-city icons" title="City"></i> 
-                
-                    <a href="/nyc/borough/manhattan">Manhattan</a></div>
-        
-
-        
-        
-        
-        
-        <div class="meta neighborhood">
-                <i class="fas fa-home icons" title="Neighborhood"></i> 
-                
+        <div class="metadata"><div class="meta">
+                    <i class="fas fa-globe icons" title="Locale">
                     
-                    <a href="/nyc/neighborhood/chelsea">Chelsea</a></div>
-        
-        <div class="meta cuisine">
-                <i class="fas fa-utensils icons" title="Cuisine"></i>
-                
-                    <a href="/nyc/cuisine/bars">Bars</a>
-                    <a href="/nyc/cuisine/speakeasy">Speakeasy</a></div><div class="meta yelp">
-                <i class="fab fa-yelp icons" title="Yelp"></i> <a href="https://www.yelp.com/biz/bathtub-gin-new-york">Yelp</a>
-            </div><div class="meta map">
-                <i class="fas fa-map-marker-alt icons" title="Map"></i> <a href="https://goo.gl/maps/wuis66d31nn">Google</a>
-            </div><div class="posted">Updated August 28, 2018</div><div class="summary">
+                    <a href="/nyc">NYC</a>
+                    </i>
+                </div>
+            
+            
+            
+                <div class="meta borough">
+                    <i class="fas fa-city icons" title="City">
+                    
+                        <a href="/nyc/borough/manhattan">Manhattan</a></i> 
+                </div>
+            
+
+            
+            
+            
+            
+            <div class="meta neighborhood">
+                    <i class="fas fa-home icons" title="Neighborhood">
+                    
+                        
+                        <a href="/nyc/neighborhood/chelsea">Chelsea</a></i>
+                </div>
+            
+            <div class="meta cuisine">
+                    <i class="fas fa-utensils icons" title="Cuisine">
+                    
+                        <a href="/nyc/cuisine/bars">Bars</a>
+                        <a href="/nyc/cuisine/speakeasy">Speakeasy</a></i>
+                </div><div class="meta yelp">
+                    <i class="fab fa-yelp icons" title="Yelp"><a href="https://www.yelp.com/biz/bathtub-gin-new-york">Yelp</a></i>
+                </div><div class="meta map">
+                    <i class="fas fa-map-marker-alt icons" title="Map"><a href="https://goo.gl/maps/wuis66d31nn">Google</a></i>
+                </div></div><div class="posted">Updated August 28, 2018</div><div class="summary">
             Went here with a friend for the first time. Saw a random bouncer looking guy standing outside of a coffee shop. There&rsquo;s a door next to the coffee shop that leads into an apartment complex. My friend and I looked at each other. We were thinking we were suppose to open this door, and that this &ldquo;speak easy&rdquo; is somewhere in this apartment complex. We tried to open the door, but it wouldn&rsquo;t turn at all.</div><div class="read-more">
                 <button><a href="https://www.gourmandsyndrome.com/nyc/bars/bathtub-gin/">More</a></button>
             </div></article><article>
+        
+
+        
+        
+
         <div class="title">
-            <a href="https://www.gourmandsyndrome.com/nyc/bars/the-tippler/">The Tippler</a>
+            <a href="https://www.gourmandsyndrome.com/nyc/bars/the-tippler/">The Tippler
+
+
+
+
+
+</a>
         </div>
 
-        
-        <div class="meta">
-                <i class="fas fa-globe icons" title="Locale"></i>
-                
-                <a href="/nyc">NYC</a>
-            </div>
-        
-        
-        
-            <div class="meta borough">
-                <i class="fas fa-city icons" title="City"></i> 
-                
-                    <a href="/nyc/borough/manhattan">Manhattan</a></div>
-        
-
-        
-        
-        
-        
-        <div class="meta neighborhood">
-                <i class="fas fa-home icons" title="Neighborhood"></i> 
-                
+        <div class="metadata"><div class="meta">
+                    <i class="fas fa-globe icons" title="Locale">
                     
-                    <a href="/nyc/neighborhood/chelsea">Chelsea</a></div>
-        
-        <div class="meta cuisine">
-                <i class="fas fa-utensils icons" title="Cuisine"></i>
-                
-                    <a href="/nyc/cuisine/bars">Bars</a>
-                    <a href="/nyc/cuisine/speakeasy">Speakeasy</a></div><div class="meta yelp">
-                <i class="fab fa-yelp icons" title="Yelp"></i> <a href="https://www.yelp.com/biz/the-tippler-new-york">Yelp</a>
-            </div><div class="meta map">
-                <i class="fas fa-map-marker-alt icons" title="Map"></i> <a href="https://goo.gl/maps/apxq3EzsioS2">Google</a>
-            </div><div class="posted">August 25, 2018</div><div class="summary">
+                    <a href="/nyc">NYC</a>
+                    </i>
+                </div>
+            
+            
+            
+                <div class="meta borough">
+                    <i class="fas fa-city icons" title="City">
+                    
+                        <a href="/nyc/borough/manhattan">Manhattan</a></i> 
+                </div>
+            
+
+            
+            
+            
+            
+            <div class="meta neighborhood">
+                    <i class="fas fa-home icons" title="Neighborhood">
+                    
+                        
+                        <a href="/nyc/neighborhood/chelsea">Chelsea</a></i>
+                </div>
+            
+            <div class="meta cuisine">
+                    <i class="fas fa-utensils icons" title="Cuisine">
+                    
+                        <a href="/nyc/cuisine/bars">Bars</a>
+                        <a href="/nyc/cuisine/speakeasy">Speakeasy</a></i>
+                </div><div class="meta yelp">
+                    <i class="fab fa-yelp icons" title="Yelp"><a href="https://www.yelp.com/biz/the-tippler-new-york">Yelp</a></i>
+                </div><div class="meta map">
+                    <i class="fas fa-map-marker-alt icons" title="Map"><a href="https://goo.gl/maps/apxq3EzsioS2">Google</a></i>
+                </div></div><div class="posted">August 25, 2018</div><div class="summary">
             Cool place beneath Chelsea Market.</div></article><article>
+        
+
+        
+        
+
         <div class="title">
-            <a href="https://www.gourmandsyndrome.com/lax/maude-6/">Maude (Truffles)</a>
+            <a href="https://www.gourmandsyndrome.com/lax/maude-6/">Maude (Truffles)
+
+
+
+
+
+<i class="gsi gsi-michelin-star"></i></a>
         </div>
 
-        
-        <div class="meta">
-                <i class="fas fa-globe icons" title="Locale"></i>
-                
-                <a href="/lax">LAX</a>
-            </div>
-        
-        
-        
-
-        
-        
-        
-        
-        <div class="meta neighborhood">
-                <i class="fas fa-home icons" title="Neighborhood"></i> 
-                
+        <div class="metadata"><div class="meta">
+                    <i class="fas fa-globe icons" title="Locale">
                     
-                    <a href="/lax/neighborhood/beverly-hills">Beverly Hills</a></div>
-        
-        <div class="meta cuisine">
-                <i class="fas fa-utensils icons" title="Cuisine"></i>
-                
-                    <a href="/lax/cuisine/new-american">New American</a>
-                    <a href="/lax/cuisine/tastings">Tastings</a>
-                    <a href="/lax/cuisine/michelin-star">Michelin Star</a>
-                    <a href="/lax/cuisine/michelin-1">Michelin (1)</a></div><div class="meta yelp">
-                <i class="fab fa-yelp icons" title="Yelp"></i> <a href="https://www.yelp.com/biz/maude-beverly-hills">Yelp</a>
-            </div><div class="meta map">
-                <i class="fas fa-map-marker-alt icons" title="Map"></i> <a href="https://goo.gl/maps/nHfEevN5imuwjRoQ8">Google</a>
-            </div><div class="posted">November 8, 2014</div><div class="summary">
+                    <a href="/lax">LAX</a>
+                    </i>
+                </div>
+            
+            
+            
+
+            
+            
+            
+            
+            <div class="meta neighborhood">
+                    <i class="fas fa-home icons" title="Neighborhood">
+                    
+                        
+                        <a href="/lax/neighborhood/beverly-hills">Beverly Hills</a></i>
+                </div>
+            
+            <div class="meta cuisine">
+                    <i class="fas fa-utensils icons" title="Cuisine">
+                    
+                        <a href="/lax/cuisine/new-american">New American</a>
+                        <a href="/lax/cuisine/tastings">Tastings</a>
+                        <a href="/lax/cuisine/michelin-star">Michelin Star</a>
+                        <a href="/lax/cuisine/michelin-1">Michelin (1)</a></i>
+                </div><div class="meta yelp">
+                    <i class="fab fa-yelp icons" title="Yelp"><a href="https://www.yelp.com/biz/maude-beverly-hills">Yelp</a></i>
+                </div><div class="meta map">
+                    <i class="fas fa-map-marker-alt icons" title="Map"><a href="https://goo.gl/maps/nHfEevN5imuwjRoQ8">Google</a></i>
+                </div></div><div class="posted">November 8, 2014</div><div class="summary">
             For this month, it was TRUFFLES. I&rsquo;ve never eaten a full blown truffle set meal. At $250 a pop and 600 consecutive phone calls over a span of 2 hours, I was able to get this reservation. Coupled with wine pairing, the meal was superbly awesome.
 Note for 2022 migration: this is an old post from my other defunct blog. This has 1 Michelin Star. I remember that after this dinner, I was getting tired of blogging all my Maude meals.</div><div class="read-more">
                 <button><a href="https://www.gourmandsyndrome.com/lax/maude-6/">More</a></button>
             </div></article><article>
+        
+
+        
+        
+
         <div class="title">
-            <a href="https://www.gourmandsyndrome.com/lax/maude-5/">Maude (Pear)</a>
+            <a href="https://www.gourmandsyndrome.com/lax/maude-5/">Maude (Pear)
+
+
+
+
+
+<i class="gsi gsi-michelin-star"></i></a>
         </div>
 
-        
-        <div class="meta">
-                <i class="fas fa-globe icons" title="Locale"></i>
-                
-                <a href="/lax">LAX</a>
-            </div>
-        
-        
-        
-
-        
-        
-        
-        
-        <div class="meta neighborhood">
-                <i class="fas fa-home icons" title="Neighborhood"></i> 
-                
+        <div class="metadata"><div class="meta">
+                    <i class="fas fa-globe icons" title="Locale">
                     
-                    <a href="/lax/neighborhood/beverly-hills">Beverly Hills</a></div>
-        
-        <div class="meta cuisine">
-                <i class="fas fa-utensils icons" title="Cuisine"></i>
-                
-                    <a href="/lax/cuisine/new-american">New American</a>
-                    <a href="/lax/cuisine/tastings">Tastings</a>
-                    <a href="/lax/cuisine/michelin-star">Michelin Star</a>
-                    <a href="/lax/cuisine/michelin-1">Michelin (1)</a></div><div class="meta yelp">
-                <i class="fab fa-yelp icons" title="Yelp"></i> <a href="https://www.yelp.com/biz/maude-beverly-hills">Yelp</a>
-            </div><div class="meta map">
-                <i class="fas fa-map-marker-alt icons" title="Map"></i> <a href="https://goo.gl/maps/nHfEevN5imuwjRoQ8">Google</a>
-            </div><div class="posted">October 15, 2014</div><div class="summary">
+                    <a href="/lax">LAX</a>
+                    </i>
+                </div>
+            
+            
+            
+
+            
+            
+            
+            
+            <div class="meta neighborhood">
+                    <i class="fas fa-home icons" title="Neighborhood">
+                    
+                        
+                        <a href="/lax/neighborhood/beverly-hills">Beverly Hills</a></i>
+                </div>
+            
+            <div class="meta cuisine">
+                    <i class="fas fa-utensils icons" title="Cuisine">
+                    
+                        <a href="/lax/cuisine/new-american">New American</a>
+                        <a href="/lax/cuisine/tastings">Tastings</a>
+                        <a href="/lax/cuisine/michelin-star">Michelin Star</a>
+                        <a href="/lax/cuisine/michelin-1">Michelin (1)</a></i>
+                </div><div class="meta yelp">
+                    <i class="fab fa-yelp icons" title="Yelp"><a href="https://www.yelp.com/biz/maude-beverly-hills">Yelp</a></i>
+                </div><div class="meta map">
+                    <i class="fas fa-map-marker-alt icons" title="Map"><a href="https://goo.gl/maps/nHfEevN5imuwjRoQ8">Google</a></i>
+                </div></div><div class="posted">October 15, 2014</div><div class="summary">
             This is my 5th visit to Maude in 6 months. I guess I have the pleasure of doing this because I don&rsquo;t have many financial responsibilities. This month&rsquo;s tasting features pears, and again it did not disappoint me. I love pears, and I was curious in seeing how the chef uses it in his dishes.
 Note for 2022 migration: this is an old post from my other defunct blog. This has 1 Michelin Star.</div><div class="read-more">
                 <button><a href="https://www.gourmandsyndrome.com/lax/maude-5/">More</a></button>
             </div></article><article>
+        
+
+        
+        
+
         <div class="title">
-            <a href="https://www.gourmandsyndrome.com/lax/maude-4/">Maude (Tomatoes)</a>
+            <a href="https://www.gourmandsyndrome.com/lax/maude-4/">Maude (Tomatoes)
+
+
+
+
+
+<i class="gsi gsi-michelin-star"></i></a>
         </div>
 
-        
-        <div class="meta">
-                <i class="fas fa-globe icons" title="Locale"></i>
-                
-                <a href="/lax">LAX</a>
-            </div>
-        
-        
-        
-
-        
-        
-        
-        
-        <div class="meta neighborhood">
-                <i class="fas fa-home icons" title="Neighborhood"></i> 
-                
+        <div class="metadata"><div class="meta">
+                    <i class="fas fa-globe icons" title="Locale">
                     
-                    <a href="/lax/neighborhood/beverly-hills">Beverly Hills</a></div>
-        
-        <div class="meta cuisine">
-                <i class="fas fa-utensils icons" title="Cuisine"></i>
-                
-                    <a href="/lax/cuisine/new-american">New American</a>
-                    <a href="/lax/cuisine/tastings">Tastings</a>
-                    <a href="/lax/cuisine/michelin-star">Michelin Star</a>
-                    <a href="/lax/cuisine/michelin-1">Michelin (1)</a></div><div class="meta yelp">
-                <i class="fab fa-yelp icons" title="Yelp"></i> <a href="https://www.yelp.com/biz/maude-beverly-hills">Yelp</a>
-            </div><div class="meta map">
-                <i class="fas fa-map-marker-alt icons" title="Map"></i> <a href="https://goo.gl/maps/nHfEevN5imuwjRoQ8">Google</a>
-            </div><div class="posted">September 5, 2014</div><div class="summary">
+                    <a href="/lax">LAX</a>
+                    </i>
+                </div>
+            
+            
+            
+
+            
+            
+            
+            
+            <div class="meta neighborhood">
+                    <i class="fas fa-home icons" title="Neighborhood">
+                    
+                        
+                        <a href="/lax/neighborhood/beverly-hills">Beverly Hills</a></i>
+                </div>
+            
+            <div class="meta cuisine">
+                    <i class="fas fa-utensils icons" title="Cuisine">
+                    
+                        <a href="/lax/cuisine/new-american">New American</a>
+                        <a href="/lax/cuisine/tastings">Tastings</a>
+                        <a href="/lax/cuisine/michelin-star">Michelin Star</a>
+                        <a href="/lax/cuisine/michelin-1">Michelin (1)</a></i>
+                </div><div class="meta yelp">
+                    <i class="fab fa-yelp icons" title="Yelp"><a href="https://www.yelp.com/biz/maude-beverly-hills">Yelp</a></i>
+                </div><div class="meta map">
+                    <i class="fas fa-map-marker-alt icons" title="Map"><a href="https://goo.gl/maps/nHfEevN5imuwjRoQ8">Google</a></i>
+                </div></div><div class="posted">September 5, 2014</div><div class="summary">
             This is the month for tomatoes. I generally love tomatoes. They can come in so many different sizes and textures, such that it makes it very tasty. I will say that the meal for me did not disappoint.
 We ended up getting the wine pairing which was about $70 extra. According to my buddy, the wine pairing was excellent throughout the meal and complemented the foods very well. I&rsquo;ll just take their word for it.</div><div class="read-more">
                 <button><a href="https://www.gourmandsyndrome.com/lax/maude-4/">More</a></button>
             </div></article><article>
+        
+
+        
+        
+
         <div class="title">
-            <a href="https://www.gourmandsyndrome.com/lax/maude-3/">Maude (Corn)</a>
+            <a href="https://www.gourmandsyndrome.com/lax/maude-3/">Maude (Corn)
+
+
+
+
+
+<i class="gsi gsi-michelin-star"></i></a>
         </div>
 
-        
-        <div class="meta">
-                <i class="fas fa-globe icons" title="Locale"></i>
-                
-                <a href="/lax">LAX</a>
-            </div>
-        
-        
-        
-
-        
-        
-        
-        
-        <div class="meta neighborhood">
-                <i class="fas fa-home icons" title="Neighborhood"></i> 
-                
+        <div class="metadata"><div class="meta">
+                    <i class="fas fa-globe icons" title="Locale">
                     
-                    <a href="/lax/neighborhood/beverly-hills">Beverly Hills</a></div>
-        
-        <div class="meta cuisine">
-                <i class="fas fa-utensils icons" title="Cuisine"></i>
-                
-                    <a href="/lax/cuisine/new-american">New American</a>
-                    <a href="/lax/cuisine/tastings">Tastings</a>
-                    <a href="/lax/cuisine/michelin-star">Michelin Star</a>
-                    <a href="/lax/cuisine/michelin-1">Michelin (1)</a></div><div class="meta yelp">
-                <i class="fab fa-yelp icons" title="Yelp"></i> <a href="https://www.yelp.com/biz/maude-beverly-hills">Yelp</a>
-            </div><div class="meta map">
-                <i class="fas fa-map-marker-alt icons" title="Map"></i> <a href="https://goo.gl/maps/nHfEevN5imuwjRoQ8">Google</a>
-            </div><div class="posted">August 24, 2014</div><div class="summary">
+                    <a href="/lax">LAX</a>
+                    </i>
+                </div>
+            
+            
+            
+
+            
+            
+            
+            
+            <div class="meta neighborhood">
+                    <i class="fas fa-home icons" title="Neighborhood">
+                    
+                        
+                        <a href="/lax/neighborhood/beverly-hills">Beverly Hills</a></i>
+                </div>
+            
+            <div class="meta cuisine">
+                    <i class="fas fa-utensils icons" title="Cuisine">
+                    
+                        <a href="/lax/cuisine/new-american">New American</a>
+                        <a href="/lax/cuisine/tastings">Tastings</a>
+                        <a href="/lax/cuisine/michelin-star">Michelin Star</a>
+                        <a href="/lax/cuisine/michelin-1">Michelin (1)</a></i>
+                </div><div class="meta yelp">
+                    <i class="fab fa-yelp icons" title="Yelp"><a href="https://www.yelp.com/biz/maude-beverly-hills">Yelp</a></i>
+                </div><div class="meta map">
+                    <i class="fas fa-map-marker-alt icons" title="Map"><a href="https://goo.gl/maps/nHfEevN5imuwjRoQ8">Google</a></i>
+                </div></div><div class="posted">August 24, 2014</div><div class="summary">
             The feature for Maude this month is corn, and it was way more awesome compared to last month. I like corn a lot, so I went in with some expectations, and I wasn&rsquo;t disappointed.
 It really sucks to get reservations here. To get this particular reservation I called about 100 times in a given hour. If you look on my cell phone bill, you will see at least 60 5-second calls to them coupled with 40 some calls from a desk phone.</div><div class="read-more">
                 <button><a href="https://www.gourmandsyndrome.com/lax/maude-3/">More</a></button>
             </div></article><article>
+        
+
+        
+        
+
         <div class="title">
-            <a href="https://www.gourmandsyndrome.com/lax/yamakase-2/">Yamakase #2</a>
+            <a href="https://www.gourmandsyndrome.com/lax/yamakase-2/">Yamakase #2
+
+
+
+
+
+</a>
         </div>
 
-        
-        <div class="meta">
-                <i class="fas fa-globe icons" title="Locale"></i>
-                
-                <a href="/lax">LAX</a>
-            </div>
-        
-        
-        
+        <div class="metadata"><div class="meta">
+                    <i class="fas fa-globe icons" title="Locale">
+                    
+                    <a href="/lax">LAX</a>
+                    </i>
+                </div>
+            
+            
+            
 
-        
-        
-        
-        
-        <div class="meta neighborhood">
-                <i class="fas fa-home icons" title="Neighborhood"></i> 
-                
+            
+            
+            
+            
+            <div class="meta neighborhood">
+                    <i class="fas fa-home icons" title="Neighborhood">
                     
-                    <a href="/lax/neighborhood/palms">Palms</a>
+                        
+                        <a href="/lax/neighborhood/palms">Palms</a>
+                        
+                        <a href="/lax/neighborhood/west-la">West LA</a></i>
+                </div>
+            
+            <div class="meta cuisine">
+                    <i class="fas fa-utensils icons" title="Cuisine">
                     
-                    <a href="/lax/neighborhood/west-la">West LA</a></div>
-        
-        <div class="meta cuisine">
-                <i class="fas fa-utensils icons" title="Cuisine"></i>
-                
-                    <a href="/lax/cuisine/japanese">Japanese</a>
-                    <a href="/lax/cuisine/kaiseki">Kaiseki</a>
-                    <a href="/lax/cuisine/tastings">Tastings</a></div><div class="meta yelp">
-                <i class="fab fa-yelp icons" title="Yelp"></i> <a href="https://www.yelp.com/biz/yamakase-los-angeles">Yelp</a>
-            </div><div class="meta map">
-                <i class="fas fa-map-marker-alt icons" title="Map"></i> <a href="https://goo.gl/maps/KDs5Ea5QofZTuAaH9">Google</a>
-            </div><div class="posted">August 10, 2014</div><div class="summary">
+                        <a href="/lax/cuisine/japanese">Japanese</a>
+                        <a href="/lax/cuisine/kaiseki">Kaiseki</a>
+                        <a href="/lax/cuisine/tastings">Tastings</a></i>
+                </div><div class="meta yelp">
+                    <i class="fab fa-yelp icons" title="Yelp"><a href="https://www.yelp.com/biz/yamakase-los-angeles">Yelp</a></i>
+                </div><div class="meta map">
+                    <i class="fas fa-map-marker-alt icons" title="Map"><a href="https://goo.gl/maps/KDs5Ea5QofZTuAaH9">Google</a></i>
+                </div></div><div class="posted">August 10, 2014</div><div class="summary">
             I wasn&rsquo;t planning to go to this. I really wasn&rsquo;t. However due to some ridiculous circumstances, I was asked to go, and I had to go. It&rsquo;s been barely 2 months, and I went back to my favorite LA restaurant. One would expect and hope for the same experience considering how recent their first trip here was. So really, how was it?
 It was awesome. For comparison, you can also read my 2 month old review.</div><div class="read-more">
                 <button><a href="https://www.gourmandsyndrome.com/lax/yamakase-2/">More</a></button>
             </div></article><article>
+        
+
+        
+        
+
         <div class="title">
-            <a href="https://www.gourmandsyndrome.com/lax/maude-2/">Maude (Berries)</a>
+            <a href="https://www.gourmandsyndrome.com/lax/maude-2/">Maude (Berries)
+
+
+
+
+
+<i class="gsi gsi-michelin-star"></i></a>
         </div>
 
-        
-        <div class="meta">
-                <i class="fas fa-globe icons" title="Locale"></i>
-                
-                <a href="/lax">LAX</a>
-            </div>
-        
-        
-        
-
-        
-        
-        
-        
-        <div class="meta neighborhood">
-                <i class="fas fa-home icons" title="Neighborhood"></i> 
-                
+        <div class="metadata"><div class="meta">
+                    <i class="fas fa-globe icons" title="Locale">
                     
-                    <a href="/lax/neighborhood/beverly-hills">Beverly Hills</a></div>
-        
-        <div class="meta cuisine">
-                <i class="fas fa-utensils icons" title="Cuisine"></i>
-                
-                    <a href="/lax/cuisine/new-american">New American</a>
-                    <a href="/lax/cuisine/2014-expedition">2014 Expedition</a>
-                    <a href="/lax/cuisine/tastings">Tastings</a>
-                    <a href="/lax/cuisine/michelin-star">Michelin Star</a>
-                    <a href="/lax/cuisine/michelin-1">Michelin (1)</a></div><div class="meta yelp">
-                <i class="fab fa-yelp icons" title="Yelp"></i> <a href="https://www.yelp.com/biz/maude-beverly-hills">Yelp</a>
-            </div><div class="meta map">
-                <i class="fas fa-map-marker-alt icons" title="Map"></i> <a href="https://goo.gl/maps/nHfEevN5imuwjRoQ8">Google</a>
-            </div><div class="posted">July 5, 2014</div><div class="summary">
+                    <a href="/lax">LAX</a>
+                    </i>
+                </div>
+            
+            
+            
+
+            
+            
+            
+            
+            <div class="meta neighborhood">
+                    <i class="fas fa-home icons" title="Neighborhood">
+                    
+                        
+                        <a href="/lax/neighborhood/beverly-hills">Beverly Hills</a></i>
+                </div>
+            
+            <div class="meta cuisine">
+                    <i class="fas fa-utensils icons" title="Cuisine">
+                    
+                        <a href="/lax/cuisine/new-american">New American</a>
+                        <a href="/lax/cuisine/2014-expedition">2014 Expedition</a>
+                        <a href="/lax/cuisine/tastings">Tastings</a>
+                        <a href="/lax/cuisine/michelin-star">Michelin Star</a>
+                        <a href="/lax/cuisine/michelin-1">Michelin (1)</a></i>
+                </div><div class="meta yelp">
+                    <i class="fab fa-yelp icons" title="Yelp"><a href="https://www.yelp.com/biz/maude-beverly-hills">Yelp</a></i>
+                </div><div class="meta map">
+                    <i class="fas fa-map-marker-alt icons" title="Map"><a href="https://goo.gl/maps/nHfEevN5imuwjRoQ8">Google</a></i>
+                </div></div><div class="posted">July 5, 2014</div><div class="summary">
             This could very well be my last post for food for a few weeks. Doing a special restaurant each week is getting rather grueling right now. I&rsquo;ve decided to soften the blow, so I&rsquo;ll go to Maude each month for the remainder of the year.
 This is #26 of 52 (or 26?) of my 2014 LA food expedition.
 For this month, the special ingredient is berries. Like my rhubarb meal that I went to 2 months ago, I was expecting this to be similar in that every dish would have strong presence and usage of some berry.</div><div class="read-more">
                 <button><a href="https://www.gourmandsyndrome.com/lax/maude-2/">More</a></button>
             </div></article><section class="pagination"><hr /><div class="left-button">
-			<button><a href=/page/59/>Older</a></button>
+			<button><a href=/page/57/>Newer</a></button>
 		</div>
 		<div class="right-button">
-			<button><a href=/page/57/>Newer</a></button>
+			<button><a href=/page/59/>Older</a></button>
 		</div></section>
 </section>
-<section id="sidebar"><section class="posts group">
-        <section class="title">NEW POSTS</section>
+<section id="sidebar">
+<section class="group">
+    <section class="posts">
+        <section class="title">
+            <div>NEW POSTS</div>
+        </section>
         
-            <section class="post">
+            <section class="post group-item">
+
+                
+                
+
                 <div class="title">
-                    <a href="https://www.gourmandsyndrome.com/nyc/korean/bom/">Bōm</a>
+                    <a href="https://www.gourmandsyndrome.com/nyc/korean/bom/">Bōm
+
+
+
+
+
+</a>
                     <div class="posted">Posted Aug 26, 2023</div>
                 </div>
-                
 
-                
-                
-                
-                    <div class="meta borough">
-                        <i class="fas fa-city icons"></i> 
-                        
-                        
-                            <a href="/nyc/borough/manhattan">Manhattan</a></div>
-                
+                <div class="metadata">
+                    
 
-                
-                
-                
-                    <div class="meta neighborhood">
-                        <i class="fas fa-home icons"></i> 
-                        
-                        
+                    
+                    
+                    
+                        <div class="meta borough">
+                            <i class="fas fa-city icons">
                             
-                            <a href="/nyc/neighborhood/flatiron">Flatiron</a></div>
-                
+                            
+                                <a href="/nyc/borough/manhattan">Manhattan</a></i> 
+                        </div>
+                    
 
-                
-                
-                
+                    
+                    
+                    
+                        <div class="meta neighborhood">
+                            <i class="fas fa-home icons">
+                            
+                            
+                                
+                                <a href="/nyc/neighborhood/flatiron">Flatiron</a></i> 
+                        </div>
+                    
 
-                
-                
-                
-                    <div class="meta cuisine">
-                        <i class="fas fa-utensils icons"></i> 
-                        
-                            <a href="/nyc/cuisine/korean">Korean</a>
-                            <a href="/nyc/cuisine/tastings">Tastings</a>
-                    </div>
-                
-                    <div class="meta yelp">
-                        <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/b%C5%8Dm-new-york-3">Yelp</a>
-                    </div>
-                
-                    <div class="meta map">
-                        <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/PySTFQFPrZgRG68t8">Google</a>
-                    </div>
-                
-                    <div class="meta">
-                        
-                        <i class="fas fa-globe icons"></i> <a href="/nyc">NYC</a>
-                    </div></section>
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        <div class="meta cuisine">
+                            <i class="fas fa-utensils icons">
+                            
+                                <a href="/nyc/cuisine/korean">Korean</a>
+                                <a href="/nyc/cuisine/tastings">Tastings</a>
+                            </i> 
+                        </div>
+                    
+                        <div class="meta yelp">
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/b%C5%8Dm-new-york-3">Yelp</a></i>
+                        </div>
+                    
+                        <div class="meta map">
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/PySTFQFPrZgRG68t8">Google</a></i>
+                        </div>
+                    
+                        <div class="meta">
+                            
+                            <i class="fas fa-globe icons"><a href="/nyc">NYC</a></i>
+                        </div></div>
+            </section>
         
-            <section class="post">
+            <section class="post group-item">
+
+                
+                
+
                 <div class="title">
-                    <a href="https://www.gourmandsyndrome.com/nyc/italian/trattoria-dellarte/">Trattoria Dell&#39;arte</a>
+                    <a href="https://www.gourmandsyndrome.com/nyc/italian/trattoria-dellarte/">Trattoria Dell&#39;arte
+
+
+
+
+
+</a>
                     <div class="posted">Posted Aug 13, 2023</div>
                 </div>
-                
 
-                
-                
-                
-                    <div class="meta borough">
-                        <i class="fas fa-city icons"></i> 
-                        
-                        
-                            <a href="/nyc/borough/manhattan">Manhattan</a></div>
-                
+                <div class="metadata">
+                    
 
-                
-                
-                
-                    <div class="meta neighborhood">
-                        <i class="fas fa-home icons"></i> 
-                        
-                        
+                    
+                    
+                    
+                        <div class="meta borough">
+                            <i class="fas fa-city icons">
                             
-                            <a href="/nyc/neighborhood/midtown">Midtown</a>
                             
-                            <a href="/nyc/neighborhood/midtown-west">Midtown West</a></div>
-                
+                                <a href="/nyc/borough/manhattan">Manhattan</a></i> 
+                        </div>
+                    
 
-                
-                
-                
+                    
+                    
+                    
+                        <div class="meta neighborhood">
+                            <i class="fas fa-home icons">
+                            
+                            
+                                
+                                <a href="/nyc/neighborhood/midtown">Midtown</a>
+                                
+                                <a href="/nyc/neighborhood/midtown-west">Midtown West</a></i> 
+                        </div>
+                    
 
-                
-                
-                
-                    <div class="meta cuisine">
-                        <i class="fas fa-utensils icons"></i> 
-                        
-                            <a href="/nyc/cuisine/italian">Italian</a>
-                    </div>
-                
-                    <div class="meta yelp">
-                        <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/trattoria-dellarte-new-york">Yelp</a>
-                    </div>
-                
-                    <div class="meta map">
-                        <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/Vc7dfiB6iJEV8K2u8">Google</a>
-                    </div>
-                
-                    <div class="meta">
-                        
-                        <i class="fas fa-globe icons"></i> <a href="/nyc">NYC</a>
-                    </div></section>
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        <div class="meta cuisine">
+                            <i class="fas fa-utensils icons">
+                            
+                                <a href="/nyc/cuisine/italian">Italian</a>
+                            </i> 
+                        </div>
+                    
+                        <div class="meta yelp">
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/trattoria-dellarte-new-york">Yelp</a></i>
+                        </div>
+                    
+                        <div class="meta map">
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/Vc7dfiB6iJEV8K2u8">Google</a></i>
+                        </div>
+                    
+                        <div class="meta">
+                            
+                            <i class="fas fa-globe icons"><a href="/nyc">NYC</a></i>
+                        </div></div>
+            </section>
         
-            <section class="post">
+            <section class="post group-item">
+
+                
+                
+
                 <div class="title">
-                    <a href="https://www.gourmandsyndrome.com/nyc/new-american/the-bar-room-at-the-modern/">The Bar Room at the Modern</a>
+                    <a href="https://www.gourmandsyndrome.com/nyc/new-american/the-bar-room-at-the-modern/">The Bar Room at the Modern
+
+
+
+
+
+</a>
                     <div class="posted">Posted Aug 11, 2023</div>
                 </div>
-                
 
-                
-                
-                
-                    <div class="meta borough">
-                        <i class="fas fa-city icons"></i> 
-                        
-                        
-                            <a href="/nyc/borough/manhattan">Manhattan</a></div>
-                
+                <div class="metadata">
+                    
 
-                
-                
-                
-                    <div class="meta neighborhood">
-                        <i class="fas fa-home icons"></i> 
-                        
-                        
+                    
+                    
+                    
+                        <div class="meta borough">
+                            <i class="fas fa-city icons">
                             
-                            <a href="/nyc/neighborhood/midtown">Midtown</a>
                             
-                            <a href="/nyc/neighborhood/midtown-west">Midtown West</a></div>
-                
+                                <a href="/nyc/borough/manhattan">Manhattan</a></i> 
+                        </div>
+                    
 
-                
-                
-                
+                    
+                    
+                    
+                        <div class="meta neighborhood">
+                            <i class="fas fa-home icons">
+                            
+                            
+                                
+                                <a href="/nyc/neighborhood/midtown">Midtown</a>
+                                
+                                <a href="/nyc/neighborhood/midtown-west">Midtown West</a></i> 
+                        </div>
+                    
 
-                
-                
-                
-                    <div class="meta cuisine">
-                        <i class="fas fa-utensils icons"></i> 
-                        
-                            <a href="/nyc/cuisine/new-american">New American</a>
-                    </div>
-                
-                    <div class="meta yelp">
-                        <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/the-bar-room-at-the-modern-new-york-3">Yelp</a>
-                    </div>
-                
-                    <div class="meta map">
-                        <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/mZaHgWoL1AfXn8mr6">Google</a>
-                    </div>
-                
-                    <div class="meta">
-                        
-                        <i class="fas fa-globe icons"></i> <a href="/nyc">NYC</a>
-                    </div></section>
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        <div class="meta cuisine">
+                            <i class="fas fa-utensils icons">
+                            
+                                <a href="/nyc/cuisine/new-american">New American</a>
+                            </i> 
+                        </div>
+                    
+                        <div class="meta yelp">
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/the-bar-room-at-the-modern-new-york-3">Yelp</a></i>
+                        </div>
+                    
+                        <div class="meta map">
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/mZaHgWoL1AfXn8mr6">Google</a></i>
+                        </div>
+                    
+                        <div class="meta">
+                            
+                            <i class="fas fa-globe icons"><a href="/nyc">NYC</a></i>
+                        </div></div>
+            </section>
         
-            <section class="post">
+            <section class="post group-item">
+
+                
+                
+
                 <div class="title">
-                    <a href="https://www.gourmandsyndrome.com/nyc/japanese/tempura-matsui/">Tempura Matsui</a>
+                    <a href="https://www.gourmandsyndrome.com/nyc/japanese/tempura-matsui/">Tempura Matsui
+
+
+
+
+
+<i class="gsi gsi-michelin-star"></i></a>
                     <div class="posted">Posted Aug 4, 2023</div>
                 </div>
-                
 
-                
-                
-                
-                    <div class="meta borough">
-                        <i class="fas fa-city icons"></i> 
-                        
-                        
-                            <a href="/nyc/borough/manhattan">Manhattan</a></div>
-                
+                <div class="metadata">
+                    
 
-                
-                
-                
-                    <div class="meta neighborhood">
-                        <i class="fas fa-home icons"></i> 
-                        
-                        
+                    
+                    
+                    
+                        <div class="meta borough">
+                            <i class="fas fa-city icons">
                             
-                            <a href="/nyc/neighborhood/murray-hill">Murray Hill</a>
                             
-                            <a href="/nyc/neighborhood/midtown-east">Midtown East</a>
+                                <a href="/nyc/borough/manhattan">Manhattan</a></i> 
+                        </div>
+                    
+
+                    
+                    
+                    
+                        <div class="meta neighborhood">
+                            <i class="fas fa-home icons">
                             
-                            <a href="/nyc/neighborhood/midtown">Midtown</a></div>
-                
+                            
+                                
+                                <a href="/nyc/neighborhood/murray-hill">Murray Hill</a>
+                                
+                                <a href="/nyc/neighborhood/midtown-east">Midtown East</a>
+                                
+                                <a href="/nyc/neighborhood/midtown">Midtown</a></i> 
+                        </div>
+                    
 
-                
-                
-                
+                    
+                    
+                    
 
-                
-                
-                
-                    <div class="meta cuisine">
-                        <i class="fas fa-utensils icons"></i> 
-                        
-                            <a href="/nyc/cuisine/michelin-star">Michelin Star</a>
-                            <a href="/nyc/cuisine/michelin-1">Michelin (1)</a>
-                            <a href="/nyc/cuisine/tempura">Tempura</a>
-                            <a href="/nyc/cuisine/tastings">Tastings</a>
-                            <a href="/nyc/cuisine/japanese">Japanese</a>
-                    </div>
-                
-                    <div class="meta yelp">
-                        <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/tempura-matsui-new-york">Yelp</a>
-                    </div>
-                
-                    <div class="meta map">
-                        <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/6DyCCSGvvuMhDWy67">Google</a>
-                    </div>
-                
-                    <div class="meta">
-                        
-                        <i class="fas fa-globe icons"></i> <a href="/nyc">NYC</a>
-                    </div></section>
+                    
+                    
+                    
+                        <div class="meta cuisine">
+                            <i class="fas fa-utensils icons">
+                            
+                                <a href="/nyc/cuisine/michelin-star">Michelin Star</a>
+                                <a href="/nyc/cuisine/michelin-1">Michelin (1)</a>
+                                <a href="/nyc/cuisine/tempura">Tempura</a>
+                                <a href="/nyc/cuisine/tastings">Tastings</a>
+                                <a href="/nyc/cuisine/japanese">Japanese</a>
+                            </i> 
+                        </div>
+                    
+                        <div class="meta yelp">
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/tempura-matsui-new-york">Yelp</a></i>
+                        </div>
+                    
+                        <div class="meta map">
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/6DyCCSGvvuMhDWy67">Google</a></i>
+                        </div>
+                    
+                        <div class="meta">
+                            
+                            <i class="fas fa-globe icons"><a href="/nyc">NYC</a></i>
+                        </div></div>
+            </section>
         
-            <section class="post">
+            <section class="post group-item">
+
+                
+                
+
                 <div class="title">
-                    <a href="https://www.gourmandsyndrome.com/nyc/chinese/four-four-south-village/">Four Four South Village</a>
+                    <a href="https://www.gourmandsyndrome.com/nyc/chinese/four-four-south-village/">Four Four South Village
+
+
+
+
+
+</a>
                     <div class="posted">Posted Jul 31, 2023</div>
                 </div>
-                
 
-                
-                
-                
-                    <div class="meta borough">
-                        <i class="fas fa-city icons"></i> 
-                        
-                        
-                            <a href="/nyc/borough/manhattan">Manhattan</a></div>
-                
+                <div class="metadata">
+                    
 
-                
-                
-                
-                    <div class="meta neighborhood">
-                        <i class="fas fa-home icons"></i> 
-                        
-                        
-                            
-                            <a href="/nyc/neighborhood/midtown">Midtown</a>
-                            
-                            <a href="/nyc/neighborhood/midtown-west">Midtown West</a>
-                            
-                            <a href="/nyc/neighborhood/hells-kitchen">Hell's Kitchen</a>
-                            
-                            <a href="/nyc/neighborhood/theater-district">Theater District</a></div>
-                
-
-                
-                
-                
-
-                
-                
-                
-                    <div class="meta cuisine">
-                        <i class="fas fa-utensils icons"></i> 
-                        
-                            <a href="/nyc/cuisine/taiwanese">Taiwanese</a>
-                            <a href="/nyc/cuisine/chinese">Chinese</a>
-                    </div>
-                
-                    <div class="meta yelp">
-                        <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/four-four-south-village-new-york-2">Yelp</a>
-                    </div>
-                
-                    <div class="meta map">
-                        <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/ZFXkVzouTWqjBKQH7">Google</a>
-                    </div>
-                
-                    <div class="meta">
-                        
-                        <i class="fas fa-globe icons"></i> <a href="/nyc">NYC</a>
-                    </div></section>
-        
-            <section class="post">
-                <div class="title">
-                    <a href="https://www.gourmandsyndrome.com/nyc/breakfast/bubbys/">Bubby&#39;s</a>
-                    <div class="posted">Posted Jul 30, 2023</div>
-                </div>
-                
-
-                
-                
-                
-                    <div class="meta borough">
-                        <i class="fas fa-city icons"></i> 
-                        
-                        
-                            <a href="/nyc/borough/manhattan">Manhattan</a></div>
-                
-
-                
-                
-                
-                    <div class="meta neighborhood">
-                        <i class="fas fa-home icons"></i> 
-                        
-                        
-                            
-                            <a href="/nyc/neighborhood/tribeca">TriBeCa</a></div>
-                
-
-                
-                
-                
-
-                
-                
-                
-                    <div class="meta cuisine">
-                        <i class="fas fa-utensils icons"></i> 
-                        
-                            <a href="/nyc/cuisine/breakfast">Breakfast</a>
-                            <a href="/nyc/cuisine/brunch">Brunch</a>
-                    </div>
-                
-                    <div class="meta yelp">
-                        <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/bubbys-tribeca-new-york">Yelp</a>
-                    </div>
-                
-                    <div class="meta map">
-                        <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/39Z3rpAdQ1VcDtQB6">Google</a>
-                    </div>
-                
-                    <div class="meta">
-                        
-                        <i class="fas fa-globe icons"></i> <a href="/nyc">NYC</a>
-                    </div></section>
-        
-            <section class="post">
-                <div class="title">
-                    <a href="https://www.gourmandsyndrome.com/nyc/japanese/secchu-yokota/">Secchu Yokota</a>
-                    <div class="posted">Posted Jul 26, 2023</div>
-                </div>
-                
-
-                
-                
-                
-                    <div class="meta borough">
-                        <i class="fas fa-city icons"></i> 
-                        
-                        
-                            <a href="/nyc/borough/manhattan">Manhattan</a></div>
-                
-
-                
-                
-                
-                    <div class="meta neighborhood">
-                        <i class="fas fa-home icons"></i> 
-                        
-                        
-                            
-                            <a href="/nyc/neighborhood/alphabet-city">Alphabet City</a>
-                            
-                            <a href="/nyc/neighborhood/east-village">East Village</a></div>
-                
-
-                
-                
-                
-
-                
-                
-                
-                    <div class="meta cuisine">
-                        <i class="fas fa-utensils icons"></i> 
-                        
-                            <a href="/nyc/cuisine/japanese">Japanese</a>
-                            <a href="/nyc/cuisine/tempura">Tempura</a>
-                            <a href="/nyc/cuisine/tastings">Tastings</a>
-                    </div>
-                
-                    <div class="meta yelp">
-                        <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/secchu-yokota-new-york">Yelp</a>
-                    </div>
-                
-                    <div class="meta map">
-                        <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/5doGMkt3j1KKzgd36">Google</a>
-                    </div>
-                
-                    <div class="meta">
-                        
-                        <i class="fas fa-globe icons"></i> <a href="/nyc">NYC</a>
-                    </div></section>
-        
-            <section class="post">
-                <div class="title">
-                    <a href="https://www.gourmandsyndrome.com/nyc/italian/giardino-54/">Giardino 54</a>
-                    <div class="posted">Posted Jul 22, 2023</div>
-                </div>
-                
-
-                
-                
-                
-                    <div class="meta borough">
-                        <i class="fas fa-city icons"></i> 
-                        
-                        
-                            <a href="/nyc/borough/manhattan">Manhattan</a></div>
-                
-
-                
-                
-                
-                    <div class="meta neighborhood">
-                        <i class="fas fa-home icons"></i> 
-                        
-                        
-                            
-                            <a href="/nyc/neighborhood/hells-kitchen">Hell's Kitchen</a>
-                            
-                            <a href="/nyc/neighborhood/midtown">Midtown</a>
-                            
-                            <a href="/nyc/neighborhood/midtown-west">Midtown West</a></div>
-                
-
-                
-                
-                
-
-                
-                
-                
-                    <div class="meta cuisine">
-                        <i class="fas fa-utensils icons"></i> 
-                        
-                            <a href="/nyc/cuisine/italian">Italian</a>
-                    </div>
-                
-                    <div class="meta yelp">
-                        <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/giardino-54-new-york">Yelp</a>
-                    </div>
-                
-                    <div class="meta map">
-                        <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/NfDrgRLnAd34FrRo7">Google</a>
-                    </div>
-                
-                    <div class="meta">
-                        
-                        <i class="fas fa-globe icons"></i> <a href="/nyc">NYC</a>
-                    </div></section>
-        
-            <section class="post">
-                <div class="title">
-                    <a href="https://www.gourmandsyndrome.com/nyc/thai/pranakhon/">Pranakhon</a>
-                    <div class="posted">Posted Jul 21, 2023</div>
-                </div>
-                
-
-                
-                
-                
-                    <div class="meta borough">
-                        <i class="fas fa-city icons"></i> 
-                        
-                        
-                            <a href="/nyc/borough/manhattan">Manhattan</a></div>
-                
-
-                
-                
-                
-                    <div class="meta neighborhood">
-                        <i class="fas fa-home icons"></i> 
-                        
-                        
-                            
-                            <a href="/nyc/neighborhood/greenwich-village">Greenwich Village</a></div>
-                
-
-                
-                
-                
-
-                
-                
-                
-                    <div class="meta cuisine">
-                        <i class="fas fa-utensils icons"></i> 
-                        
-                            <a href="/nyc/cuisine/thai">Thai</a>
-                    </div>
-                
-                    <div class="meta yelp">
-                        <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/pranakhon-thai-restaurant-new-york-2">Yelp</a>
-                    </div>
-                
-                    <div class="meta map">
-                        <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/4m8ZyKgR9JkCYWNK7">Google</a>
-                    </div>
-                
-                    <div class="meta">
-                        
-                        <i class="fas fa-globe icons"></i> <a href="/nyc">NYC</a>
-                    </div></section>
-        
-            <section class="post">
-                <div class="title">
-                    <a href="https://www.gourmandsyndrome.com/nyc/japanese/vert-frais/">Vert Frais</a>
-                    <div class="posted">Posted Jul 16, 2023</div>
-                </div>
-                
-
-                
-                
-                
-                    <div class="meta borough">
-                        <i class="fas fa-city icons"></i> 
-                        
-                        
-                            <a href="/nyc/borough/queens">Queens</a></div>
-                
-
-                
-                
-                
-                    <div class="meta neighborhood">
-                        <i class="fas fa-home icons"></i> 
-                        
-                        
-                            
-                            <a href="/nyc/neighborhood/lic">LIC</a></div>
-                
-
-                
-                
-                
-
-                
-                
-                
-                    <div class="meta cuisine">
-                        <i class="fas fa-utensils icons"></i> 
-                        
-                            <a href="/nyc/cuisine/japanese">Japanese</a>
-                    </div>
-                
-                    <div class="meta yelp">
-                        <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/vert-frais-long-island-city">Yelp</a>
-                    </div>
-                
-                    <div class="meta map">
-                        <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/jQRdnWBjNn6BzmpKA">Google</a>
-                    </div>
-                
-                    <div class="meta">
-                        
-                        <i class="fas fa-globe icons"></i> <a href="/nyc">NYC</a>
-                    </div></section>
-        
-</section>
-
-<section class="posts group">
-    <section class="title">UPDATED POSTS</section>
-        
-            
-        
-
-        
-        
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-                
-                
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-                
-                
-            
-            
-            
-            
-            
-                
-                
-            
-                
-                
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-                
-                
-            
-                
-                
-            
-            
-                
-                
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-            
-                
-                
-            
-            
-                
-                
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-            
-                
-                
-            
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-                
-                
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-
-        
-
-        
-            
-                
-
-                <section class="post">
-                    <div class="title">
-                        <a href="https://www.gourmandsyndrome.com/nyc/japanese/tsurutontan/">Tsurutontan</a> 
-                        <div class="last-modified">Revised Jul 14, 2023</div>
-                    </div>
                     
                     
                     
                         <div class="meta borough">
-                            <i class="fas fa-city icons"></i> 
+                            <i class="fas fa-city icons">
                             
                             
-                                <a href="/nyc/borough/manhattan">Manhattan</a></div>
+                                <a href="/nyc/borough/manhattan">Manhattan</a></i> 
+                        </div>
                     
 
                     
                     
                     
                         <div class="meta neighborhood">
-                            <i class="fas fa-home icons"></i> 
-                            
-                            
-                                
-                                <a href="/nyc/neighborhood/union-square">Union Square</a>
-                                
-                                <a href="/nyc/neighborhood/midtown">Midtown</a></div>
-                    
-
-                    
-                    
-                    
-                        <div class="meta cuisine">
-                            <i class="fas fa-utensils icons"></i> 
-                            
-                                <a href="/nyc/cuisine/japanese">Japanese</a>
-                                <a href="/nyc/cuisine/ramen">Ramen</a>
-                                <a href="/nyc/cuisine/udon">Udon</a>
-                        </div>
-                    
-                        <div class="meta yelp">
-                            <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/tsurutontan-udon-noodle-brasserie-new-york">Yelp</a>
-                        </div>
-                    
-                        <div class="meta map">
-                            <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/brh2n9xMzWL2">Google</a>
-                        </div>
-                    
-                        <div class="meta">
-                            
-                            <i class="fas fa-globe icons"></i> <a href="nyc">NYC</a>
-                        </div></section>
-            
-                
-
-                <section class="post">
-                    <div class="title">
-                        <a href="https://www.gourmandsyndrome.com/nyc/ramen/ramen-spot/">Ramen Spot</a> 
-                        <div class="last-modified">Revised Jul 7, 2023</div>
-                    </div>
-                    
-                    
-                    
-                        <div class="meta borough">
-                            <i class="fas fa-city icons"></i> 
-                            
-                            
-                                <a href="/nyc/borough/queens">Queens</a></div>
-                    
-
-                    
-                    
-                    
-                        <div class="meta neighborhood">
-                            <i class="fas fa-home icons"></i> 
-                            
-                            
-                                
-                                <a href="/nyc/neighborhood/lic">LIC</a></div>
-                    
-
-                    
-                    
-                    
-                        <div class="meta cuisine">
-                            <i class="fas fa-utensils icons"></i> 
-                            
-                                <a href="/nyc/cuisine/ramen">Ramen</a>
-                        </div>
-                    
-                        <div class="meta yelp">
-                            <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/ramen-spot-long-island-city">Yelp</a>
-                        </div>
-                    
-                        <div class="meta map">
-                            <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/8rURHT9BrT9VUMu88">Google</a>
-                        </div>
-                    
-                        <div class="meta">
-                            
-                            <i class="fas fa-globe icons"></i> <a href="nyc">NYC</a>
-                        </div></section>
-            
-                
-
-                <section class="post">
-                    <div class="title">
-                        <a href="https://www.gourmandsyndrome.com/nyc/ramen/eak-ramen/">EAK Ramen</a> 
-                        <div class="last-modified">Revised Jul 2, 2023</div>
-                    </div>
-                    
-                    
-                    
-                        <div class="meta borough">
-                            <i class="fas fa-city icons"></i> 
-                            
-                            
-                                <a href="/nyc/borough/manhattan">Manhattan</a></div>
-                    
-
-                    
-                    
-                    
-                        <div class="meta neighborhood">
-                            <i class="fas fa-home icons"></i> 
-                            
-                            
-                                
-                                <a href="/nyc/neighborhood/west-village">West Village</a></div>
-                    
-
-                    
-                    
-                    
-                        <div class="meta cuisine">
-                            <i class="fas fa-utensils icons"></i> 
-                            
-                                <a href="/nyc/cuisine/ramen">Ramen</a>
-                        </div>
-                    
-                        <div class="meta yelp">
-                            <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/e-a-k-ramen-new-york-3">Yelp</a>
-                        </div>
-                    
-                        <div class="meta map">
-                            <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/EYA6vRJF5Us">Google</a>
-                        </div>
-                    
-                        <div class="meta">
-                            
-                            <i class="fas fa-globe icons"></i> <a href="nyc">NYC</a>
-                        </div></section>
-            
-                
-
-                <section class="post">
-                    <div class="title">
-                        <a href="https://www.gourmandsyndrome.com/nyc/mediterranean/taverna-kyclades/">Taverna Kyclades</a> 
-                        <div class="last-modified">Revised Jul 1, 2023</div>
-                    </div>
-                    
-                    
-                    
-                        <div class="meta borough">
-                            <i class="fas fa-city icons"></i> 
-                            
-                            
-                                <a href="/nyc/borough/queens">Queens</a></div>
-                    
-
-                    
-                    
-                    
-                        <div class="meta neighborhood">
-                            <i class="fas fa-home icons"></i> 
-                            
-                            
-                                
-                                <a href="/nyc/neighborhood/astoria">Astoria</a></div>
-                    
-
-                    
-                    
-                    
-                        <div class="meta cuisine">
-                            <i class="fas fa-utensils icons"></i> 
-                            
-                                <a href="/nyc/cuisine/mediterranean">Mediterranean</a>
-                                <a href="/nyc/cuisine/greek">Greek</a>
-                                <a href="/nyc/cuisine/seafood">Seafood</a>
-                        </div>
-                    
-                        <div class="meta yelp">
-                            <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/taverna-kyclades-astoria">Yelp</a>
-                        </div>
-                    
-                        <div class="meta map">
-                            <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/EAUkkmZJ8x82">Google</a>
-                        </div>
-                    
-                        <div class="meta">
-                            
-                            <i class="fas fa-globe icons"></i> <a href="nyc">NYC</a>
-                        </div></section>
-            
-                
-
-                <section class="post">
-                    <div class="title">
-                        <a href="https://www.gourmandsyndrome.com/nyc/french/minetta-tavern/">Minetta Tavern</a> 
-                        <div class="last-modified">Revised May 27, 2023</div>
-                    </div>
-                    
-                    
-                    
-                        <div class="meta borough">
-                            <i class="fas fa-city icons"></i> 
-                            
-                            
-                                <a href="/nyc/borough/manhattan">Manhattan</a></div>
-                    
-
-                    
-                    
-                    
-                        <div class="meta neighborhood">
-                            <i class="fas fa-home icons"></i> 
-                            
-                            
-                                
-                                <a href="/nyc/neighborhood/greenwich-village">Greenwich Village</a></div>
-                    
-
-                    
-                    
-                    
-                        <div class="meta cuisine">
-                            <i class="fas fa-utensils icons"></i> 
-                            
-                                <a href="/nyc/cuisine/burgers">Burgers</a>
-                                <a href="/nyc/cuisine/french">French</a>
-                                <a href="/nyc/cuisine/gastropub">Gastropub</a>
-                                <a href="/nyc/cuisine/new-american">New American</a>
-                        </div>
-                    
-                        <div class="meta yelp">
-                            <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/minetta-tavern-new-york">Yelp</a>
-                        </div>
-                    
-                        <div class="meta map">
-                            <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/bAay9xD1bKB2">Google</a>
-                        </div>
-                    
-                        <div class="meta">
-                            
-                            <i class="fas fa-globe icons"></i> <a href="nyc">NYC</a>
-                        </div></section>
-            
-                
-
-                <section class="post">
-                    <div class="title">
-                        <a href="https://www.gourmandsyndrome.com/nyc/chinese/silky-kitchen/">Silky Kitchen</a> 
-                        <div class="last-modified">Revised May 5, 2023</div>
-                    </div>
-                    
-                    
-                    
-                        <div class="meta borough">
-                            <i class="fas fa-city icons"></i> 
-                            
-                            
-                                <a href="/nyc/borough/manhattan">Manhattan</a></div>
-                    
-
-                    
-                    
-                    
-                        <div class="meta neighborhood">
-                            <i class="fas fa-home icons"></i> 
+                            <i class="fas fa-home icons">
                             
                             
                                 
@@ -2154,230 +972,1883 @@ For this month, the special ingredient is berries. Like my rhubarb meal that I w
                                 
                                 <a href="/nyc/neighborhood/midtown-west">Midtown West</a>
                                 
-                                <a href="/nyc/neighborhood/theater-district">Theater District</a></div>
+                                <a href="/nyc/neighborhood/hells-kitchen">Hell's Kitchen</a>
+                                
+                                <a href="/nyc/neighborhood/theater-district">Theater District</a></i> 
+                        </div>
+                    
+
+                    
+                    
                     
 
                     
                     
                     
                         <div class="meta cuisine">
-                            <i class="fas fa-utensils icons"></i> 
+                            <i class="fas fa-utensils icons">
                             
+                                <a href="/nyc/cuisine/taiwanese">Taiwanese</a>
                                 <a href="/nyc/cuisine/chinese">Chinese</a>
-                                <a href="/nyc/cuisine/noodles">Noodles</a>
+                            </i> 
                         </div>
                     
                         <div class="meta yelp">
-                            <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/silky-kitchen-new-york-5">Yelp</a>
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/four-four-south-village-new-york-2">Yelp</a></i>
                         </div>
                     
                         <div class="meta map">
-                            <i class="fas fa-map-marker-alt icons"></i> <a href="https://g.page/silky-time-square?share">Google</a>
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/ZFXkVzouTWqjBKQH7">Google</a></i>
                         </div>
                     
                         <div class="meta">
                             
-                            <i class="fas fa-globe icons"></i> <a href="nyc">NYC</a>
-                        </div></section>
-            
+                            <i class="fas fa-globe icons"><a href="/nyc">NYC</a></i>
+                        </div></div>
+            </section>
+        
+            <section class="post group-item">
+
+                
                 
 
-                <section class="post">
-                    <div class="title">
-                        <a href="https://www.gourmandsyndrome.com/lax/napa-rose/">Napa Rose</a> 
-                        <div class="last-modified">Revised Apr 18, 2023</div>
-                    </div>
-                    
-                    
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/nyc/breakfast/bubbys/">Bubby&#39;s
+
+
+
+
+
+</a>
+                    <div class="posted">Posted Jul 30, 2023</div>
+                </div>
+
+                <div class="metadata">
                     
 
-                    
-                    
-                    
-                        <div class="meta neighborhood">
-                            <i class="fas fa-home icons"></i> 
-                            
-                            
-                                
-                                <a href="/lax/neighborhood/anaheim">Anaheim</a>
-                                
-                                <a href="/lax/neighborhood/disneyland">Disneyland</a></div>
-                    
-
-                    
-                    
-                    
-                        <div class="meta cuisine">
-                            <i class="fas fa-utensils icons"></i> 
-                            
-                                <a href="/lax/cuisine/new-american">New American</a>
-                                <a href="/lax/cuisine/disney">Disney</a>
-                        </div>
-                    
-                        <div class="meta yelp">
-                            <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/napa-rose-anaheim">Yelp</a>
-                        </div>
-                    
-                        <div class="meta map">
-                            <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/btBHJBo1Ccq">Google</a>
-                        </div>
-                    
-                        <div class="meta">
-                            
-                            <i class="fas fa-globe icons"></i> <a href="lax">LAX</a>
-                        </div></section>
-            
-                
-
-                <section class="post">
-                    <div class="title">
-                        <a href="https://www.gourmandsyndrome.com/nyc/italian/maiella/">Maiella</a> 
-                        <div class="last-modified">Revised Mar 31, 2023</div>
-                    </div>
                     
                     
                     
                         <div class="meta borough">
-                            <i class="fas fa-city icons"></i> 
+                            <i class="fas fa-city icons">
                             
                             
-                                <a href="/nyc/borough/queens">Queens</a></div>
+                                <a href="/nyc/borough/manhattan">Manhattan</a></i> 
+                        </div>
                     
 
                     
                     
                     
                         <div class="meta neighborhood">
-                            <i class="fas fa-home icons"></i> 
+                            <i class="fas fa-home icons">
                             
                             
                                 
-                                <a href="/nyc/neighborhood/lic">LIC</a></div>
+                                <a href="/nyc/neighborhood/tribeca">TriBeCa</a></i> 
+                        </div>
+                    
+
+                    
+                    
                     
 
                     
                     
                     
                         <div class="meta cuisine">
-                            <i class="fas fa-utensils icons"></i> 
+                            <i class="fas fa-utensils icons">
+                            
+                                <a href="/nyc/cuisine/breakfast">Breakfast</a>
+                                <a href="/nyc/cuisine/brunch">Brunch</a>
+                            </i> 
+                        </div>
+                    
+                        <div class="meta yelp">
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/bubbys-tribeca-new-york">Yelp</a></i>
+                        </div>
+                    
+                        <div class="meta map">
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/39Z3rpAdQ1VcDtQB6">Google</a></i>
+                        </div>
+                    
+                        <div class="meta">
+                            
+                            <i class="fas fa-globe icons"><a href="/nyc">NYC</a></i>
+                        </div></div>
+            </section>
+        
+            <section class="post group-item">
+
+                
+                
+
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/nyc/japanese/secchu-yokota/">Secchu Yokota
+
+
+
+
+
+</a>
+                    <div class="posted">Posted Jul 26, 2023</div>
+                </div>
+
+                <div class="metadata">
+                    
+
+                    
+                    
+                    
+                        <div class="meta borough">
+                            <i class="fas fa-city icons">
+                            
+                            
+                                <a href="/nyc/borough/manhattan">Manhattan</a></i> 
+                        </div>
+                    
+
+                    
+                    
+                    
+                        <div class="meta neighborhood">
+                            <i class="fas fa-home icons">
+                            
+                            
+                                
+                                <a href="/nyc/neighborhood/alphabet-city">Alphabet City</a>
+                                
+                                <a href="/nyc/neighborhood/east-village">East Village</a></i> 
+                        </div>
+                    
+
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        <div class="meta cuisine">
+                            <i class="fas fa-utensils icons">
+                            
+                                <a href="/nyc/cuisine/japanese">Japanese</a>
+                                <a href="/nyc/cuisine/tempura">Tempura</a>
+                                <a href="/nyc/cuisine/tastings">Tastings</a>
+                            </i> 
+                        </div>
+                    
+                        <div class="meta yelp">
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/secchu-yokota-new-york">Yelp</a></i>
+                        </div>
+                    
+                        <div class="meta map">
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/5doGMkt3j1KKzgd36">Google</a></i>
+                        </div>
+                    
+                        <div class="meta">
+                            
+                            <i class="fas fa-globe icons"><a href="/nyc">NYC</a></i>
+                        </div></div>
+            </section>
+        
+            <section class="post group-item">
+
+                
+                
+
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/nyc/italian/giardino-54/">Giardino 54
+
+
+
+
+
+</a>
+                    <div class="posted">Posted Jul 22, 2023</div>
+                </div>
+
+                <div class="metadata">
+                    
+
+                    
+                    
+                    
+                        <div class="meta borough">
+                            <i class="fas fa-city icons">
+                            
+                            
+                                <a href="/nyc/borough/manhattan">Manhattan</a></i> 
+                        </div>
+                    
+
+                    
+                    
+                    
+                        <div class="meta neighborhood">
+                            <i class="fas fa-home icons">
+                            
+                            
+                                
+                                <a href="/nyc/neighborhood/hells-kitchen">Hell's Kitchen</a>
+                                
+                                <a href="/nyc/neighborhood/midtown">Midtown</a>
+                                
+                                <a href="/nyc/neighborhood/midtown-west">Midtown West</a></i> 
+                        </div>
+                    
+
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        <div class="meta cuisine">
+                            <i class="fas fa-utensils icons">
                             
                                 <a href="/nyc/cuisine/italian">Italian</a>
+                            </i> 
                         </div>
                     
                         <div class="meta yelp">
-                            <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/maiella-long-island-city">Yelp</a>
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/giardino-54-new-york">Yelp</a></i>
                         </div>
                     
                         <div class="meta map">
-                            <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/m5yCTDfKmrh9YGkM8">Google</a>
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/NfDrgRLnAd34FrRo7">Google</a></i>
                         </div>
                     
                         <div class="meta">
                             
-                            <i class="fas fa-globe icons"></i> <a href="nyc">NYC</a>
-                        </div></section>
-            
+                            <i class="fas fa-globe icons"><a href="/nyc">NYC</a></i>
+                        </div></div>
+            </section>
+        
+            <section class="post group-item">
+
+                
                 
 
-                <section class="post">
-                    <div class="title">
-                        <a href="https://www.gourmandsyndrome.com/nyc/mediterranean/svl-souvlaki-bar/">SVL Souvlaki Bar</a> 
-                        <div class="last-modified">Revised Mar 4, 2023</div>
-                    </div>
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/nyc/thai/pranakhon/">Pranakhon
+
+
+
+
+
+</a>
+                    <div class="posted">Posted Jul 21, 2023</div>
+                </div>
+
+                <div class="metadata">
+                    
+
                     
                     
                     
                         <div class="meta borough">
-                            <i class="fas fa-city icons"></i> 
+                            <i class="fas fa-city icons">
                             
                             
-                                <a href="/nyc/borough/queens">Queens</a></div>
+                                <a href="/nyc/borough/manhattan">Manhattan</a></i> 
+                        </div>
                     
 
                     
                     
                     
                         <div class="meta neighborhood">
-                            <i class="fas fa-home icons"></i> 
+                            <i class="fas fa-home icons">
                             
                             
                                 
-                                <a href="/nyc/neighborhood/astoria">Astoria</a></div>
+                                <a href="/nyc/neighborhood/greenwich-village">Greenwich Village</a></i> 
+                        </div>
+                    
+
+                    
+                    
                     
 
                     
                     
                     
                         <div class="meta cuisine">
-                            <i class="fas fa-utensils icons"></i> 
+                            <i class="fas fa-utensils icons">
                             
-                                <a href="/nyc/cuisine/mediterranean">Mediterranean</a>
+                                <a href="/nyc/cuisine/thai">Thai</a>
+                            </i> 
                         </div>
                     
                         <div class="meta yelp">
-                            <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/svl-souvlaki-bar-long-island-city">Yelp</a>
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/pranakhon-thai-restaurant-new-york-2">Yelp</a></i>
                         </div>
                     
                         <div class="meta map">
-                            <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/FjpzHVxNZr6aLvRq6">Google</a>
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/4m8ZyKgR9JkCYWNK7">Google</a></i>
                         </div>
                     
                         <div class="meta">
                             
-                            <i class="fas fa-globe icons"></i> <a href="nyc">NYC</a>
-                        </div></section>
-            
+                            <i class="fas fa-globe icons"><a href="/nyc">NYC</a></i>
+                        </div></div>
+            </section>
+        
+            <section class="post group-item">
+
+                
                 
 
-                <section class="post">
-                    <div class="title">
-                        <a href="https://www.gourmandsyndrome.com/nyc/ramen/kyuramen/">Kyuramen</a> 
-                        <div class="last-modified">Revised Feb 27, 2023</div>
-                    </div>
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/nyc/japanese/vert-frais/">Vert Frais
+
+
+
+
+
+</a>
+                    <div class="posted">Posted Jul 16, 2023</div>
+                </div>
+
+                <div class="metadata">
+                    
+
                     
                     
                     
                         <div class="meta borough">
-                            <i class="fas fa-city icons"></i> 
+                            <i class="fas fa-city icons">
                             
                             
-                                <a href="/nyc/borough/queens">Queens</a></div>
+                                <a href="/nyc/borough/queens">Queens</a></i> 
+                        </div>
                     
 
                     
                     
                     
                         <div class="meta neighborhood">
-                            <i class="fas fa-home icons"></i> 
+                            <i class="fas fa-home icons">
                             
                             
                                 
-                                <a href="/nyc/neighborhood/lic">LIC</a></div>
+                                <a href="/nyc/neighborhood/lic">LIC</a></i> 
+                        </div>
+                    
+
+                    
+                    
                     
 
                     
                     
                     
                         <div class="meta cuisine">
-                            <i class="fas fa-utensils icons"></i> 
+                            <i class="fas fa-utensils icons">
                             
-                                <a href="/nyc/cuisine/ramen">Ramen</a>
+                                <a href="/nyc/cuisine/japanese">Japanese</a>
+                            </i> 
                         </div>
                     
                         <div class="meta yelp">
-                            <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/kyuramen-long-island-city-long-island-city">Yelp</a>
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/vert-frais-long-island-city">Yelp</a></i>
                         </div>
                     
                         <div class="meta map">
-                            <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/MSpH6g3XnZcqN6YC7">Google</a>
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/jQRdnWBjNn6BzmpKA">Google</a></i>
                         </div>
                     
                         <div class="meta">
                             
-                            <i class="fas fa-globe icons"></i> <a href="nyc">NYC</a>
-                        </div></section>
+                            <i class="fas fa-globe icons"><a href="/nyc">NYC</a></i>
+                        </div></div>
+            </section>
+        
+    </section>
+    
+</section>
+
+<section class="group">
+    <section class="posts">
+
+        <section class="title">
+            <div>UPDATED POSTS</div>
+        </section>
+
+        
             
         
+
+        
+        
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+                
+                
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+                
+                
+            
+            
+            
+            
+            
+                
+                
+            
+                
+                
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+                
+                
+            
+                
+                
+            
+            
+                
+                
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+            
+                
+                
+            
+            
+                
+                
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+            
+                
+                
+            
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+        
+
+        
+            
+                
+
+                
+                
+
+                <section class="post group-item">
+                    <div class="title">
+                        <a href="https://www.gourmandsyndrome.com/nyc/japanese/tsurutontan/">Tsurutontan
+
+
+
+
+
+</a> 
+                        <div class="last-modified">Revised Jul 14, 2023</div>
+                    </div>
+
+                    <div class="metadata">
+                        
+                        
+                        
+                            <div class="meta borough">
+                                <i class="fas fa-city icons"> 
+                                
+                                
+                                    <a href="/nyc/borough/manhattan">Manhattan</a></i>
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta neighborhood">
+                                <i class="fas fa-home icons">
+                                
+                                
+                                    
+                                    <a href="/nyc/neighborhood/union-square">Union Square</a>
+                                    
+                                    <a href="/nyc/neighborhood/midtown">Midtown</a></i> 
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta cuisine">
+                                <i class="fas fa-utensils icons">
+                                
+                                    <a href="/nyc/cuisine/japanese">Japanese</a>
+                                    <a href="/nyc/cuisine/ramen">Ramen</a>
+                                    <a href="/nyc/cuisine/udon">Udon</a>
+                                </i> 
+                            </div>
+                        
+                            <div class="meta yelp">
+                                <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/tsurutontan-udon-noodle-brasserie-new-york">Yelp</a></i> 
+                            </div>
+                        
+                            <div class="meta map">
+                                <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/brh2n9xMzWL2">Google</a></i> 
+                            </div>
+                        
+                            <div class="meta">
+                                
+                                <i class="fas fa-globe icons"><a href="nyc">NYC</a></i> 
+                            </div></div>
+                </section>
+            
+                
+
+                
+                
+
+                <section class="post group-item">
+                    <div class="title">
+                        <a href="https://www.gourmandsyndrome.com/nyc/ramen/ramen-spot/">Ramen Spot
+
+
+
+
+
+</a> 
+                        <div class="last-modified">Revised Jul 7, 2023</div>
+                    </div>
+
+                    <div class="metadata">
+                        
+                        
+                        
+                            <div class="meta borough">
+                                <i class="fas fa-city icons"> 
+                                
+                                
+                                    <a href="/nyc/borough/queens">Queens</a></i>
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta neighborhood">
+                                <i class="fas fa-home icons">
+                                
+                                
+                                    
+                                    <a href="/nyc/neighborhood/lic">LIC</a></i> 
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta cuisine">
+                                <i class="fas fa-utensils icons">
+                                
+                                    <a href="/nyc/cuisine/ramen">Ramen</a>
+                                </i> 
+                            </div>
+                        
+                            <div class="meta yelp">
+                                <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/ramen-spot-long-island-city">Yelp</a></i> 
+                            </div>
+                        
+                            <div class="meta map">
+                                <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/8rURHT9BrT9VUMu88">Google</a></i> 
+                            </div>
+                        
+                            <div class="meta">
+                                
+                                <i class="fas fa-globe icons"><a href="nyc">NYC</a></i> 
+                            </div></div>
+                </section>
+            
+                
+
+                
+                
+
+                <section class="post group-item">
+                    <div class="title">
+                        <a href="https://www.gourmandsyndrome.com/nyc/ramen/eak-ramen/">EAK Ramen
+
+
+
+
+
+</a> 
+                        <div class="last-modified">Revised Jul 2, 2023</div>
+                    </div>
+
+                    <div class="metadata">
+                        
+                        
+                        
+                            <div class="meta borough">
+                                <i class="fas fa-city icons"> 
+                                
+                                
+                                    <a href="/nyc/borough/manhattan">Manhattan</a></i>
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta neighborhood">
+                                <i class="fas fa-home icons">
+                                
+                                
+                                    
+                                    <a href="/nyc/neighborhood/west-village">West Village</a></i> 
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta cuisine">
+                                <i class="fas fa-utensils icons">
+                                
+                                    <a href="/nyc/cuisine/ramen">Ramen</a>
+                                </i> 
+                            </div>
+                        
+                            <div class="meta yelp">
+                                <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/e-a-k-ramen-new-york-3">Yelp</a></i> 
+                            </div>
+                        
+                            <div class="meta map">
+                                <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/EYA6vRJF5Us">Google</a></i> 
+                            </div>
+                        
+                            <div class="meta">
+                                
+                                <i class="fas fa-globe icons"><a href="nyc">NYC</a></i> 
+                            </div></div>
+                </section>
+            
+                
+
+                
+                
+
+                <section class="post group-item">
+                    <div class="title">
+                        <a href="https://www.gourmandsyndrome.com/nyc/mediterranean/taverna-kyclades/">Taverna Kyclades
+
+
+
+
+
+</a> 
+                        <div class="last-modified">Revised Jul 1, 2023</div>
+                    </div>
+
+                    <div class="metadata">
+                        
+                        
+                        
+                            <div class="meta borough">
+                                <i class="fas fa-city icons"> 
+                                
+                                
+                                    <a href="/nyc/borough/queens">Queens</a></i>
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta neighborhood">
+                                <i class="fas fa-home icons">
+                                
+                                
+                                    
+                                    <a href="/nyc/neighborhood/astoria">Astoria</a></i> 
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta cuisine">
+                                <i class="fas fa-utensils icons">
+                                
+                                    <a href="/nyc/cuisine/mediterranean">Mediterranean</a>
+                                    <a href="/nyc/cuisine/greek">Greek</a>
+                                    <a href="/nyc/cuisine/seafood">Seafood</a>
+                                </i> 
+                            </div>
+                        
+                            <div class="meta yelp">
+                                <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/taverna-kyclades-astoria">Yelp</a></i> 
+                            </div>
+                        
+                            <div class="meta map">
+                                <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/EAUkkmZJ8x82">Google</a></i> 
+                            </div>
+                        
+                            <div class="meta">
+                                
+                                <i class="fas fa-globe icons"><a href="nyc">NYC</a></i> 
+                            </div></div>
+                </section>
+            
+                
+
+                
+                
+
+                <section class="post group-item">
+                    <div class="title">
+                        <a href="https://www.gourmandsyndrome.com/nyc/french/minetta-tavern/">Minetta Tavern
+
+
+
+
+
+</a> 
+                        <div class="last-modified">Revised May 27, 2023</div>
+                    </div>
+
+                    <div class="metadata">
+                        
+                        
+                        
+                            <div class="meta borough">
+                                <i class="fas fa-city icons"> 
+                                
+                                
+                                    <a href="/nyc/borough/manhattan">Manhattan</a></i>
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta neighborhood">
+                                <i class="fas fa-home icons">
+                                
+                                
+                                    
+                                    <a href="/nyc/neighborhood/greenwich-village">Greenwich Village</a></i> 
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta cuisine">
+                                <i class="fas fa-utensils icons">
+                                
+                                    <a href="/nyc/cuisine/burgers">Burgers</a>
+                                    <a href="/nyc/cuisine/french">French</a>
+                                    <a href="/nyc/cuisine/gastropub">Gastropub</a>
+                                    <a href="/nyc/cuisine/new-american">New American</a>
+                                </i> 
+                            </div>
+                        
+                            <div class="meta yelp">
+                                <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/minetta-tavern-new-york">Yelp</a></i> 
+                            </div>
+                        
+                            <div class="meta map">
+                                <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/bAay9xD1bKB2">Google</a></i> 
+                            </div>
+                        
+                            <div class="meta">
+                                
+                                <i class="fas fa-globe icons"><a href="nyc">NYC</a></i> 
+                            </div></div>
+                </section>
+            
+                
+
+                
+                
+
+                <section class="post group-item">
+                    <div class="title">
+                        <a href="https://www.gourmandsyndrome.com/nyc/chinese/silky-kitchen/">Silky Kitchen
+
+
+
+
+
+</a> 
+                        <div class="last-modified">Revised May 5, 2023</div>
+                    </div>
+
+                    <div class="metadata">
+                        
+                        
+                        
+                            <div class="meta borough">
+                                <i class="fas fa-city icons"> 
+                                
+                                
+                                    <a href="/nyc/borough/manhattan">Manhattan</a></i>
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta neighborhood">
+                                <i class="fas fa-home icons">
+                                
+                                
+                                    
+                                    <a href="/nyc/neighborhood/midtown">Midtown</a>
+                                    
+                                    <a href="/nyc/neighborhood/midtown-west">Midtown West</a>
+                                    
+                                    <a href="/nyc/neighborhood/theater-district">Theater District</a></i> 
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta cuisine">
+                                <i class="fas fa-utensils icons">
+                                
+                                    <a href="/nyc/cuisine/chinese">Chinese</a>
+                                    <a href="/nyc/cuisine/noodles">Noodles</a>
+                                </i> 
+                            </div>
+                        
+                            <div class="meta yelp">
+                                <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/silky-kitchen-new-york-5">Yelp</a></i> 
+                            </div>
+                        
+                            <div class="meta map">
+                                <i class="fas fa-map-marker-alt icons"><a href="https://g.page/silky-time-square?share">Google</a></i> 
+                            </div>
+                        
+                            <div class="meta">
+                                
+                                <i class="fas fa-globe icons"><a href="nyc">NYC</a></i> 
+                            </div></div>
+                </section>
+            
+                
+
+                
+                
+
+                <section class="post group-item">
+                    <div class="title">
+                        <a href="https://www.gourmandsyndrome.com/lax/napa-rose/">Napa Rose
+
+
+
+
+
+</a> 
+                        <div class="last-modified">Revised Apr 18, 2023</div>
+                    </div>
+
+                    <div class="metadata">
+                        
+                        
+                        
+
+                        
+                        
+                        
+                            <div class="meta neighborhood">
+                                <i class="fas fa-home icons">
+                                
+                                
+                                    
+                                    <a href="/lax/neighborhood/anaheim">Anaheim</a>
+                                    
+                                    <a href="/lax/neighborhood/disneyland">Disneyland</a></i> 
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta cuisine">
+                                <i class="fas fa-utensils icons">
+                                
+                                    <a href="/lax/cuisine/new-american">New American</a>
+                                    <a href="/lax/cuisine/disney">Disney</a>
+                                </i> 
+                            </div>
+                        
+                            <div class="meta yelp">
+                                <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/napa-rose-anaheim">Yelp</a></i> 
+                            </div>
+                        
+                            <div class="meta map">
+                                <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/btBHJBo1Ccq">Google</a></i> 
+                            </div>
+                        
+                            <div class="meta">
+                                
+                                <i class="fas fa-globe icons"><a href="lax">LAX</a></i> 
+                            </div></div>
+                </section>
+            
+                
+
+                
+                
+
+                <section class="post group-item">
+                    <div class="title">
+                        <a href="https://www.gourmandsyndrome.com/nyc/italian/maiella/">Maiella
+
+
+
+
+
+</a> 
+                        <div class="last-modified">Revised Mar 31, 2023</div>
+                    </div>
+
+                    <div class="metadata">
+                        
+                        
+                        
+                            <div class="meta borough">
+                                <i class="fas fa-city icons"> 
+                                
+                                
+                                    <a href="/nyc/borough/queens">Queens</a></i>
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta neighborhood">
+                                <i class="fas fa-home icons">
+                                
+                                
+                                    
+                                    <a href="/nyc/neighborhood/lic">LIC</a></i> 
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta cuisine">
+                                <i class="fas fa-utensils icons">
+                                
+                                    <a href="/nyc/cuisine/italian">Italian</a>
+                                </i> 
+                            </div>
+                        
+                            <div class="meta yelp">
+                                <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/maiella-long-island-city">Yelp</a></i> 
+                            </div>
+                        
+                            <div class="meta map">
+                                <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/m5yCTDfKmrh9YGkM8">Google</a></i> 
+                            </div>
+                        
+                            <div class="meta">
+                                
+                                <i class="fas fa-globe icons"><a href="nyc">NYC</a></i> 
+                            </div></div>
+                </section>
+            
+                
+
+                
+                
+
+                <section class="post group-item">
+                    <div class="title">
+                        <a href="https://www.gourmandsyndrome.com/nyc/mediterranean/svl-souvlaki-bar/">SVL Souvlaki Bar
+
+
+
+
+
+</a> 
+                        <div class="last-modified">Revised Mar 4, 2023</div>
+                    </div>
+
+                    <div class="metadata">
+                        
+                        
+                        
+                            <div class="meta borough">
+                                <i class="fas fa-city icons"> 
+                                
+                                
+                                    <a href="/nyc/borough/queens">Queens</a></i>
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta neighborhood">
+                                <i class="fas fa-home icons">
+                                
+                                
+                                    
+                                    <a href="/nyc/neighborhood/astoria">Astoria</a></i> 
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta cuisine">
+                                <i class="fas fa-utensils icons">
+                                
+                                    <a href="/nyc/cuisine/mediterranean">Mediterranean</a>
+                                </i> 
+                            </div>
+                        
+                            <div class="meta yelp">
+                                <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/svl-souvlaki-bar-long-island-city">Yelp</a></i> 
+                            </div>
+                        
+                            <div class="meta map">
+                                <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/FjpzHVxNZr6aLvRq6">Google</a></i> 
+                            </div>
+                        
+                            <div class="meta">
+                                
+                                <i class="fas fa-globe icons"><a href="nyc">NYC</a></i> 
+                            </div></div>
+                </section>
+            
+                
+
+                
+                
+
+                <section class="post group-item">
+                    <div class="title">
+                        <a href="https://www.gourmandsyndrome.com/nyc/ramen/kyuramen/">Kyuramen
+
+
+
+
+
+</a> 
+                        <div class="last-modified">Revised Feb 27, 2023</div>
+                    </div>
+
+                    <div class="metadata">
+                        
+                        
+                        
+                            <div class="meta borough">
+                                <i class="fas fa-city icons"> 
+                                
+                                
+                                    <a href="/nyc/borough/queens">Queens</a></i>
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta neighborhood">
+                                <i class="fas fa-home icons">
+                                
+                                
+                                    
+                                    <a href="/nyc/neighborhood/lic">LIC</a></i> 
+                            </div>
+                        
+
+                        
+                        
+                        
+                            <div class="meta cuisine">
+                                <i class="fas fa-utensils icons">
+                                
+                                    <a href="/nyc/cuisine/ramen">Ramen</a>
+                                </i> 
+                            </div>
+                        
+                            <div class="meta yelp">
+                                <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/kyuramen-long-island-city-long-island-city">Yelp</a></i> 
+                            </div>
+                        
+                            <div class="meta map">
+                                <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/MSpH6g3XnZcqN6YC7">Google</a></i> 
+                            </div>
+                        
+                            <div class="meta">
+                                
+                                <i class="fas fa-globe icons"><a href="nyc">NYC</a></i> 
+                            </div></div>
+                </section>
+            
+        
+    </section>
 </section>
     </section></section><footer>
     <span>&copy; Gourmand Syndrome 2021-2023 | <a href="/stats">Stats</a> | <a href=/index.xml>RSS</a></span>

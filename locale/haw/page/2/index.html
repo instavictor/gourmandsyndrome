@@ -33,84 +33,113 @@ if (!doNotTrack) {
 	gtag('config', 'G-CN5KPHS31R', { 'anonymize_ip': false });
 }
 </script>
-<link href="/dist/gs.css" rel="stylesheet"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<link href="/dist/gs.css" rel="stylesheet">
+
+
+
+<link href="/lib/fa/css/fontawesome.min.css" rel="stylesheet">
+<link href="/lib/fa/css/brands.min.css" rel="stylesheet">
+<link href="/lib/fa/css/solid.min.css" rel="stylesheet">
 
 <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "34ca6cdc94b34f5e95bfb14e20dc1a12"}'></script>
 
 </head>
 
     <body><header>
-    <div class="logo" onclick="window.location='/';" style="background-image: url(/img/logo.png);"></div>
+    <div class="logo" onclick="window.location='/';"></div>
 
     <section id="navigation">
-        <div class="locale">
-            <div><i class="fas fa-globe icons" alt="Choose locale"></i></div>
-            <div>
-                <span id="locale-text"><a href="#" class="locale-text"></a></span><div>
-                    <i class="fas fa-caret-down icons locale-picker"></i>
-                    <div id="locale-dropdown" style="display: none;">
-                        <div class="option" value="">All</div>
-                        <div class="option" value="anc">Anchorage</div>
-                        <div class="option" value="chi">Chicago</div>
-                        <div class="option" value="dc">Washington DC</div>
-                        <div class="option" value="haw">Hawaii</div>
-                        <div class="option" value="las">Las Vegas</div>
-                        <div class="option" value="lax">Los Angeles</div>
-                        <div class="option" value="mco">Orlando</div>
-                        <div class="option" value="nyc">New York City</div>
-                        <div class="option" value="sea">Seattle</div>
+        <section class="locale">
+            <i class="fas fa-globe icons" alt="Choose locale">
+                <div class="locale-group">
+                    <span id="locale-text"><a href="#" class="locale-text"></a></span><div>
+                        <i class="fas fa-caret-down icons locale-picker">
+                            <div id="locale-dropdown" style="display: none;">
+                                <div class="option" value="">All</div>
+                                <div class="option" value="anc">Anchorage</div>
+                                <div class="option" value="chi">Chicago</div>
+                                <div class="option" value="dc">Washington DC</div>
+                                <div class="option" value="haw">Hawaii</div>
+                                <div class="option" value="las">Las Vegas</div>
+                                <div class="option" value="lax">Los Angeles</div>
+                                <div class="option" value="mco">Orlando</div>
+                                <div class="option" value="nyc">New York City</div>
+                                <div class="option" value="sea">Seattle</div></div>
+                        </i>
                     </div>
                 </div>
-            </div>
-        </div>
-        <form id="search-form" action="/search">
-            <i class="fas fa-search icons"></i>
-            <input type="search" id="search" placeholder="Search" name="q">
-        </form><div class="map">
-            <div><i class="fas fa-map icons" alt="View map"></i></div>
-            <div><a href="https://www.google.com/maps/d/u/0/embed?mid=1hJvQnjmjETZ4ab4InbG84iLg3Z5N_mHX">NYC Map</a></div>
-        </div>
-    </section>
-</header>
+            </i>
+        </section><section class="map">
+            <i class="fas fa-map icons" alt="View map">
+                <div class="map-group"><a href="https://www.google.com/maps/d/u/0/embed?mid=1hJvQnjmjETZ4ab4InbG84iLg3Z5N_mHX">NYC Map</a></div>
+            </i>
+        </section>
 
-<section id="page-divider"></section>
+        <section class="search">
+            <i class="fas fa-search icons">
+                <div class="search-group"><a href="#search" class="search-link">Search</a></div>
+            </i>
+            <div>
+                <form id="search-form" action="/search" class="hide">
+                    <input type="search" id="search" placeholder="Search" name="q">
+                    <button type="submit"><i class="fas fa-magnifying-glass-arrow-right icons"></i></button>
+                </form>
+            </div>
+            
+        </section>
+    </section>
+   
+</header>
 
         <section id="main">
     <section id="content"><article>
+        
+
+        
+        
+
         <div class="title">
-            <a href="https://www.gourmandsyndrome.com/haw/poke-fix/">Poke Fix</a>
+            <a href="https://www.gourmandsyndrome.com/haw/poke-fix/">Poke Fix
+
+
+
+
+
+</a>
         </div>
 
-        
-        <div class="meta">
-                <i class="fas fa-globe icons" title="Locale"></i>
-                
-                <a href="/haw">HAW</a>
-            </div>
-        
-        
-        
+        <div class="metadata"><div class="meta">
+                    <i class="fas fa-globe icons" title="Locale">
+                    
+                    <a href="/haw">HAW</a>
+                    </i>
+                </div>
+            
+            
+            
 
-        
-        
-        
-        
-        <div class="meta neighborhood">
-                <i class="fas fa-home icons" title="Neighborhood"></i> 
-                
+            
+            
+            
+            
+            <div class="meta neighborhood">
+                    <i class="fas fa-home icons" title="Neighborhood">
                     
-                    <a href="/haw/neighborhood/waikiki">Waikiki</a>
+                        
+                        <a href="/haw/neighborhood/waikiki">Waikiki</a>
+                        
+                        <a href="/haw/neighborhood/honolulu">Honolulu</a></i>
+                </div>
+            
+            <div class="meta cuisine">
+                    <i class="fas fa-utensils icons" title="Cuisine">
                     
-                    <a href="/haw/neighborhood/honolulu">Honolulu</a></div>
-        
-        <div class="meta cuisine">
-                <i class="fas fa-utensils icons" title="Cuisine"></i>
-                
-                    <a href="/haw/cuisine/poke">Poke</a></div><div class="meta yelp">
-                <i class="fab fa-yelp icons" title="Yelp"></i> <a href="https://www.yelp.com/biz/poke-fix-hawaii-honolulu">Yelp</a>
-            </div><div class="meta map">
-                <i class="fas fa-map-marker-alt icons" title="Map"></i> <a href="https://goo.gl/maps/eQLrJbWajpC1o4eTA?coh=178572&amp;entry=tt">Google</a>
-            </div><div class="posted">April 24, 2023</div><div class="summary">
+                        <a href="/haw/cuisine/poke">Poke</a></i>
+                </div><div class="meta yelp">
+                    <i class="fab fa-yelp icons" title="Yelp"><a href="https://www.yelp.com/biz/poke-fix-hawaii-honolulu">Yelp</a></i>
+                </div><div class="meta map">
+                    <i class="fas fa-map-marker-alt icons" title="Map"><a href="https://goo.gl/maps/eQLrJbWajpC1o4eTA?coh=178572&amp;entry=tt">Google</a></i>
+                </div></div><div class="posted">April 24, 2023</div><div class="summary">
             We just landed in Honolulu for our Hawaii trip, and we were pretty hungry. Honolulu is 6 hours behind New York City! Our other friends had arrived a few hours earlier than us and suggested we check out this slight hole in the wall shop for poke near their hotel. My poke impression has always been pretty indifferent, so I was curious what is it about Hawaii poke that people rave about.</div><div class="read-more">
                 <button><a href="https://www.gourmandsyndrome.com/haw/poke-fix/">More</a></button>
             </div></article><section class="pagination"><hr /><div class="left-button solo-button">
@@ -123,44 +152,50 @@ if (!doNotTrack) {
 
 
 
-<section class="tags group">
-    <section class="title">NEIGHBORHOODS</section>
-    <section class="neighborhoods">
-        <section class="tag">
-            <ul></ul>
+<section class="group">
+    <section class="tags">
+        <section class="title">
+            <div>NEIGHBORHOODS</div>
+        </section>
+        <section class="neighborhoods">
+            <section class="tag">
+                <ul></ul>
+            </section>
         </section>
     </section>
 </section>
 
-<section class="tags group">
-    <section class="title">CUISINES</section>
-    <section class="cuisines">
-        <section class="tag">
-            <ul>
+<section class="group">
+    <section class="tags">
+        <section class="title">
+            <div>CUISINES</div>
+        </section>
+        <section class="cuisines">
+            <section class="tag">
                 <ul>
+                    <ul>
+            </section>
         </section>
     </section>
 </section>
 
-<section class="posts group">
-    <section class="title">NEW POSTS</section>
-    
-</section>
-
-<section class="posts group">
-
-    
+<section class="group">
+    <section class="posts">
+        <section class="title">
+            <div>NEW POSTS</div>
+        </section>
         
-    
-
-    
-    
-
-    
-
-    
+    </section>
 </section>
-    </section></section><footer>
+
+
+    
+
+
+
+
+
+</section></section><footer>
     <span>&copy; Gourmand Syndrome 2021-2023 | <a href="/stats">Stats</a> | <a href=/locale/haw/index.xml>RSS</a></span>
 </footer>
 

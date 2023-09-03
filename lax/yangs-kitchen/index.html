@@ -40,85 +40,114 @@ if (!doNotTrack) {
 	gtag('config', 'G-CN5KPHS31R', { 'anonymize_ip': false });
 }
 </script>
-<link href="/dist/gs.css" rel="stylesheet"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<link href="/dist/gs.css" rel="stylesheet">
+
+
+
+<link href="/lib/fa/css/fontawesome.min.css" rel="stylesheet">
+<link href="/lib/fa/css/brands.min.css" rel="stylesheet">
+<link href="/lib/fa/css/solid.min.css" rel="stylesheet">
 
 <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "34ca6cdc94b34f5e95bfb14e20dc1a12"}'></script>
 
 </head>
 
     <body><header>
-    <div class="logo" onclick="window.location='/';" style="background-image: url(/img/logo.png);"></div>
+    <div class="logo" onclick="window.location='/';"></div>
 
     <section id="navigation">
-        <div class="locale">
-            <div><i class="fas fa-globe icons" alt="Choose locale"></i></div>
-            <div>
-                <span id="locale-text"><a href="#" class="locale-text">Los Angeles</a></span><div>
-                    <i class="fas fa-caret-down icons locale-picker"></i>
-                    <div id="locale-dropdown" style="display: none;">
-                        <div class="option" value="">All</div>
-                        <div class="option" value="anc">Anchorage</div>
-                        <div class="option" value="chi">Chicago</div>
-                        <div class="option" value="dc">Washington DC</div>
-                        <div class="option" value="haw">Hawaii</div>
-                        <div class="option" value="las">Las Vegas</div>
-                        <div class="option" value="lax">Los Angeles</div>
-                        <div class="option" value="mco">Orlando</div>
-                        <div class="option" value="nyc">New York City</div>
-                        <div class="option" value="sea">Seattle</div>
+        <section class="locale">
+            <i class="fas fa-globe icons" alt="Choose locale">
+                <div class="locale-group">
+                    <span id="locale-text"><a href="#" class="locale-text">Los Angeles</a></span><div>
+                        <i class="fas fa-caret-down icons locale-picker">
+                            <div id="locale-dropdown" style="display: none;">
+                                <div class="option" value="">All</div>
+                                <div class="option" value="anc">Anchorage</div>
+                                <div class="option" value="chi">Chicago</div>
+                                <div class="option" value="dc">Washington DC</div>
+                                <div class="option" value="haw">Hawaii</div>
+                                <div class="option" value="las">Las Vegas</div>
+                                <div class="option" value="lax">Los Angeles</div>
+                                <div class="option" value="mco">Orlando</div>
+                                <div class="option" value="nyc">New York City</div>
+                                <div class="option" value="sea">Seattle</div></div>
+                        </i>
                     </div>
                 </div>
-            </div>
-        </div>
-        <form id="search-form" action="/search">
-            <i class="fas fa-search icons"></i>
-            <input type="search" id="search" placeholder="Search" name="q">
-        </form><div class="map">
-            <div><i class="fas fa-map icons" alt="View map"></i></div>
-            <div><a href="https://www.google.com/maps/d/u/0/embed?mid=1hJvQnjmjETZ4ab4InbG84iLg3Z5N_mHX">NYC Map</a></div>
-        </div>
-    </section>
-</header>
+            </i>
+        </section><section class="map">
+            <i class="fas fa-map icons" alt="View map">
+                <div class="map-group"><a href="https://www.google.com/maps/d/u/0/embed?mid=1hJvQnjmjETZ4ab4InbG84iLg3Z5N_mHX">NYC Map</a></div>
+            </i>
+        </section>
 
-<section id="page-divider"></section>
+        <section class="search">
+            <i class="fas fa-search icons">
+                <div class="search-group"><a href="#search" class="search-link">Search</a></div>
+            </i>
+            <div>
+                <form id="search-form" action="/search" class="hide">
+                    <input type="search" id="search" placeholder="Search" name="q">
+                    <button type="submit"><i class="fas fa-magnifying-glass-arrow-right icons"></i></button>
+                </form>
+            </div>
+            
+        </section>
+    </section>
+   
+</header>
 
         <section id="main">
     <section id="content">
         <article>
-            <div class="title"><a href="https://www.gourmandsyndrome.com/lax/yangs-kitchen/">Yang&#39;s Kitchen</a> 
-              
-            </div>
-
-            <div class="meta"><i class="fas fa-globe icons" title="Locale"></i> <a href="/lax">LAX</a>
-                </div>
-
             
-                <div class="meta neighborhood">
-                    <i class="fas fa-home icons" title="Neighborhood"></i> 
-                    
+            
+
+            <div class="title"><a href="https://www.gourmandsyndrome.com/lax/yangs-kitchen/">Yang&#39;s Kitchen
+
+
+
+
+
+</a></div>
+
+            <div class="metadata">
+                <div class="meta"><i class="fas fa-globe icons" title="Locale"><a href="/lax">LAX</a></i>
+                    </div>
+
+                
+                    <div class="meta neighborhood">
+                        <i class="fas fa-home icons" title="Neighborhood">
                         
-                        <a href="/lax/neighborhood/alhambra">Alhambra</a>
+                            
+                            <a href="/lax/neighborhood/alhambra">Alhambra</a>
+                            
+                            <a href="/lax/neighborhood/sgv">SGV</a></i> 
+                    </div>
+                
+
+                
+                
+                
+                
+
+                
+                
+                <div class="meta cuisine">
+                        <i class="fas fa-utensils icons" title="Cuisine">
                         
-                        <a href="/lax/neighborhood/sgv">SGV</a></div>
-            
+                            <a href="/lax/cuisine/taiwanese">Taiwanese</a>
+                            <a href="/lax/cuisine/new-american">New American</a></i>
+                    </div><div class="meta yelp">
+                        <i class="fab fa-yelp icons" title="Yelp"><a href="https://www.yelp.com/biz/yang-s-kitchen-alhambra">Yelp</a></i>
+                    </div><div class="meta map">
+                        <i class="fas fa-map-marker-alt icons" title="Map"><a href="https://goo.gl/maps/kLgEod4fXoMcwXjX6?coh=178572&amp;entry=tt">Google</a></i>
+                    </div><div class="meta link">
+                    <i class="fas fa-link icons"><a href="https://www.yangskitchenla.com/">Webpage</a></i>
+                </div></div>
 
-            
-            
-            
-            
-
-            
-            
-            <div class="meta cuisine">
-                    <i class="fas fa-utensils icons" title="Cuisine"></i>
-                    
-                        <a href="/lax/cuisine/taiwanese">Taiwanese</a>
-                        <a href="/lax/cuisine/new-american">New American</a></div><div class="meta yelp">
-                    <i class="fab fa-yelp icons" title="Yelp"></i> <a href="https://www.yelp.com/biz/yang-s-kitchen-alhambra">Yelp</a>
-                </div><div class="meta map">
-                    <i class="fas fa-map-marker-alt icons" title="Map"></i> <a href="https://goo.gl/maps/kLgEod4fXoMcwXjX6?coh=178572&amp;entry=tt">Google</a>
-                </div><div class="meta friends">
-                            <i class="fas fa-user-friends" title="Friends"></i> <a href="/friends/jye">jye</a></div><div class="posted">Posted April 16, 2023</div>
+            <div class="posted">Posted April 16, 2023</div>
 
             
 
@@ -505,495 +534,56 @@ if (!doNotTrack) {
 
 
 
-<section class="tags group">
-    <section class="title">NEIGHBORHOODS</section>
-    <section class="neighborhoods">
-        <section class="tag">
-            <ul><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/alhambra/">Alhambra</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/anaheim/">Anaheim</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/beverly-grove/">Beverly Grove</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/beverly-hills/">Beverly Hills</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/century-city/">Century City</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/culver-city/">Culver City</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/disneyland/">Disneyland</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/disneyland-california-adventure/">Disneyland California Adventure</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/downtown/">Downtown</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/el-monte/">El Monte</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/el-segundo/">El Segundo</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/fairfax/">Fairfax</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/hancock-park/">Hancock Park</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/koreatown/">Koreatown</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/little-tokyo/">Little Tokyo</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/palms/">Palms</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/pasadena/">Pasadena</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/pico/">Pico</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/santa-monica/">Santa Monica</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/sawtelle/">Sawtelle</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/sgv/">SGV</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/silver-lake/">Silver Lake</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/studio-city/">Studio City</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/torrance/">Torrance</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/west-la/">West LA</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/whittier/">Whittier</a></li></ul>
+<section class="group">
+    <section class="tags">
+        <section class="title">
+            <div>NEIGHBORHOODS</div>
+        </section>
+        <section class="neighborhoods">
+            <section class="tag">
+                <ul><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/alhambra/">Alhambra</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/anaheim/">Anaheim</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/beverly-grove/">Beverly Grove</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/beverly-hills/">Beverly Hills</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/century-city/">Century City</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/culver-city/">Culver City</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/disneyland/">Disneyland</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/disneyland-california-adventure/">Disneyland California Adventure</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/downtown/">Downtown</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/el-monte/">El Monte</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/el-segundo/">El Segundo</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/fairfax/">Fairfax</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/hancock-park/">Hancock Park</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/koreatown/">Koreatown</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/little-tokyo/">Little Tokyo</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/palms/">Palms</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/pasadena/">Pasadena</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/pico/">Pico</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/santa-monica/">Santa Monica</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/sawtelle/">Sawtelle</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/sgv/">SGV</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/silver-lake/">Silver Lake</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/studio-city/">Studio City</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/torrance/">Torrance</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/west-la/">West LA</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/neighborhood/whittier/">Whittier</a></li></ul>
+            </section>
         </section>
     </section>
 </section>
 
-<section class="tags group">
-    <section class="title">CUISINES</section>
-    <section class="cuisines">
-        <section class="tag">
-            <ul>
-                <li><a class="taxoterm" href=https://www.gourmandsyndrome.com/lax/cuisine/michelin-1/>One Michelin Star</a></li><li><a class="taxoterm" href=https://www.gourmandsyndrome.com/lax/cuisine/michelin-2/>Two Michelin Stars</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/2014-expedition/">2014 Expedition</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/african/">African</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/asian-fusion/">Asian Fusion</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/british/">British</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/chinese/">Chinese</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/dim-sum/">Dim Sum</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/disney/">Disney</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/french/">French</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/gastropub/">Gastropub</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/halal/">Halal</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/japanese/">Japanese</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/kaiseki/">Kaiseki</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/korean/">Korean</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/lomo-saltado/">Lomo Saltado</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/mediterranean/">Mediterranean</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/mexican/">Mexican</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/michelin-star/">Michelin Star</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/new-american/">New American</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/peruvian/">Peruvian</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/pizza/">Pizza</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/ramen/">Ramen</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/seafood/">Seafood</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/spanish/">Spanish</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/special-tasting/">Special Tasting</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/steak/">Steak</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/sushi/">Sushi</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/taiwanese/">Taiwanese</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/tapas/">Tapas</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/tastings/">Tastings</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/vietnamese/">Vietnamese</a></li><ul>
+<section class="group">
+    <section class="tags">
+        <section class="title">
+            <div>CUISINES</div>
+        </section>
+        <section class="cuisines">
+            <section class="tag">
+                <ul>
+                    <li><a class="taxoterm" href=https://www.gourmandsyndrome.com/lax/cuisine/michelin-1/>One Michelin Star</a></li><li><a class="taxoterm" href=https://www.gourmandsyndrome.com/lax/cuisine/michelin-2/>Two Michelin Stars</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/2014-expedition/">2014 Expedition</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/african/">African</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/asian-fusion/">Asian Fusion</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/british/">British</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/chinese/">Chinese</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/dim-sum/">Dim Sum</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/disney/">Disney</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/french/">French</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/gastropub/">Gastropub</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/halal/">Halal</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/japanese/">Japanese</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/kaiseki/">Kaiseki</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/korean/">Korean</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/lomo-saltado/">Lomo Saltado</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/mediterranean/">Mediterranean</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/mexican/">Mexican</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/michelin-star/">Michelin Star</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/new-american/">New American</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/peruvian/">Peruvian</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/pizza/">Pizza</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/ramen/">Ramen</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/seafood/">Seafood</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/spanish/">Spanish</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/special-tasting/">Special Tasting</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/steak/">Steak</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/sushi/">Sushi</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/taiwanese/">Taiwanese</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/tapas/">Tapas</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/tastings/">Tastings</a></li><li><a class="taxoterm" href="https://www.gourmandsyndrome.com/lax/cuisine/vietnamese/">Vietnamese</a></li><ul>
+            </section>
         </section>
     </section>
 </section>
 
-<section class="posts group">
-    <section class="title">NEW POSTS</section>
-    
-        <section class="post">
-            <div class="title">
-                <a href="https://www.gourmandsyndrome.com/lax/carthay-circle/">Carthay Circle</a>
-                <div class="posted">Posted Apr 17, 2023</div>
-            </div>
-            
-            
-            
+<section class="group">
+    <section class="posts">
+        <section class="title">
+            <div>NEW POSTS</div>
+        </section>
+        
+            <section class="post group-item">
 
-            
-            
-            
-                <div class="meta neighborhood">
-                    <i class="fas fa-home icons"></i> 
-                    
-                    <a href="/lax/neighborhood/anaheim">Anaheim</a>
-                    <a href="/lax/neighborhood/disneyland-california-adventure">Disneyland California Adventure</a></div>
-            
+                
+                
 
-            
-            
-            
-                <div class="meta cuisine">
-                    <i class="fas fa-utensils icons"></i> 
-                    
-                        <a href="/lax/cuisine/new-american">New American</a>
-                        <a href="/lax/cuisine/disney">Disney</a>
-                </div>
-            
-                <div class="meta yelp">
-                    <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/carthay-circle-restaurant-anaheim-4">Yelp</a>
-                </div>
-            
-                <div class="meta map">
-                    <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/KX2qvqPAxe1buT139?coh=178572&amp;entry=tt">Google</a>
-                </div>
-            </section>
-    
-        <section class="post">
-            <div class="title">
-                <a href="https://www.gourmandsyndrome.com/lax/xecora/">Xécora</a>
-                <div class="posted">Posted Apr 16, 2023</div>
-            </div>
-            
-            
-            
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/lax/carthay-circle/">Carthay Circle
 
-            
-            
-            
-                <div class="meta neighborhood">
-                    <i class="fas fa-home icons"></i> 
-                    
-                    <a href="/lax/neighborhood/el-monte">El Monte</a>
-                    <a href="/lax/neighborhood/sgv">SGV</a></div>
-            
 
-            
-            
-            
-                <div class="meta cuisine">
-                    <i class="fas fa-utensils icons"></i> 
-                    
-                        <a href="/lax/cuisine/mexican">Mexican</a>
-                </div>
-            
-                <div class="meta yelp">
-                    <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/xecora-gastronomia-urbana-el-monte-3">Yelp</a>
-                </div>
-            
-                <div class="meta map">
-                    <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/2NzcejRqF3YY6Kcj8?coh=178572&amp;entry=tt">Google</a>
-                </div>
-            </section>
-    
-        <section class="post">
-            <div class="title">
-                <a href="https://www.gourmandsyndrome.com/lax/yangs-kitchen/">Yang&#39;s Kitchen</a>
-                <div class="posted">Posted Apr 16, 2023</div>
-            </div>
-            
-            
-            
 
-            
-            
-            
-                <div class="meta neighborhood">
-                    <i class="fas fa-home icons"></i> 
-                    
-                    <a href="/lax/neighborhood/alhambra">Alhambra</a>
-                    <a href="/lax/neighborhood/sgv">SGV</a></div>
-            
 
-            
-            
-            
-                <div class="meta cuisine">
-                    <i class="fas fa-utensils icons"></i> 
-                    
-                        <a href="/lax/cuisine/taiwanese">Taiwanese</a>
-                        <a href="/lax/cuisine/new-american">New American</a>
-                </div>
-            
-                <div class="meta yelp">
-                    <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/yang-s-kitchen-alhambra">Yelp</a>
-                </div>
-            
-                <div class="meta map">
-                    <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/kLgEod4fXoMcwXjX6?coh=178572&amp;entry=tt">Google</a>
-                </div>
-            </section>
-    
-        <section class="post">
-            <div class="title">
-                <a href="https://www.gourmandsyndrome.com/lax/shiro/">Shiro</a>
-                <div class="posted">Posted Feb 28, 2019</div>
-            </div>
-            
-            
-            
 
-            
-            
-            
-                <div class="meta neighborhood">
-                    <i class="fas fa-home icons"></i> 
-                    
-                    <a href="/lax/neighborhood/pasadena">Pasadena</a></div>
-            
-
-            
-            
-            
-                <div class="meta cuisine">
-                    <i class="fas fa-utensils icons"></i> 
-                    
-                        <a href="/lax/cuisine/japanese">Japanese</a>
-                        <a href="/lax/cuisine/french">French</a>
+</a>
+                    <div class="posted">Posted Apr 17, 2023</div>
                 </div>
-            
-                <div class="meta yelp">
-                    <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/shiro-south-pasadena-2">Yelp</a>
-                </div>
-            
-                <div class="meta map">
-                    <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/PsSeR719ftP2">Google</a>
-                </div>
-            </section>
-    
-        <section class="post">
-            <div class="title">
-                <a href="https://www.gourmandsyndrome.com/lax/marios-peruvian-and-seafood/">Mario&#39;s Peruvian &amp; Seafood</a>
-                <div class="posted">Posted Feb 27, 2019</div>
-            </div>
-            
-            
-            
 
-            
-            
-            
-                <div class="meta neighborhood">
-                    <i class="fas fa-home icons"></i> 
-                    
-                    <a href="/lax/neighborhood/hancock-park">Hancock Park</a></div>
-            
-
-            
-            
-            
-                <div class="meta cuisine">
-                    <i class="fas fa-utensils icons"></i> 
-                    
-                        <a href="/lax/cuisine/peruvian">Peruvian</a>
-                        <a href="/lax/cuisine/lomo-saltado">Lomo Saltado</a>
-                </div>
-            
-                <div class="meta yelp">
-                    <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/marios-peruvian-and-seafood-los-angeles">Yelp</a>
-                </div>
-            
-                <div class="meta map">
-                    <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/gntxoRmkSC32">Google</a>
-                </div>
-            </section>
-    
-        <section class="post">
-            <div class="title">
-                <a href="https://www.gourmandsyndrome.com/lax/napa-rose/">Napa Rose</a>
-                <div class="posted">Posted Feb 25, 2019</div>
-            </div>
-            
-            
-            
-
-            
-            
-            
-                <div class="meta neighborhood">
-                    <i class="fas fa-home icons"></i> 
-                    
-                    <a href="/lax/neighborhood/anaheim">Anaheim</a>
-                    <a href="/lax/neighborhood/disneyland">Disneyland</a></div>
-            
-
-            
-            
-            
-                <div class="meta cuisine">
-                    <i class="fas fa-utensils icons"></i> 
-                    
-                        <a href="/lax/cuisine/new-american">New American</a>
-                        <a href="/lax/cuisine/disney">Disney</a>
-                </div>
-            
-                <div class="meta yelp">
-                    <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/napa-rose-anaheim">Yelp</a>
-                </div>
-            
-                <div class="meta map">
-                    <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/btBHJBo1Ccq">Google</a>
-                </div>
-            </section>
-    
-        <section class="post">
-            <div class="title">
-                <a href="https://www.gourmandsyndrome.com/lax/bistro-nas/">Bistro Na&#39;s</a>
-                <div class="posted">Posted Feb 24, 2019</div>
-            </div>
-            
-            
-            
-
-            
-            
-            
-                <div class="meta neighborhood">
-                    <i class="fas fa-home icons"></i> 
-                    
-                    <a href="/lax/neighborhood/sgv">SGV</a></div>
-            
-
-            
-            
-            
-                <div class="meta cuisine">
-                    <i class="fas fa-utensils icons"></i> 
-                    
-                        <a href="/lax/cuisine/chinese">Chinese</a>
-                        <a href="/lax/cuisine/michelin-star">Michelin Star</a>
-                        <a href="/lax/cuisine/michelin-1">Michelin (1)</a>
-                </div>
-            
-                <div class="meta yelp">
-                    <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/bistro-nas-temple-city-10">Yelp</a>
-                </div>
-            
-                <div class="meta map">
-                    <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/iJbAGyKZ33p">Google</a>
-                </div>
-            </section>
-    
-        <section class="post">
-            <div class="title">
-                <a href="https://www.gourmandsyndrome.com/lax/maude-6/">Maude (Truffles)</a>
-                <div class="posted">Posted Nov 8, 2014</div>
-            </div>
-            
-            
-            
-
-            
-            
-            
-                <div class="meta neighborhood">
-                    <i class="fas fa-home icons"></i> 
-                    
-                    <a href="/lax/neighborhood/beverly-hills">Beverly Hills</a></div>
-            
-
-            
-            
-            
-                <div class="meta cuisine">
-                    <i class="fas fa-utensils icons"></i> 
-                    
-                        <a href="/lax/cuisine/new-american">New American</a>
-                        <a href="/lax/cuisine/tastings">Tastings</a>
-                        <a href="/lax/cuisine/michelin-star">Michelin Star</a>
-                        <a href="/lax/cuisine/michelin-1">Michelin (1)</a>
-                </div>
-            
-                <div class="meta yelp">
-                    <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/maude-beverly-hills">Yelp</a>
-                </div>
-            
-                <div class="meta map">
-                    <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/nHfEevN5imuwjRoQ8">Google</a>
-                </div>
-            </section>
-    
-        <section class="post">
-            <div class="title">
-                <a href="https://www.gourmandsyndrome.com/lax/maude-5/">Maude (Pear)</a>
-                <div class="posted">Posted Oct 15, 2014</div>
-            </div>
-            
-            
-            
-
-            
-            
-            
-                <div class="meta neighborhood">
-                    <i class="fas fa-home icons"></i> 
-                    
-                    <a href="/lax/neighborhood/beverly-hills">Beverly Hills</a></div>
-            
-
-            
-            
-            
-                <div class="meta cuisine">
-                    <i class="fas fa-utensils icons"></i> 
-                    
-                        <a href="/lax/cuisine/new-american">New American</a>
-                        <a href="/lax/cuisine/tastings">Tastings</a>
-                        <a href="/lax/cuisine/michelin-star">Michelin Star</a>
-                        <a href="/lax/cuisine/michelin-1">Michelin (1)</a>
-                </div>
-            
-                <div class="meta yelp">
-                    <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/maude-beverly-hills">Yelp</a>
-                </div>
-            
-                <div class="meta map">
-                    <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/nHfEevN5imuwjRoQ8">Google</a>
-                </div>
-            </section>
-    
-        <section class="post">
-            <div class="title">
-                <a href="https://www.gourmandsyndrome.com/lax/maude-4/">Maude (Tomatoes)</a>
-                <div class="posted">Posted Sep 5, 2014</div>
-            </div>
-            
-            
-            
-
-            
-            
-            
-                <div class="meta neighborhood">
-                    <i class="fas fa-home icons"></i> 
-                    
-                    <a href="/lax/neighborhood/beverly-hills">Beverly Hills</a></div>
-            
-
-            
-            
-            
-                <div class="meta cuisine">
-                    <i class="fas fa-utensils icons"></i> 
-                    
-                        <a href="/lax/cuisine/new-american">New American</a>
-                        <a href="/lax/cuisine/tastings">Tastings</a>
-                        <a href="/lax/cuisine/michelin-star">Michelin Star</a>
-                        <a href="/lax/cuisine/michelin-1">Michelin (1)</a>
-                </div>
-            
-                <div class="meta yelp">
-                    <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/maude-beverly-hills">Yelp</a>
-                </div>
-            
-                <div class="meta map">
-                    <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/nHfEevN5imuwjRoQ8">Google</a>
-                </div>
-            </section>
-    
-</section>
-
-<section class="posts group">
-
-    
-        
-    
-
-    
-    
-        
-            
-            
-        
-        
-        
-        
-            
-            
-        
-            
-            
-        
-            
-            
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-            
-            
-        
-        
-        
-        
-        
-        
-        
-
-    
-
-    
-
-    <section class="title">UPDATED POSTS</section>
-
-            
-            
-                <section class="post">
-                    <div class="title">
-                        <a href="https://www.gourmandsyndrome.com/lax/napa-rose/">Napa Rose</a> 
-                        <div class="last-modified">Revised Apr 18, 2023</div>
-                    </div>
-
+                <div class="metadata">
                     
                     
                     
@@ -1002,40 +592,664 @@ if (!doNotTrack) {
                     
                     
                         <div class="meta neighborhood">
-                            <i class="fas fa-home icons"></i> 
+                            <i class="fas fa-home icons">
+                            
+                            <a href="/lax/neighborhood/anaheim">Anaheim</a>
+                            <a href="/lax/neighborhood/disneyland-california-adventure">Disneyland California Adventure</a></i> 
+                        </div>
+                    
+
+                    
+                    
+                    
+                        <div class="meta cuisine">
+                            <i class="fas fa-utensils icons">
+                            
+                                <a href="/lax/cuisine/new-american">New American</a>
+                                <a href="/lax/cuisine/disney">Disney</a>
+                            </i> 
+                        </div>
+                    
+                        <div class="meta yelp">
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/carthay-circle-restaurant-anaheim-4">Yelp</a></i>
+                        </div>
+                    
+                        <div class="meta map">
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/KX2qvqPAxe1buT139?coh=178572&amp;entry=tt">Google</a></i> 
+                        </div>
+                    </div>
+            </section>
+        
+            <section class="post group-item">
+
+                
+                
+
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/lax/xecora/">Xécora
+
+
+
+
+
+</a>
+                    <div class="posted">Posted Apr 16, 2023</div>
+                </div>
+
+                <div class="metadata">
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        <div class="meta neighborhood">
+                            <i class="fas fa-home icons">
+                            
+                            <a href="/lax/neighborhood/el-monte">El Monte</a>
+                            <a href="/lax/neighborhood/sgv">SGV</a></i> 
+                        </div>
+                    
+
+                    
+                    
+                    
+                        <div class="meta cuisine">
+                            <i class="fas fa-utensils icons">
+                            
+                                <a href="/lax/cuisine/mexican">Mexican</a>
+                            </i> 
+                        </div>
+                    
+                        <div class="meta yelp">
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/xecora-gastronomia-urbana-el-monte-3">Yelp</a></i>
+                        </div>
+                    
+                        <div class="meta map">
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/2NzcejRqF3YY6Kcj8?coh=178572&amp;entry=tt">Google</a></i> 
+                        </div>
+                    </div>
+            </section>
+        
+            <section class="post group-item">
+
+                
+                
+
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/lax/yangs-kitchen/">Yang&#39;s Kitchen
+
+
+
+
+
+</a>
+                    <div class="posted">Posted Apr 16, 2023</div>
+                </div>
+
+                <div class="metadata">
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        <div class="meta neighborhood">
+                            <i class="fas fa-home icons">
+                            
+                            <a href="/lax/neighborhood/alhambra">Alhambra</a>
+                            <a href="/lax/neighborhood/sgv">SGV</a></i> 
+                        </div>
+                    
+
+                    
+                    
+                    
+                        <div class="meta cuisine">
+                            <i class="fas fa-utensils icons">
+                            
+                                <a href="/lax/cuisine/taiwanese">Taiwanese</a>
+                                <a href="/lax/cuisine/new-american">New American</a>
+                            </i> 
+                        </div>
+                    
+                        <div class="meta yelp">
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/yang-s-kitchen-alhambra">Yelp</a></i>
+                        </div>
+                    
+                        <div class="meta map">
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/kLgEod4fXoMcwXjX6?coh=178572&amp;entry=tt">Google</a></i> 
+                        </div>
+                    </div>
+            </section>
+        
+            <section class="post group-item">
+
+                
+                
+
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/lax/shiro/">Shiro
+
+
+
+
+
+</a>
+                    <div class="posted">Posted Feb 28, 2019</div>
+                </div>
+
+                <div class="metadata">
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        <div class="meta neighborhood">
+                            <i class="fas fa-home icons">
+                            
+                            <a href="/lax/neighborhood/pasadena">Pasadena</a></i> 
+                        </div>
+                    
+
+                    
+                    
+                    
+                        <div class="meta cuisine">
+                            <i class="fas fa-utensils icons">
+                            
+                                <a href="/lax/cuisine/japanese">Japanese</a>
+                                <a href="/lax/cuisine/french">French</a>
+                            </i> 
+                        </div>
+                    
+                        <div class="meta yelp">
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/shiro-south-pasadena-2">Yelp</a></i>
+                        </div>
+                    
+                        <div class="meta map">
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/PsSeR719ftP2">Google</a></i> 
+                        </div>
+                    </div>
+            </section>
+        
+            <section class="post group-item">
+
+                
+                
+
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/lax/marios-peruvian-and-seafood/">Mario&#39;s Peruvian &amp; Seafood
+
+
+
+
+
+</a>
+                    <div class="posted">Posted Feb 27, 2019</div>
+                </div>
+
+                <div class="metadata">
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        <div class="meta neighborhood">
+                            <i class="fas fa-home icons">
+                            
+                            <a href="/lax/neighborhood/hancock-park">Hancock Park</a></i> 
+                        </div>
+                    
+
+                    
+                    
+                    
+                        <div class="meta cuisine">
+                            <i class="fas fa-utensils icons">
+                            
+                                <a href="/lax/cuisine/peruvian">Peruvian</a>
+                                <a href="/lax/cuisine/lomo-saltado">Lomo Saltado</a>
+                            </i> 
+                        </div>
+                    
+                        <div class="meta yelp">
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/marios-peruvian-and-seafood-los-angeles">Yelp</a></i>
+                        </div>
+                    
+                        <div class="meta map">
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/gntxoRmkSC32">Google</a></i> 
+                        </div>
+                    </div>
+            </section>
+        
+            <section class="post group-item">
+
+                
+                
+
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/lax/napa-rose/">Napa Rose
+
+
+
+
+
+</a>
+                    <div class="posted">Posted Feb 25, 2019</div>
+                </div>
+
+                <div class="metadata">
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        <div class="meta neighborhood">
+                            <i class="fas fa-home icons">
+                            
+                            <a href="/lax/neighborhood/anaheim">Anaheim</a>
+                            <a href="/lax/neighborhood/disneyland">Disneyland</a></i> 
+                        </div>
+                    
+
+                    
+                    
+                    
+                        <div class="meta cuisine">
+                            <i class="fas fa-utensils icons">
+                            
+                                <a href="/lax/cuisine/new-american">New American</a>
+                                <a href="/lax/cuisine/disney">Disney</a>
+                            </i> 
+                        </div>
+                    
+                        <div class="meta yelp">
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/napa-rose-anaheim">Yelp</a></i>
+                        </div>
+                    
+                        <div class="meta map">
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/btBHJBo1Ccq">Google</a></i> 
+                        </div>
+                    </div>
+            </section>
+        
+            <section class="post group-item">
+
+                
+                
+
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/lax/bistro-nas/">Bistro Na&#39;s
+
+
+
+
+
+<i class="gsi gsi-michelin-star"></i></a>
+                    <div class="posted">Posted Feb 24, 2019</div>
+                </div>
+
+                <div class="metadata">
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        <div class="meta neighborhood">
+                            <i class="fas fa-home icons">
+                            
+                            <a href="/lax/neighborhood/sgv">SGV</a></i> 
+                        </div>
+                    
+
+                    
+                    
+                    
+                        <div class="meta cuisine">
+                            <i class="fas fa-utensils icons">
+                            
+                                <a href="/lax/cuisine/chinese">Chinese</a>
+                                <a href="/lax/cuisine/michelin-star">Michelin Star</a>
+                                <a href="/lax/cuisine/michelin-1">Michelin (1)</a>
+                            </i> 
+                        </div>
+                    
+                        <div class="meta yelp">
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/bistro-nas-temple-city-10">Yelp</a></i>
+                        </div>
+                    
+                        <div class="meta map">
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/iJbAGyKZ33p">Google</a></i> 
+                        </div>
+                    </div>
+            </section>
+        
+            <section class="post group-item">
+
+                
+                
+
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/lax/maude-6/">Maude (Truffles)
+
+
+
+
+
+<i class="gsi gsi-michelin-star"></i></a>
+                    <div class="posted">Posted Nov 8, 2014</div>
+                </div>
+
+                <div class="metadata">
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        <div class="meta neighborhood">
+                            <i class="fas fa-home icons">
+                            
+                            <a href="/lax/neighborhood/beverly-hills">Beverly Hills</a></i> 
+                        </div>
+                    
+
+                    
+                    
+                    
+                        <div class="meta cuisine">
+                            <i class="fas fa-utensils icons">
+                            
+                                <a href="/lax/cuisine/new-american">New American</a>
+                                <a href="/lax/cuisine/tastings">Tastings</a>
+                                <a href="/lax/cuisine/michelin-star">Michelin Star</a>
+                                <a href="/lax/cuisine/michelin-1">Michelin (1)</a>
+                            </i> 
+                        </div>
+                    
+                        <div class="meta yelp">
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/maude-beverly-hills">Yelp</a></i>
+                        </div>
+                    
+                        <div class="meta map">
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/nHfEevN5imuwjRoQ8">Google</a></i> 
+                        </div>
+                    </div>
+            </section>
+        
+            <section class="post group-item">
+
+                
+                
+
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/lax/maude-5/">Maude (Pear)
+
+
+
+
+
+<i class="gsi gsi-michelin-star"></i></a>
+                    <div class="posted">Posted Oct 15, 2014</div>
+                </div>
+
+                <div class="metadata">
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        <div class="meta neighborhood">
+                            <i class="fas fa-home icons">
+                            
+                            <a href="/lax/neighborhood/beverly-hills">Beverly Hills</a></i> 
+                        </div>
+                    
+
+                    
+                    
+                    
+                        <div class="meta cuisine">
+                            <i class="fas fa-utensils icons">
+                            
+                                <a href="/lax/cuisine/new-american">New American</a>
+                                <a href="/lax/cuisine/tastings">Tastings</a>
+                                <a href="/lax/cuisine/michelin-star">Michelin Star</a>
+                                <a href="/lax/cuisine/michelin-1">Michelin (1)</a>
+                            </i> 
+                        </div>
+                    
+                        <div class="meta yelp">
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/maude-beverly-hills">Yelp</a></i>
+                        </div>
+                    
+                        <div class="meta map">
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/nHfEevN5imuwjRoQ8">Google</a></i> 
+                        </div>
+                    </div>
+            </section>
+        
+            <section class="post group-item">
+
+                
+                
+
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/lax/maude-4/">Maude (Tomatoes)
+
+
+
+
+
+<i class="gsi gsi-michelin-star"></i></a>
+                    <div class="posted">Posted Sep 5, 2014</div>
+                </div>
+
+                <div class="metadata">
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        <div class="meta neighborhood">
+                            <i class="fas fa-home icons">
+                            
+                            <a href="/lax/neighborhood/beverly-hills">Beverly Hills</a></i> 
+                        </div>
+                    
+
+                    
+                    
+                    
+                        <div class="meta cuisine">
+                            <i class="fas fa-utensils icons">
+                            
+                                <a href="/lax/cuisine/new-american">New American</a>
+                                <a href="/lax/cuisine/tastings">Tastings</a>
+                                <a href="/lax/cuisine/michelin-star">Michelin Star</a>
+                                <a href="/lax/cuisine/michelin-1">Michelin (1)</a>
+                            </i> 
+                        </div>
+                    
+                        <div class="meta yelp">
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/maude-beverly-hills">Yelp</a></i>
+                        </div>
+                    
+                        <div class="meta map">
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/nHfEevN5imuwjRoQ8">Google</a></i> 
+                        </div>
+                    </div>
+            </section>
+        
+    </section>
+</section>
+
+
+    
+
+
+
+
+    
+        
+        
+    
+    
+    
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+    
+    
+    
+    
+    
+    
+    
+
+<section class="group">
+    <section class="posts">
+        <section class="title">
+            <div>UPDATED POSTS</div>
+        </section>
+
+        
+        
+            <section class="post group-item">
+
+                
+                
+
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/lax/napa-rose/">Napa Rose
+
+
+
+
+
+</a>
+                    <div class="last-modified">Revised Apr 18, 2023</div>
+                </div>
+
+                <div class="metadata">
+                    
+                    
+                    
+
+                    
+                    
+                    
+                        <div class="meta neighborhood">
+                            <i class="fas fa-home icons">
                             
                             
                                 
                                 <a href="/lax/neighborhood/anaheim">Anaheim</a>
                                 
-                                <a href="/lax/neighborhood/disneyland">Disneyland</a></div>
+                                <a href="/lax/neighborhood/disneyland">Disneyland</a></i> 
+                        </div>
                     
 
                     
                     
                     
                         <div class="meta cuisine">
-                            <i class="fas fa-utensils icons"></i> 
+                            <i class="fas fa-utensils icons">
                             
                                 <a href="/lax/cuisine/new-american">New American</a>
                                 <a href="/lax/cuisine/disney">Disney</a>
+                            </i> 
                         </div>
                     
                         <div class="meta yelp">
-                            <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/napa-rose-anaheim">Yelp</a>
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/napa-rose-anaheim">Yelp</a></i>
                         </div>
                     
                         <div class="meta map">
-                            <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/btBHJBo1Ccq">Google</a>
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/btBHJBo1Ccq">Google</a></i>
                         </div>
-                    </section>
-            
-                <section class="post">
-                    <div class="title">
-                        <a href="https://www.gourmandsyndrome.com/lax/bistro-nas/">Bistro Na&#39;s</a> 
-                        <div class="last-modified">Revised Jun 10, 2019</div>
                     </div>
+            </section>
+        
+            <section class="post group-item">
 
+                
+                
+
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/lax/bistro-nas/">Bistro Na&#39;s
+
+
+
+
+
+<i class="gsi gsi-michelin-star"></i></a>
+                    <div class="last-modified">Revised Jun 10, 2019</div>
+                </div>
+
+                <div class="metadata">
                     
                     
                     
@@ -1044,39 +1258,53 @@ if (!doNotTrack) {
                     
                     
                         <div class="meta neighborhood">
-                            <i class="fas fa-home icons"></i> 
+                            <i class="fas fa-home icons">
                             
                             
                                 
-                                <a href="/lax/neighborhood/sgv">SGV</a></div>
+                                <a href="/lax/neighborhood/sgv">SGV</a></i> 
+                        </div>
                     
 
                     
                     
                     
                         <div class="meta cuisine">
-                            <i class="fas fa-utensils icons"></i> 
+                            <i class="fas fa-utensils icons">
                             
                                 <a href="/lax/cuisine/chinese">Chinese</a>
                                 <a href="/lax/cuisine/michelin-star">Michelin Star</a>
                                 <a href="/lax/cuisine/michelin-1">Michelin (1)</a>
+                            </i> 
                         </div>
                     
                         <div class="meta yelp">
-                            <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/bistro-nas-temple-city-10">Yelp</a>
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/bistro-nas-temple-city-10">Yelp</a></i>
                         </div>
                     
                         <div class="meta map">
-                            <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/iJbAGyKZ33p">Google</a>
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/iJbAGyKZ33p">Google</a></i>
                         </div>
-                    </section>
-            
-                <section class="post">
-                    <div class="title">
-                        <a href="https://www.gourmandsyndrome.com/lax/shiro/">Shiro</a> 
-                        <div class="last-modified">Revised Apr 12, 2019</div>
                     </div>
+            </section>
+        
+            <section class="post group-item">
 
+                
+                
+
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/lax/shiro/">Shiro
+
+
+
+
+
+</a>
+                    <div class="last-modified">Revised Apr 12, 2019</div>
+                </div>
+
+                <div class="metadata">
                     
                     
                     
@@ -1085,38 +1313,52 @@ if (!doNotTrack) {
                     
                     
                         <div class="meta neighborhood">
-                            <i class="fas fa-home icons"></i> 
+                            <i class="fas fa-home icons">
                             
                             
                                 
-                                <a href="/lax/neighborhood/pasadena">Pasadena</a></div>
+                                <a href="/lax/neighborhood/pasadena">Pasadena</a></i> 
+                        </div>
                     
 
                     
                     
                     
                         <div class="meta cuisine">
-                            <i class="fas fa-utensils icons"></i> 
+                            <i class="fas fa-utensils icons">
                             
                                 <a href="/lax/cuisine/japanese">Japanese</a>
                                 <a href="/lax/cuisine/french">French</a>
+                            </i> 
                         </div>
                     
                         <div class="meta yelp">
-                            <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/shiro-south-pasadena-2">Yelp</a>
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/shiro-south-pasadena-2">Yelp</a></i>
                         </div>
                     
                         <div class="meta map">
-                            <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/PsSeR719ftP2">Google</a>
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/PsSeR719ftP2">Google</a></i>
                         </div>
-                    </section>
-            
-                <section class="post">
-                    <div class="title">
-                        <a href="https://www.gourmandsyndrome.com/lax/marios-peruvian-and-seafood/">Mario&#39;s Peruvian &amp; Seafood</a> 
-                        <div class="last-modified">Revised Mar 12, 2019</div>
                     </div>
+            </section>
+        
+            <section class="post group-item">
 
+                
+                
+
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/lax/marios-peruvian-and-seafood/">Mario&#39;s Peruvian &amp; Seafood
+
+
+
+
+
+</a>
+                    <div class="last-modified">Revised Mar 12, 2019</div>
+                </div>
+
+                <div class="metadata">
                     
                     
                     
@@ -1125,38 +1367,52 @@ if (!doNotTrack) {
                     
                     
                         <div class="meta neighborhood">
-                            <i class="fas fa-home icons"></i> 
+                            <i class="fas fa-home icons">
                             
                             
                                 
-                                <a href="/lax/neighborhood/hancock-park">Hancock Park</a></div>
+                                <a href="/lax/neighborhood/hancock-park">Hancock Park</a></i> 
+                        </div>
                     
 
                     
                     
                     
                         <div class="meta cuisine">
-                            <i class="fas fa-utensils icons"></i> 
+                            <i class="fas fa-utensils icons">
                             
                                 <a href="/lax/cuisine/peruvian">Peruvian</a>
                                 <a href="/lax/cuisine/lomo-saltado">Lomo Saltado</a>
+                            </i> 
                         </div>
                     
                         <div class="meta yelp">
-                            <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/marios-peruvian-and-seafood-los-angeles">Yelp</a>
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/marios-peruvian-and-seafood-los-angeles">Yelp</a></i>
                         </div>
                     
                         <div class="meta map">
-                            <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/gntxoRmkSC32">Google</a>
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/gntxoRmkSC32">Google</a></i>
                         </div>
-                    </section>
-            
-                <section class="post">
-                    <div class="title">
-                        <a href="https://www.gourmandsyndrome.com/lax/ramen-hayatemaru/">Ramen Hayatemaru</a> 
-                        <div class="last-modified">Revised Apr 8, 2013</div>
                     </div>
+            </section>
+        
+            <section class="post group-item">
 
+                
+                
+
+                <div class="title">
+                    <a href="https://www.gourmandsyndrome.com/lax/ramen-hayatemaru/">Ramen Hayatemaru
+
+
+
+
+
+</a>
+                    <div class="last-modified">Revised Apr 8, 2013</div>
+                </div>
+
+                <div class="metadata">
                     
                     
                     
@@ -1165,36 +1421,39 @@ if (!doNotTrack) {
                     
                     
                         <div class="meta neighborhood">
-                            <i class="fas fa-home icons"></i> 
+                            <i class="fas fa-home icons">
                             
                             
                                 
                                 <a href="/lax/neighborhood/torrance">Torrance</a>
                                 
-                                <a href="/lax/neighborhood/sawtelle">Sawtelle</a></div>
+                                <a href="/lax/neighborhood/sawtelle">Sawtelle</a></i> 
+                        </div>
                     
 
                     
                     
                     
                         <div class="meta cuisine">
-                            <i class="fas fa-utensils icons"></i> 
+                            <i class="fas fa-utensils icons">
                             
                                 <a href="/lax/cuisine/ramen">Ramen</a>
+                            </i> 
                         </div>
                     
                         <div class="meta yelp">
-                            <i class="fab fa-yelp icons"></i> <a href="https://www.yelp.com/biz/ramen-hayatemaru-torrance">Yelp</a>
+                            <i class="fab fa-yelp icons"><a href="https://www.yelp.com/biz/ramen-hayatemaru-torrance">Yelp</a></i>
                         </div>
                     
                         <div class="meta map">
-                            <i class="fas fa-map-marker-alt icons"></i> <a href="https://goo.gl/maps/2fhVB3WPJ1aGDtqJ6">Google</a>
+                            <i class="fas fa-map-marker-alt icons"><a href="https://goo.gl/maps/2fhVB3WPJ1aGDtqJ6">Google</a></i>
                         </div>
-                    </section>
-            
+                    </div>
+            </section>
         
-</section>
-    </section></section><footer>
+        
+    </section>
+</section></section></section><footer>
     <span>&copy; Gourmand Syndrome 2021-2023 | <a href="/stats">Stats</a> </span>
 </footer>
 
