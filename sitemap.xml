@@ -2,28 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/italian/aperitivo/</loc>
-    <lastmod>2023-09-08T19:11:50-04:00</lastmod>
+    <loc>https://www.gourmandsyndrome.com/nyc/himalayan/dawa/</loc>
+    <lastmod>2023-09-10T21:46:52-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2023-09-08T19:11:50-04:00</lastmod>
+    <lastmod>2023-09-14T15:42:48-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2023-09-08T19:11:50-04:00</lastmod>
+    <lastmod>2023-09-14T15:42:48-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2023-09-08T19:11:50-04:00</lastmod>
+    <lastmod>2023-09-14T15:42:48-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2023-09-08T19:11:50-04:00</lastmod>
+    <lastmod>2023-09-14T15:42:48-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2023-09-08T19:11:50-04:00</lastmod>
+    <lastmod>2023-09-14T15:42:48-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2023-09-08T19:11:50-04:00</lastmod>
+    <lastmod>2023-09-14T15:42:48-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2023-09-14T15:42:48-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/italian/aperitivo/</loc>
     <lastmod>2023-09-08T19:11:50-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/korean/bom/</loc>
@@ -699,7 +702,7 @@
     <lastmod>2020-02-28T18:50:28-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/italian/maiella/</loc>
-    <lastmod>2023-03-31T15:42:48-05:00</lastmod>
+    <lastmod>2023-09-14T15:42:48-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/thai/kor-tor-mor/</loc>
     <lastmod>2020-02-19T19:58:06-05:00</lastmod>
@@ -2274,6 +2277,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/hells-kitchen/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/himalayan/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/neighborhood/hollywood-studios/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/haw/neighborhood/honolulu/</loc>
@@ -2405,6 +2410,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/moroccan/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/murray-hill/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/nepalese/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/sea/cuisine/new-american/</loc>
   </url><url>
