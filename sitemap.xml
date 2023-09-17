@@ -2,29 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.gourmandsyndrome.com/nyc/himalayan/dawa/</loc>
-    <lastmod>2023-09-10T21:46:52-04:00</lastmod>
+    <loc>https://www.gourmandsyndrome.com/friends/</loc>
+    <lastmod>2023-09-15T12:04:40-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2023-09-14T15:42:48-05:00</lastmod>
+    <lastmod>2023-09-15T12:04:40-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/friends/jye/</loc>
+    <lastmod>2023-09-15T12:04:40-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2023-09-14T15:42:48-05:00</lastmod>
+    <lastmod>2023-09-15T12:04:40-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2023-09-14T15:42:48-05:00</lastmod>
+    <lastmod>2023-09-15T12:04:40-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2023-09-14T15:42:48-05:00</lastmod>
+    <lastmod>2023-09-15T12:04:40-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2023-09-14T15:42:48-05:00</lastmod>
+    <lastmod>2023-09-15T12:04:40-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2023-09-14T15:42:48-05:00</lastmod>
+    <lastmod>2023-09-15T12:04:40-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/</loc>
-    <lastmod>2023-09-14T15:42:48-05:00</lastmod>
+    <lastmod>2023-09-15T12:04:40-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/new-american/the-river-cafe/</loc>
+    <lastmod>2023-09-15T12:04:40-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/himalayan/dawa/</loc>
+    <lastmod>2023-09-10T21:46:52-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/italian/aperitivo/</loc>
     <lastmod>2023-09-08T19:11:50-04:00</lastmod>
@@ -95,9 +104,6 @@
     <loc>https://www.gourmandsyndrome.com/nyc/japanese/sake-bar-hagi/</loc>
     <lastmod>2023-05-06T16:52:29-04:00</lastmod>
   </url><url>
-    <loc>https://www.gourmandsyndrome.com/friends/</loc>
-    <lastmod>2023-04-30T17:02:54-04:00</lastmod>
-  </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/haw/</loc>
     <lastmod>2023-04-30T17:02:54-04:00</lastmod>
   </url><url>
@@ -108,9 +114,6 @@
     <lastmod>2023-04-30T17:02:54-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/haw/</loc>
-    <lastmod>2023-04-30T17:02:54-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/friends/jye/</loc>
     <lastmod>2023-04-30T17:02:54-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/haw/makahiki-dinner/</loc>
@@ -2210,6 +2213,8 @@
     <loc>https://www.gourmandsyndrome.com/lax/neighborhood/downtown/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/downtown-brooklyn/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/dumbo/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/east-village/</loc>
   </url><url>

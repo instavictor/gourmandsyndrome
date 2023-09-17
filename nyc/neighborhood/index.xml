@@ -6,7 +6,7 @@
     <description>Recent content in Nyc/Neighborhood on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Sep 2023 21:46:52 -0400</lastBuildDate><atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Sep 2023 12:04:40 -0400</lastBuildDate><atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alphabet City</title>
       <link>https://www.gourmandsyndrome.com/nyc/neighborhood/alphabet-city/</link>
@@ -85,6 +85,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/downtown-brooklyn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dumbo</title>
+      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/dumbo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/dumbo/</guid>
       <description></description>
     </item>
     
@@ -220,15 +229,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/lic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Midtown</title>
-      <link>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/neighborhood/midtown/</guid>
       <description></description>
     </item>
     
