@@ -2,31 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.gourmandsyndrome.com/</loc>
+    <lastmod>2023-09-22T13:37:57-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/locale/</loc>
+    <lastmod>2023-09-22T13:37:57-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/persian/nasrins-kitchen/</loc>
+    <lastmod>2023-09-22T13:37:57-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
+    <lastmod>2023-09-22T13:37:57-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
+    <lastmod>2023-09-22T13:37:57-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
+    <lastmod>2023-09-22T13:37:57-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
+    <lastmod>2023-09-22T13:37:57-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2023-09-22T13:37:57-04:00</lastmod>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/friends/</loc>
     <lastmod>2023-09-16T11:56:19-04:00</lastmod>
   </url><url>
-    <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2023-09-16T11:56:19-04:00</lastmod>
-  </url><url>
     <loc>https://www.gourmandsyndrome.com/friends/jye/</loc>
-    <lastmod>2023-09-16T11:56:19-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2023-09-16T11:56:19-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2023-09-16T11:56:19-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2023-09-16T11:56:19-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2023-09-16T11:56:19-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2023-09-16T11:56:19-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
     <lastmod>2023-09-16T11:56:19-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/new-american/the-river-cafe/</loc>
