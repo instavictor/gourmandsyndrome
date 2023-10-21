@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/chinese/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Knock Knock</title>
+      <link>https://www.gourmandsyndrome.com/nyc/chinese/knock-knock/</link>
+      <pubDate>Sun, 15 Oct 2023 15:17:17 -0400</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/nyc/chinese/knock-knock/</guid>
+      <description>Knock Knock is a nearby neighborhood cafe that has a mix of Cantonese-style dishes. The decor and the style of the food reminds me a bit of the San Gabriel Valley in Southern California, where there are a lot of small cafe shops opening serving quick eats. My cousin had visited this a few weeks ago for breakfast, and they said they were pleasantly surprised at the coffee. That was a catalyst for us to check this place out to see how its actual food was.</description>
+    </item>
+    
+    <item>
       <title>Four Four South Village</title>
       <link>https://www.gourmandsyndrome.com/nyc/chinese/four-four-south-village/</link>
       <pubDate>Mon, 31 Jul 2023 12:53:30 -0400</pubDate>
@@ -243,15 +252,6 @@ Nothing to write home about, but the food was good for what we ordered. Note tha
       
       <guid>https://www.gourmandsyndrome.com/nyc/chinese/noodle-king-of-nyc/</guid>
       <description>Decent noodles. Cheap. Tastes kind of homely.</description>
-    </item>
-    
-    <item>
-      <title>Hot Box</title>
-      <link>https://www.gourmandsyndrome.com/nyc/chinese/hot-box/</link>
-      <pubDate>Sun, 09 Sep 2018 22:46:41 -0400</pubDate>
-      
-      <guid>https://www.gourmandsyndrome.com/nyc/chinese/hot-box/</guid>
-      <description>Decent personalized hotpot place. Similar to Boiling Point.</description>
     </item>
     
   </channel>
