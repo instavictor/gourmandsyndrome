@@ -2,28 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2023-10-15T15:17:17-04:00</lastmod>
+    <loc>https://www.gourmandsyndrome.com/nyc/chinese/din-soup-dumplings/</loc>
+    <lastmod>2023-10-27T15:48:32-04:00</lastmod>
   </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/chinese/knock-knock/</loc>
-    <lastmod>2023-10-15T15:17:17-04:00</lastmod>
+    <loc>https://www.gourmandsyndrome.com/</loc>
+    <lastmod>2023-10-27T15:48:32-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2023-10-15T15:17:17-04:00</lastmod>
+    <lastmod>2023-10-27T15:48:32-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2023-10-15T15:17:17-04:00</lastmod>
+    <lastmod>2023-10-27T15:48:32-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2023-10-15T15:17:17-04:00</lastmod>
+    <lastmod>2023-10-27T15:48:32-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2023-10-15T15:17:17-04:00</lastmod>
+    <lastmod>2023-10-27T15:48:32-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2023-10-15T15:17:17-04:00</lastmod>
+    <lastmod>2023-10-27T15:48:32-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2023-10-27T15:48:32-04:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/chinese/knock-knock/</loc>
     <lastmod>2023-10-15T15:17:17-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/seafood/lure-fishbar/</loc>
@@ -2153,6 +2156,8 @@
     <loc>https://www.gourmandsyndrome.com/lax/cuisine/british/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/borough/brooklyn/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/brooklyn-heights/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/brunch/</loc>
   </url><url>
