@@ -6,7 +6,7 @@
     <description>Recent content in Ca/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Dec 2023 15:50:12 -0500</lastBuildDate><atom:link href="https://www.gourmandsyndrome.com/ca/cuisine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Dec 2023 15:35:52 -0500</lastBuildDate><atom:link href="https://www.gourmandsyndrome.com/ca/cuisine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baked Alaska</title>
       <link>https://www.gourmandsyndrome.com/ca/cuisine/baked-alaska/</link>
@@ -22,6 +22,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.gourmandsyndrome.com/ca/cuisine/bars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seafood</title>
+      <link>https://www.gourmandsyndrome.com/ca/cuisine/seafood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.gourmandsyndrome.com/ca/cuisine/seafood/</guid>
       <description></description>
     </item>
     
