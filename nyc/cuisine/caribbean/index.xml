@@ -5,15 +5,14 @@
     <link>https://www.gourmandsyndrome.com/nyc/cuisine/caribbean/</link>
     <description>Recent content in Caribbean on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/caribbean/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/caribbean/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pearls</title>
       <link>https://www.gourmandsyndrome.com/nyc/caribbean/pearls/</link>
       <pubDate>Sun, 09 Sep 2018 22:18:43 -0400</pubDate>
-      
       <guid>https://www.gourmandsyndrome.com/nyc/caribbean/pearls/</guid>
       <description>Caribbean &amp;ldquo;pita&amp;rdquo; pocket stuff is pretty good. The chips with guac and shrimp +1.</description>
     </item>
-    
   </channel>
 </rss>

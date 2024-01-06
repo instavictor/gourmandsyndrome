@@ -3,24 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.gourmandsyndrome.com/locale/ca/</loc>
-    <lastmod>2023-12-26T15:35:52-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/ca/borough/</loc>
-    <lastmod>2023-12-26T15:35:52-05:00</lastmod>
+    <lastmod>2023-12-27T15:59:17-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/ca/cuisine/</loc>
-    <lastmod>2023-12-26T15:35:52-05:00</lastmod>
+    <lastmod>2023-12-27T15:59:17-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/ca/neighborhood/</loc>
+    <lastmod>2023-12-27T15:59:17-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/ca/</loc>
-    <lastmod>2023-12-26T15:35:52-05:00</lastmod>
+    <lastmod>2023-12-27T15:59:17-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/ca/don-alfonso-1890/</loc>
+    <lastmod>2023-12-27T15:59:17-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2023-12-26T15:35:52-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/ca/harbour-60/</loc>
-    <lastmod>2023-12-26T15:35:52-05:00</lastmod>
+    <lastmod>2023-12-27T15:59:17-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/locale/</loc>
+    <lastmod>2023-12-27T15:59:17-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/ca/harbour-60/</loc>
     <lastmod>2023-12-26T15:35:52-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/ca/louix-louis/</loc>
@@ -362,13 +365,13 @@
     <loc>https://www.gourmandsyndrome.com/locale/sea/</loc>
     <lastmod>2022-07-15T13:28:05-04:00</lastmod>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/sea/</loc>
+    <lastmod>2022-07-15T13:28:05-04:00</lastmod>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/sea/cuisine/</loc>
     <lastmod>2022-07-15T13:28:05-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/sea/neighborhood/</loc>
-    <lastmod>2022-07-15T13:28:05-04:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/sea/</loc>
     <lastmod>2022-07-15T13:28:05-04:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/sea/new-american/the-george/</loc>
@@ -2374,6 +2377,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/mco/cuisine/italian/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/ca/cuisine/italian/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/izakaya/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/jackson-heights/</loc>
@@ -2454,6 +2459,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/cuisine/michelin-1/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/ca/cuisine/michelin-1/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/michelin-2/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/cuisine/michelin-2/</loc>
@@ -2469,6 +2476,8 @@
     <loc>https://www.gourmandsyndrome.com/lax/cuisine/michelin-star/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/chi/cuisine/michelin-star/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/ca/cuisine/michelin-star/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/middle-eastern/</loc>
   </url><url>
@@ -2656,6 +2665,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/chi/cuisine/tastings/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/ca/cuisine/tastings/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/tea-rooms/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/tempura/</loc>
@@ -2668,7 +2679,7 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/times-square/</loc>
   </url><url>
-    <loc>https://www.gourmandsyndrome.com/ca/borough/toronto/</loc>
+    <loc>https://www.gourmandsyndrome.com/ca/neighborhood/toronto/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/lax/neighborhood/torrance/</loc>
   </url><url>
