@@ -3,24 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.gourmandsyndrome.com/locale/ca/</loc>
-    <lastmod>2023-12-27T15:59:17-05:00</lastmod>
+    <lastmod>2023-12-28T16:40:56-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/ca/cuisine/</loc>
-    <lastmod>2023-12-27T15:59:17-05:00</lastmod>
+    <lastmod>2023-12-28T16:40:56-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/ca/</loc>
+    <lastmod>2023-12-28T16:40:56-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/</loc>
+    <lastmod>2023-12-28T16:40:56-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/locale/</loc>
+    <lastmod>2023-12-28T16:40:56-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/ca/ma-poule-mouillee/</loc>
+    <lastmod>2023-12-28T16:40:56-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/ca/neighborhood/</loc>
     <lastmod>2023-12-27T15:59:17-05:00</lastmod>
   </url><url>
-    <loc>https://www.gourmandsyndrome.com/ca/</loc>
-    <lastmod>2023-12-27T15:59:17-05:00</lastmod>
-  </url><url>
     <loc>https://www.gourmandsyndrome.com/ca/don-alfonso-1890/</loc>
-    <lastmod>2023-12-27T15:59:17-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2023-12-27T15:59:17-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/locale/</loc>
     <lastmod>2023-12-27T15:59:17-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/ca/harbour-60/</loc>
@@ -2223,6 +2226,8 @@
   </url><url>
     <loc>https://www.gourmandsyndrome.com/anc/cuisine/cajun/</loc>
   </url><url>
+    <loc>https://www.gourmandsyndrome.com/ca/cuisine/canadian/</loc>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/caribbean/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/carroll-gardens/</loc>
@@ -2234,6 +2239,8 @@
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/cheese/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/chelsea/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/ca/cuisine/chicken/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/chinatown/</loc>
   </url><url>
@@ -2546,6 +2553,8 @@
     <loc>https://www.gourmandsyndrome.com/haw/cuisine/poke/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/portuguese/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/ca/cuisine/portuguese/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/pre-theater/</loc>
   </url><url>

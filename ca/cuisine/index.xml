@@ -6,7 +6,7 @@
     <description>Recent content in Ca/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Dec 2023 15:59:17 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 28 Dec 2023 16:40:56 -0500</lastBuildDate>
     <atom:link href="https://www.gourmandsyndrome.com/ca/cuisine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baked Alaska</title>
@@ -20,6 +20,20 @@
       <link>https://www.gourmandsyndrome.com/ca/cuisine/bars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.gourmandsyndrome.com/ca/cuisine/bars/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Canadian</title>
+      <link>https://www.gourmandsyndrome.com/ca/cuisine/canadian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.gourmandsyndrome.com/ca/cuisine/canadian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chicken</title>
+      <link>https://www.gourmandsyndrome.com/ca/cuisine/chicken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.gourmandsyndrome.com/ca/cuisine/chicken/</guid>
       <description></description>
     </item>
     <item>
@@ -41,6 +55,13 @@
       <link>https://www.gourmandsyndrome.com/ca/cuisine/michelin-star/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.gourmandsyndrome.com/ca/cuisine/michelin-star/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portuguese</title>
+      <link>https://www.gourmandsyndrome.com/ca/cuisine/portuguese/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.gourmandsyndrome.com/ca/cuisine/portuguese/</guid>
       <description></description>
     </item>
     <item>
