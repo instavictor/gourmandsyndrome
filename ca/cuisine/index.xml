@@ -6,7 +6,7 @@
     <description>Recent content in Ca/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Dec 2023 16:40:56 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 29 Dec 2023 16:20:14 -0500</lastBuildDate>
     <atom:link href="https://www.gourmandsyndrome.com/ca/cuisine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baked Alaska</title>
@@ -34,6 +34,13 @@
       <link>https://www.gourmandsyndrome.com/ca/cuisine/chicken/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.gourmandsyndrome.com/ca/cuisine/chicken/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>French</title>
+      <link>https://www.gourmandsyndrome.com/ca/cuisine/french/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.gourmandsyndrome.com/ca/cuisine/french/</guid>
       <description></description>
     </item>
     <item>
