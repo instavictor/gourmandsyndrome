@@ -6,8 +6,15 @@
     <description>Recent content on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Jan 2024 17:33:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 21:01:04 -0500</lastBuildDate>
     <atom:link href="https://www.gourmandsyndrome.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Osteria Morini</title>
+      <link>https://www.gourmandsyndrome.com/nyc/italian/osteria-morini/</link>
+      <pubDate>Fri, 19 Jan 2024 21:01:04 -0500</pubDate>
+      <guid>https://www.gourmandsyndrome.com/nyc/italian/osteria-morini/</guid>
+      <description>The nice part about Manhattan is you can always find something and somewhere to eat, no matter where you are in the city. On this brisk, cold night, my partner was running errands in Soho, so I was tasked with looking up something. Of course, it takes me about 30 minutes to find something, and Osteria Morini is what we ended up on. Even though they had restaurant week menus, we decided to just order off the regular menu.</description>
+    </item>
     <item>
       <title>Brasserie VietNam</title>
       <link>https://www.gourmandsyndrome.com/nyc/vietnamese/brasserie-vietnam/</link>
@@ -175,13 +182,6 @@
       <pubDate>Fri, 22 Sep 2023 13:37:57 -0400</pubDate>
       <guid>https://www.gourmandsyndrome.com/nyc/persian/nasrins-kitchen/</guid>
       <description>We decided to checkout a Persian restaurant, that is somewhat close to Central Park and within walkable distance from my work. This is a new restaurant that has been opened for around 3+ months already. In Los Angeles, they have their share of Persian, so it&amp;rsquo;d be interesting to see how does NYC fare for this cuisine. The restaurant entrance is a little discreet. The door leads to the second floor which is where the restaurant sits.</description>
-    </item>
-    <item>
-      <title>The River Cafe</title>
-      <link>https://www.gourmandsyndrome.com/nyc/new-american/the-river-cafe/</link>
-      <pubDate>Fri, 15 Sep 2023 12:04:40 -0400</pubDate>
-      <guid>https://www.gourmandsyndrome.com/nyc/new-american/the-river-cafe/</guid>
-      <description>We finally made it to The River Cafe, which was a restaurant we wanted to go for a while. This restaurant sits right next to the East River, right under the Brooklyn Bridge. We made a reservation for a table of 7 at 5 PM on a Friday night. The dinner consists of primarily 3 courses, which has a fixed price of $195.&#xA;The River Cafe has 1 Michelin Star and first received it in 2010.</description>
     </item>
   </channel>
 </rss>

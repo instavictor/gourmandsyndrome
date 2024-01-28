@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="https://www.gourmandsyndrome.com/nyc/borough/manhattan/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Osteria Morini</title>
+      <link>https://www.gourmandsyndrome.com/nyc/italian/osteria-morini/</link>
+      <pubDate>Fri, 19 Jan 2024 21:01:04 -0500</pubDate>
+      <guid>https://www.gourmandsyndrome.com/nyc/italian/osteria-morini/</guid>
+      <description>The nice part about Manhattan is you can always find something and somewhere to eat, no matter where you are in the city. On this brisk, cold night, my partner was running errands in Soho, so I was tasked with looking up something. Of course, it takes me about 30 minutes to find something, and Osteria Morini is what we ended up on. Even though they had restaurant week menus, we decided to just order off the regular menu.</description>
+    </item>
+    <item>
       <title>Brasserie VietNam</title>
       <link>https://www.gourmandsyndrome.com/nyc/vietnamese/brasserie-vietnam/</link>
       <pubDate>Fri, 12 Jan 2024 17:33:00 -0500</pubDate>
@@ -174,13 +181,6 @@
       <pubDate>Fri, 21 Jul 2023 22:44:28 -0400</pubDate>
       <guid>https://www.gourmandsyndrome.com/nyc/thai/pranakhon/</guid>
       <description>We&amp;rsquo;ve recently been on a Thai binge trying different regional Thai foods ranging from southern to northern. I&amp;rsquo;m finding that northern Thai food tends to be a bit too spicy and too sweet for me, although the tastes are sure to accentuate those who need such bold flavors. This restaurant has recently been acknowledged by Michelin guide and is located near NYU around Union Square. We were able to walk in without reservations at around 5 PM on a Friday night, though they said our meal was limited to 90 minutes.</description>
-    </item>
-    <item>
-      <title>Chalong</title>
-      <link>https://www.gourmandsyndrome.com/nyc/thai/chalong/</link>
-      <pubDate>Fri, 07 Jul 2023 19:25:12 -0400</pubDate>
-      <guid>https://www.gourmandsyndrome.com/nyc/thai/chalong/</guid>
-      <description>We had a show to go to around 43rd and 9th Ave, so we decided to look around the Hell&amp;rsquo;s Kitchen area. In this area from my research, there seems to be some pretty good Thai restaurants that have been here for a bit or are opening up. We had recently gone to LumLum, which focused on more Northern Thai cuisine. Here in Chalong which is on 9th Ave between 51st and 52nd, they are focused on more Southern Thai.</description>
     </item>
   </channel>
 </rss>
