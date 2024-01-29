@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-east/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>The Grill</title>
+      <link>https://www.gourmandsyndrome.com/nyc/steak/the-grill/</link>
+      <pubDate>Fri, 26 Jan 2024 21:48:36 -0500</pubDate>
+      <guid>https://www.gourmandsyndrome.com/nyc/steak/the-grill/</guid>
+      <description>The Grill was always something on my bucket list not only for a prime rib trolley, but also for Baked Alaska, my favorite dessert. Every place makes this different, so it&amp;rsquo;s fun to see different interpretations. In addition, this restaurant has always been difficult to get reservations timely, so we were able to book this a few weeks out for 5:30 PM on a Friday evening. The restaurant is located in the Seagram building, and the entrance is located off of 52nd St.</description>
+    </item>
+    <item>
       <title>Olle</title>
       <link>https://www.gourmandsyndrome.com/nyc/korean/olle/</link>
       <pubDate>Wed, 13 Dec 2023 20:49:29 -0500</pubDate>
@@ -174,13 +181,6 @@
       <pubDate>Sun, 16 Sep 2018 21:56:20 -0400</pubDate>
       <guid>https://www.gourmandsyndrome.com/nyc/steak/american-cut/</guid>
       <description>Decent for the price. This is Marc Forgione&amp;rsquo;s steak house.</description>
-    </item>
-    <item>
-      <title>212 Steakhouse</title>
-      <link>https://www.gourmandsyndrome.com/nyc/steak/212-steakhouse/</link>
-      <pubDate>Sun, 16 Sep 2018 21:54:49 -0400</pubDate>
-      <guid>https://www.gourmandsyndrome.com/nyc/steak/212-steakhouse/</guid>
-      <description>Ok, this place is the only legit place in NYC that has real kobe certified beef from Japan. It was delicious and cheap&amp;hellip; with the groupon.</description>
     </item>
   </channel>
 </rss>

@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="https://www.gourmandsyndrome.com/nyc/borough/manhattan/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>The Grill</title>
+      <link>https://www.gourmandsyndrome.com/nyc/steak/the-grill/</link>
+      <pubDate>Fri, 26 Jan 2024 21:48:36 -0500</pubDate>
+      <guid>https://www.gourmandsyndrome.com/nyc/steak/the-grill/</guid>
+      <description>The Grill was always something on my bucket list not only for a prime rib trolley, but also for Baked Alaska, my favorite dessert. Every place makes this different, so it&amp;rsquo;s fun to see different interpretations. In addition, this restaurant has always been difficult to get reservations timely, so we were able to book this a few weeks out for 5:30 PM on a Friday evening. The restaurant is located in the Seagram building, and the entrance is located off of 52nd St.</description>
+    </item>
+    <item>
       <title>Osteria Morini</title>
       <link>https://www.gourmandsyndrome.com/nyc/italian/osteria-morini/</link>
       <pubDate>Fri, 19 Jan 2024 21:01:04 -0500</pubDate>
@@ -174,13 +181,6 @@
       <pubDate>Sat, 22 Jul 2023 18:03:04 -0400</pubDate>
       <guid>https://www.gourmandsyndrome.com/nyc/italian/giardino-54/</guid>
       <description>We were near Broadway and 50th to watch the Back to the Future musical, which was actually surprisingly good. After, we had wanted Thai food, but the restaurant was closed briefly. My partner didn&amp;rsquo;t use the restrooms at the theater, so I scrambled for another option that had a restroom and found this restaurant off of 54th. We were able to walk in without reservations for 2 at around 5:30 PM on a Saturday night.</description>
-    </item>
-    <item>
-      <title>Pranakhon</title>
-      <link>https://www.gourmandsyndrome.com/nyc/thai/pranakhon/</link>
-      <pubDate>Fri, 21 Jul 2023 22:44:28 -0400</pubDate>
-      <guid>https://www.gourmandsyndrome.com/nyc/thai/pranakhon/</guid>
-      <description>We&amp;rsquo;ve recently been on a Thai binge trying different regional Thai foods ranging from southern to northern. I&amp;rsquo;m finding that northern Thai food tends to be a bit too spicy and too sweet for me, although the tastes are sure to accentuate those who need such bold flavors. This restaurant has recently been acknowledged by Michelin guide and is located near NYU around Union Square. We were able to walk in without reservations at around 5 PM on a Friday night, though they said our meal was limited to 90 minutes.</description>
     </item>
   </channel>
 </rss>
