@@ -6,7 +6,7 @@
     <description>Recent content in Nyc/Cuisine on Gourmand Syndrome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Feb 2024 14:48:41 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 15:46:02 -0500</lastBuildDate>
     <atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Afghan</title>
@@ -142,6 +142,13 @@
       <description></description>
     </item>
     <item>
+      <title>Contemporary</title>
+      <link>https://www.gourmandsyndrome.com/nyc/cuisine/contemporary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/contemporary/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Cuban</title>
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/cuban/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -174,13 +181,6 @@
       <link>https://www.gourmandsyndrome.com/nyc/cuisine/donuts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.gourmandsyndrome.com/nyc/cuisine/donuts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fondue</title>
-      <link>https://www.gourmandsyndrome.com/nyc/cuisine/fondue/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.gourmandsyndrome.com/nyc/cuisine/fondue/</guid>
       <description></description>
     </item>
   </channel>

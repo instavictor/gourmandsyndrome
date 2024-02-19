@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/french/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Frevo</title>
+      <link>https://www.gourmandsyndrome.com/nyc/contemporary/frevo/</link>
+      <pubDate>Sat, 17 Feb 2024 15:46:02 -0500</pubDate>
+      <guid>https://www.gourmandsyndrome.com/nyc/contemporary/frevo/</guid>
+      <description>Frevo was a restaurant that has been on my partner&amp;rsquo;s list for some time. When we went to Atomix Bar, the chef had also highly recommended the restaurant. The head chef Franco Sampogna is Brazilian and comes from the region that my partner is from. The entrance to the restaurant has a very tiny art gallery, and it&amp;rsquo;s been recognized on the Michelin Guide with 1 star. We were able to reserve this a few weeks back without any issues.</description>
+    </item>
+    <item>
       <title>Le Rock</title>
       <link>https://www.gourmandsyndrome.com/nyc/french/le-rock/</link>
       <pubDate>Fri, 24 Feb 2023 21:30:43 -0500</pubDate>
@@ -174,13 +181,6 @@
       <pubDate>Sat, 15 Sep 2018 15:01:41 -0400</pubDate>
       <guid>https://www.gourmandsyndrome.com/nyc/french/excuse-my-french/</guid>
       <description>This was pretty good. Definitely would come back here again when craving for duck rillettes and other charcuteries.</description>
-    </item>
-    <item>
-      <title>La Maison Du Croque Monsieur</title>
-      <link>https://www.gourmandsyndrome.com/nyc/french/la-maison-du-croque-monsieur/</link>
-      <pubDate>Sat, 15 Sep 2018 15:00:14 -0400</pubDate>
-      <guid>https://www.gourmandsyndrome.com/nyc/french/la-maison-du-croque-monsieur/</guid>
-      <description>The croque monsieur was mediocre at best.</description>
     </item>
   </channel>
 </rss>
