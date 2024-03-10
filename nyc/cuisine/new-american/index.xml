@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="https://www.gourmandsyndrome.com/nyc/cuisine/new-american/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Monterey</title>
+      <link>https://www.gourmandsyndrome.com/nyc/new-american/monterey/</link>
+      <pubDate>Fri, 08 Mar 2024 19:43:29 -0500</pubDate>
+      <guid>https://www.gourmandsyndrome.com/nyc/new-american/monterey/</guid>
+      <description>This restaurant is a fairly close walk east of Rockafeller Center. I stumbled onto this restaurant as I was looking for something new and solo-friendly for a Saturday. It turns out that this restaurant has a Friday/Saturday prime rib prix-fixe menu, which has my attention. For $65 per person, you get 3 courses: a caesar salad, prime rib with french fries, and a choice of dessert. That doesn&amp;rsquo;t seem like a bad deal to me.</description>
+    </item>
+    <item>
       <title>Bad Roman</title>
       <link>https://www.gourmandsyndrome.com/nyc/new-american/bad-roman/</link>
       <pubDate>Fri, 09 Feb 2024 14:48:41 -0500</pubDate>
@@ -174,13 +181,6 @@
       <pubDate>Sun, 15 Mar 2020 18:50:08 -0400</pubDate>
       <guid>https://www.gourmandsyndrome.com/nyc/new-american/american-brass/</guid>
       <description>Summary This is a restaurant from the same people that brought Maiella. Even though that restaurant was modern Italian, this one was more of a modern French. It sits across the park near the Hunters Point library.&#xA;We came here on a Sunday, prior to the day that New York City had to shutdown dining in restaurants due to the corona virus. Because people weren&amp;rsquo;t really out and about, the restaurant had many empty tables.</description>
-    </item>
-    <item>
-      <title>While We Were Young</title>
-      <link>https://www.gourmandsyndrome.com/nyc/new-american/while-we-were-young/</link>
-      <pubDate>Sat, 11 Jan 2020 21:36:31 -0500</pubDate>
-      <guid>https://www.gourmandsyndrome.com/nyc/new-american/while-we-were-young/</guid>
-      <description>Summary Normally we don&amp;rsquo;t care about brunches, but this restaurant was surprisingly good and not too expensive. Located in West Village near the &amp;ldquo;Friends&amp;rdquo; place and some touristy spots, this is a very quaint and small shop. If I recall, it only has like at most 5 tables with counters spread throughout the place. This place is small, so set your expectations accordingly.&#xA;We ordered a glass of orange juice and a One Night Stand.</description>
     </item>
   </channel>
 </rss>

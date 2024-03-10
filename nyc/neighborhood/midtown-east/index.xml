@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="https://www.gourmandsyndrome.com/nyc/neighborhood/midtown-east/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Monterey</title>
+      <link>https://www.gourmandsyndrome.com/nyc/new-american/monterey/</link>
+      <pubDate>Fri, 08 Mar 2024 19:43:29 -0500</pubDate>
+      <guid>https://www.gourmandsyndrome.com/nyc/new-american/monterey/</guid>
+      <description>This restaurant is a fairly close walk east of Rockafeller Center. I stumbled onto this restaurant as I was looking for something new and solo-friendly for a Saturday. It turns out that this restaurant has a Friday/Saturday prime rib prix-fixe menu, which has my attention. For $65 per person, you get 3 courses: a caesar salad, prime rib with french fries, and a choice of dessert. That doesn&amp;rsquo;t seem like a bad deal to me.</description>
+    </item>
+    <item>
       <title>The Grill</title>
       <link>https://www.gourmandsyndrome.com/nyc/steak/the-grill/</link>
       <pubDate>Fri, 26 Jan 2024 21:48:36 -0500</pubDate>
@@ -174,13 +181,6 @@
       <pubDate>Sun, 16 Sep 2018 21:57:37 -0400</pubDate>
       <guid>https://www.gourmandsyndrome.com/nyc/steak/strip-house/</guid>
       <description>Steak was just OK. Service was slow as hell. Truffle cream of spinach was good.</description>
-    </item>
-    <item>
-      <title>American Cut</title>
-      <link>https://www.gourmandsyndrome.com/nyc/steak/american-cut/</link>
-      <pubDate>Sun, 16 Sep 2018 21:56:20 -0400</pubDate>
-      <guid>https://www.gourmandsyndrome.com/nyc/steak/american-cut/</guid>
-      <description>Decent for the price. This is Marc Forgione&amp;rsquo;s steak house.</description>
     </item>
   </channel>
 </rss>

@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.gourmandsyndrome.com/</loc>
+    <lastmod>2024-03-08T19:43:29-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/locale/</loc>
+    <lastmod>2024-03-08T19:43:29-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/new-american/monterey/</loc>
+    <lastmod>2024-03-08T19:43:29-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
+    <lastmod>2024-03-08T19:43:29-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
+    <lastmod>2024-03-08T19:43:29-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
+    <lastmod>2024-03-08T19:43:29-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
+    <lastmod>2024-03-08T19:43:29-05:00</lastmod>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
+    <lastmod>2024-03-08T19:43:29-05:00</lastmod>
+  </url><url>
     <loc>https://www.gourmandsyndrome.com/friends/bruna/</loc>
     <lastmod>2024-03-02T12:54:32-05:00</lastmod>
   </url><url>
@@ -9,27 +33,6 @@
     <lastmod>2024-03-02T12:54:32-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/friends/</loc>
-    <lastmod>2024-03-02T12:54:32-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/</loc>
-    <lastmod>2024-03-02T12:54:32-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/locale/</loc>
-    <lastmod>2024-03-02T12:54:32-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/locale/nyc/</loc>
-    <lastmod>2024-03-02T12:54:32-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/borough/</loc>
-    <lastmod>2024-03-02T12:54:32-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/</loc>
-    <lastmod>2024-03-02T12:54:32-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/</loc>
-    <lastmod>2024-03-02T12:54:32-05:00</lastmod>
-  </url><url>
-    <loc>https://www.gourmandsyndrome.com/nyc/</loc>
     <lastmod>2024-03-02T12:54:32-05:00</lastmod>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/steak/vinyl-steakhouse/</loc>
@@ -2610,6 +2613,8 @@
     <loc>https://www.gourmandsyndrome.com/ca/cuisine/portuguese/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/cuisine/pre-theater/</loc>
+  </url><url>
+    <loc>https://www.gourmandsyndrome.com/nyc/cuisine/prime-rib/</loc>
   </url><url>
     <loc>https://www.gourmandsyndrome.com/nyc/neighborhood/prospect-heights/</loc>
   </url><url>
