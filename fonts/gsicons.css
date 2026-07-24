@@ -1,0 +1,58 @@
+/* Same custom icon font v4 uses for anything Michelin-branded (the star
+   glyph after a title, the Michelin Guide link icon) — ported verbatim
+   rather than approximated with generic Font Awesome glyphs, so v5 keeps
+   the same Michelin iconography as v4. Linked directly as a static
+   stylesheet (same convention as /lib/fa/css/*.min.css), not run through
+   the rspack pipeline, since rspack's native CSS handling tries to resolve
+   relative url()s as local modules rather than leaving them for the
+   browser to fetch at runtime. */
+@font-face {
+    font-family: "gsicons";
+    src:
+        url("gsicons.eot?kuic2q#iefix") format("embedded-opentype"),
+        url("gsicons.ttf?kuic2q") format("truetype"),
+        url("gsicons.woff?kuic2q") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+i.gsi {
+    font-family: "gsicons" !important;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    display: inline-flex;
+    align-items: center;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+i.gsi.gsi-michelin-star:before {
+    content: "\e901";
+}
+
+i.gsi.gsi-michelin-guide:before {
+    content: "\e900";
+    font-size: 1.2rem;
+}
+
+/* Repeated star icons (badges showing N stars, the facet-nav dropdown's
+   "2 Stars"/"3 Stars" options) otherwise sit flush against each other —
+   only adds space *between* icons, so single-star badges, the Michelin
+   Guide icon, and the space before trailing "Michelin"/"N Stars" text are
+   all untouched (adjacent-sibling selector only ever matches a star that
+   has another star immediately before it). Fixed rem value rather than em,
+   matching the official Michelin Guide's own approach (confirmed from a
+   saved copy of a real restaurant page: `.distinction-icon .michelin-award
+   { margin-right: 2px }`, a fixed pixel gap rather than one that scales
+   with the icon's own font-size) — 0.66-0.78px from the previous em value
+   read as barely-there once the leaking `gap` bugs above were fixed;
+   0.15rem (2.4px) is the smallest deliberately-visible gap across every
+   badge size on this site, from the 10px homepage tile up to the 13px
+   hero/dropdown context. */
+i.gsi.gsi-michelin-star + i.gsi.gsi-michelin-star {
+    margin-left: 0.15rem;
+}
