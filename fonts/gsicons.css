@@ -1,17 +1,18 @@
-/* Same custom icon font v4 uses for anything Michelin-branded (the star
-   glyph after a title, the Michelin Guide link icon) — ported verbatim
-   rather than approximated with generic Font Awesome glyphs, so v5 keeps
-   the same Michelin iconography as v4. Linked directly as a static
-   stylesheet (same convention as /lib/fa/css/*.min.css), not run through
-   the rspack pipeline, since rspack's native CSS handling tries to resolve
-   relative url()s as local modules rather than leaving them for the
-   browser to fetch at runtime. */
+/* Custom icon font for anything Michelin-branded (the star, Bib Gourmand
+   and Michelin Guide link glyphs). Redrawn 2026-10-01 in IcoMoon (code
+   points U+F001 star, U+F002 Bib, U+F000 guide; plain single-colour glyphs,
+   so all three follow CSS `color`) — replaces the v4-era font (in git
+   history before 2026-10-02). Linked directly as a static stylesheet
+   (same convention as /lib/fa/css/*.min.css), not run through the rspack
+   pipeline, since rspack's native CSS handling tries to resolve relative
+   url()s as local modules rather than leaving them for the browser to
+   fetch at runtime. Bump the ?v= query whenever the font files change —
+   they're served at the same paths as the previous font. */
 @font-face {
     font-family: "gsicons";
     src:
-        url("gsicons.eot?kuic2q#iefix") format("embedded-opentype"),
-        url("gsicons.ttf?kuic2q") format("truetype"),
-        url("gsicons.woff?kuic2q") format("woff");
+        url("gsicons.woff?v=20261002") format("woff"),
+        url("gsicons.ttf?v=20261002") format("truetype");
     font-weight: normal;
     font-style: normal;
     font-display: block;
@@ -31,12 +32,15 @@ i.gsi {
 }
 
 i.gsi.gsi-michelin-star:before {
-    content: "\e901";
+    content: "\f001";
+}
+
+i.gsi.gsi-michelin-bib:before {
+    content: "\f002";
 }
 
 i.gsi.gsi-michelin-guide:before {
-    content: "\e900";
-    font-size: 1.2rem;
+    content: "\f000";
 }
 
 /* Repeated star icons (badges showing N stars, the facet-nav dropdown's
